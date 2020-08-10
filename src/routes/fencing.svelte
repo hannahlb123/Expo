@@ -21,7 +21,7 @@ h2 {
 }
 </style>
 
-<h1 class="title">Football</h1>
+<h1 class="title">Fencing</h1>
 <h2 class="subtitle" id="when">When: Thursdays 3:45-5:00 all year round</h2>
 <h2 class="subtitle" id="where">Where: School</h2>
 <p>???</p>
