@@ -22,10 +22,10 @@ h2 {
 </style>
 
 <h1 class="title">Football</h1>
-<h2 class="subtitle" id="when">When: Thursdays 3:45-5:00 all year round</h2>
-<h2 class="subtitle" id="where">Where: School</h2>
-<p>???</p>
+<h2 class="subtitle" id="when">When: Tuesdays 3:30 - 4:30 for trainings and Wednesday afternoons for games. </h2>
+<h2 class="subtitle" id="where">Where: School field for trainings, games are various locations</h2>
+<p>You kick a ball around a field with 11 other players, and you try to get the ball through the two white poles at each end of the field.</p>
 <br>
-<p>Fencing gear will be provided, you need the school sports uniform. The cost is approximetly $15 per week. This is a coaching program only, addition cost for events.</p>
+<p>Uniform will be provided for 1st & 2nd XI. Players need their own mouth guard, boots, shin guards & socks. The cost is $60 per season with extra cost for transport. The 1st XI will go to tournament in winter tournament, which will have extra costs.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are currently closed check back in at the start of term 1.</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed check back in at the start of term 2.</h2>
