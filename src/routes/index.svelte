@@ -99,6 +99,21 @@
   <a href="/gym">
     <button class="button is-info">Gymnastics</button>
   </a>
+  <a href="/hockey">
+    <button class="button is-info">Hockey</button>
+  </a>
+  <a href="/infoot">
+    <button class="button is-info">Indoor Football</button>
+  </a>
+  <a href="/innetball">
+    <button class="button is-info">Indoor Netball</button>
+  </a>
+  <a href="/kick">
+    <button class="button is-info">Kickboxing</button>
+  </a>
+  <a href="/lawn">
+    <button class="button is-info">Lawn Bowls</button>
+  </a>
   <a href="/robotics">
     <button class="button is-warning">Robotics</button>
   </a>

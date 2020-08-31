@@ -21,11 +21,11 @@ h2 {
 }
 </style>
 
-<h1 class="title">Maths Help</h1>
-<h2 class="subtitle" id="when">When: Monday-Thursday 8-8:40 am</h2>
-<h2 class="subtitle" id="where">Where: MX4</h2>
-<p>Maths help is for all year groups, each day there is atleast two maths teachers there who help you with your maths. You can bring along your homework, classwork or extra work. Maths help is for all levels and abilities.</p>
+<h1 class="title">Hockey</h1>
+<h2 class="subtitle" id="when">When: Wednesday afternoons in terms 2 & 3 + a weekly training, trials/fitness in term 1.</h2>
+<h2 class="subtitle" id="where">Where: Trainings at school, games at Nga Puna Wai, Nunweek or Marist.</h2>
+<p>Hockey is a sport where you hit a ball with a stick around a field, trying to score in the goal at each end of the field.</p>
 <br>
-<p>Maths help is free, you will need to bring some maths work, a calculator(if needed for your work) and a pencil case.</p>
+<p>Uniform is provided for the 1st & 2nd XI, other teams need to wear the new spors uniform. The cost is about $50 per person per term plus transport. Registration & Match fees dependent on the team (Between $250 - $350 per team). Girls are expected to play every match (even during holidays when required). 1st & 2nd XI teams attend tournaments during winter tournament week in term 3.</p>
 <br>
-<h2 class="subtitle" id="signUp">No sign up needed, just show up to whatever sessions you like. </h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, check back in at the beginning of the year.</h2>
