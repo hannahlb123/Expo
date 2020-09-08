@@ -29,3 +29,5 @@ h2 {
 <p>You will need your own road bike and helmet, you will need a vest that you MUST wear to and from races.The cost is $35 per term, there are additional costs for attending events and purchasing gear. No experiance is needed, all levels will be catered for.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 1</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Schreures</h2>

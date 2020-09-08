@@ -29,3 +29,5 @@ h2 {
 <p>Fencing gear will be provided, you need the school sports uniform. The cost is approximetly $15 per week. This is a coaching program only, addition cost for events.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are currently closed check back in at the start of term 1.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: ???</h2>

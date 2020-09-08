@@ -29,3 +29,5 @@ h2 {
 <p>There is no cost associated with Kapa Haka, however if you partake in events there may be a cost associated then. 1 single short poi is needed. Kapa Haka is for all years and you do not need to have a Māori background to join. The student leaders for 2020 are Krissy Epton and Ella Newberry. You need enthusiam to perform, learn and share kapa haka skills. There is a maximum of 50 people, and currently there are 30 people in the team </p>
 <br>
 <h2 id="signUp" class="subtitle">Message Miss Herangi-Harrison on teams or email at the beginning of the year.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Herangi-Harrison</h2>

@@ -29,3 +29,5 @@ h2 {
 <p>Basketball singlet is needed, you will need to purchase one at the uniform shop, you also need your own mouthguard. Approximetly $92 to play, $77 for a singlet and extra for school transport is needed. Extra costs if placed into senior A or B team as you will go to tournament in term 3.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: ???</h2>

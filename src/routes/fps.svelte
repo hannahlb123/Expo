@@ -29,3 +29,5 @@ h2 {
 <p>The cost depends on the level of envolvement, it is somewhere around $100-$150. It is welcome to all levels of experience. You will need to bring a pencil case and some sort of notes system.</p>
 <br>
 <h2 class="subtitle" id="signUp">Message Mr Hullen if interested.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Mr Hullen</h2>

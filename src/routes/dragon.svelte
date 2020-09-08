@@ -29,3 +29,5 @@ h2 {
 <p>You will need the school pe top and shorts. The price will be confirmed later on. This is for years 11-13 <b>only</b>. You must be able to swim 50m, and there is a max of 12 people per crew. </p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are currently closed check back in at the start of term 1.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: ???</h2>

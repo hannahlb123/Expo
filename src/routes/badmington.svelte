@@ -29,3 +29,5 @@ h2 {
 <p>Normal school sport t-shirt and shorts, you need your own racquet. It is $25 for both terms, additional cost if you take the school transport. Generally no practises just play the games, however if your team wants a practise it can be arranged.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Waghorn</h2>

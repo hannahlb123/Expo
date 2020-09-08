@@ -27,6 +27,11 @@
     width: 200px;
   }
 
+  #groupsCode {
+    background-color: hsl(171, 100%, 41%);
+    width: 200px;
+  }
+
   button:hover {
     background-color: hsl(0, 0%, 86%);
     color: black;
@@ -56,7 +61,9 @@
 <p id="sportCode">Blue = Sports</p>
 <p id="clubCode">Yellow = Club</p>
 <p id="activityCode">Red = Activity</p>
-<p id="artsCode">Green = Arts groups</p>
+<p id="groupsCode">Turquoise = Groups</p>
+<p id="artsCode">Green = Arts/music</p>
+
 <br>
 <br>
 <div id="buttons">
@@ -141,11 +148,11 @@
   <a href="/treePlanting">
     <button class="button is-danger">Rangi Eco Action</button>
   </a>
-  <a href="/library">
-    <button class="button is-danger">Student Library Team</button>
-  </a>
   <a href="/maths">
     <button class="button is-danger">Maths Help</button>
+  </a>
+  <a href="/library">
+    <button class="button is-primary">Student Library Team</button>
   </a>
   <a href="/resolutions">
     <button class="button is-success">Resolutions</button>

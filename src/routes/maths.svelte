@@ -29,3 +29,5 @@ h2 {
 <p>Maths help is free, you will need to bring some maths work, a calculator(if needed for your work) and a pencil case.</p>
 <br>
 <h2 class="subtitle" id="signUp">No sign up needed, just show up to whatever sessions you like. </h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Lidstone</h2>

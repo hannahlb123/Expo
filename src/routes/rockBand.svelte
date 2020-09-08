@@ -29,3 +29,5 @@ h2 {
 <p>There is no cost assoicated, however you will need your own instruments. You can join at any point in the year. Rock band is for years 9-11. It is run by Mr Kaa. It is a lot of work/effort as they meet everyday week day, however it is a lot of fun and something a bit different for musical students. </p>
 <br>
 <h2 id="signUp" class="subtitle">Messege Mr Kaa on teams to sign up.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Mr Kaa</h2>

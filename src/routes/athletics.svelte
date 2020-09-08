@@ -19,6 +19,7 @@ h2 {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+
 </style>
 
 <h1 class="title">Athletics</h1>
@@ -29,3 +30,6 @@ h2 {
 <p>All uniform/equipment is provided except spikes. The cost is just the entry fee for events which is only for people who choose to compete. Athletes can also consider training with a club outside of school. The school team could be selected for different competitions, although participation is not mandatory</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back at the beggining of term 4 or 1</h2>
+
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Brooks</h2>

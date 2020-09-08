@@ -30,3 +30,5 @@ h2 {
 <p>You will need white cricket pants which can be bought from the school uniform shop. Some cricket gear will be supplied. Twilight costs $15 plus transport, Regional Qualifer is $50 per term, additional costs if qualify for Nationals.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 4</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: ???</h2>

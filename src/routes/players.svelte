@@ -30,3 +30,5 @@ h2 {
 <br>
 <img src="rangi players.jpg" alt="Rangi Players 2020">
 <h2 class="subtitle" id="signUp">Messege or email Mr Thin to join.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Mr Thin</h2>

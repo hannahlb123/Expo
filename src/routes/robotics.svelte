@@ -22,10 +22,12 @@ h2 {
 </style>
 
 <h1 class="title">Robotics</h1>
-<h2 class="subtitle" id="when">When: Monday lunchtimes</h2>
-<h2 class="subtitle" id="where">Where: CH3 (creative hub)</h2>
-<p>Robotics Club lets interested students play with buildable and programmable technology, from Lego EV3s to Arduinos. Students can choose to work on guided projects, something they're interested in, or compete in local and regional robotics competitions.</p>
+<h2 class="subtitle" id="when">When: TBC</h2>
+<h2 class="subtitle" id="where">Where: CH3 (Creative Hub)</h2>
+<p>Robotics Club lets interested students play with buildable and programmable technology, from EV3s to BBC micro:bits. Students can choose to work on guided projects, something they're interested in, or compete in local and regional robotics competitions.</p>
 <br>
-<p>Mr Hullen is in charge, you do not have to own or have any skills to join. To join the club does not cost anything however if you choose to enter in a competion than it may cost money. </p>
+<p>You do not have to own or have any skills to join. To join the club does not cost anything however if you choose to enter in a competion then it may cost money. </p>
 <br>
 <h2 class="subtitle" id="signUp">Messege Mr Hullen if interested.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Mr Hullen</h2>

@@ -30,3 +30,5 @@ h2 {
 <br>
 <img src="library team.jpeg" alt="student library team 2020">
 <h2 id="signUp" class="subtitle">Sign ups are closed for this year. Check back in at the start of next school year to sign up for 2021</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: Ms Milward</h2>

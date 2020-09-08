@@ -29,3 +29,5 @@ h2 {
 <p>Normal school sport t-shirt and shorts, you need to have played or be playing indoor volleyball. It costs about $30 per term as well as transport.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
+">Leader: ???</h2>
