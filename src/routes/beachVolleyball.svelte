@@ -4,10 +4,9 @@ h1 {
     font-size: 50px;
 }
 
-h2 {
+h2, p {
     text-align: center;
 }
-
 #when {
     color: hsl(204, 86%, 53%);
 }
