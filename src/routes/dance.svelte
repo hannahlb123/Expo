@@ -27,7 +27,7 @@ img{
 </style>
 
 <h1 class="title">Dance</h1>
-<h2 class="subtitle" id="when">When: One of twice before school</h2>
+<h2 class="subtitle" id="when">When: Once or twice a week before school</h2>
 <h2 class="subtitle" id="where">Where: Dance studio</h2>
 <p><b>Elite Dance Company, Senior Dance Company, Junior Dance Company, Year 7/8 Dance Company</b></p>
 <br>

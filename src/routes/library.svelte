@@ -19,6 +19,12 @@ h2 {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+
+img{
+    height: 300px;
+    height: auto;
+    text-align: center;
+}
 </style>
 
 <h1 class="title">Student Library Team</h1>
