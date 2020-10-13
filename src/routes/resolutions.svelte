@@ -32,11 +32,11 @@ img {
 <h2 class="subtitle" id="where">Where: Music Block</h2>
 <p>Enjoy singing a wide variety of music together and working hard to prepare performances of a very high standard to audiences in the Rangi, Christchurch and NZ community.</p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p><b>This is for years 11-13 only.</b>You need to love to sing, be willing to work hard with a fantastic group of like minded young women, and to be a member of Resolutions for the entire year. An ability to read music is useful, but NOT essential. Singing lessons also useful, but NOT essential. You do not need to have been in Rangi Voices in Years 7-10 to audition, but it is a help if you have been. The cost is round $560 per year for travel to Big Sing Nationals if selected and uniform hire. There is a maximum of 30 people who can join.</p>
 <br>
-<img src="sinfonia1.jpeg" alt="Tree Planting at Rangi Ruru">
-<img src="sinfonia2.jpeg" alt="Tree Planting event">
-<img src="sinfonia3.jpeg" alt="Sinfonia practise on camp">
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<img src="Resolutions1.jpg" alt="">
+<img src="Resolutions2.jpeg" alt="Big Sing Nationals 2020">
+<img src="Resolutions3 .jpg" alt="">
+<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 1st of Janurary at the begining of each year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Mrs Charlton</h2>
