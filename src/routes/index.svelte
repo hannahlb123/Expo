@@ -57,6 +57,8 @@
 </h2>
 <p>All sport is for years 9-13 unless said otherwise</p>
 <br>
+<p>If you have any questions about the club messege the leader on teams</p>
+<br>
 <br>
 <p id="sportCode">Blue = Sports</p>
 <p id="clubCode">Yellow = Club</p>
@@ -127,9 +129,6 @@
   <a href="/creativeWriting">
     <button class="button is-warning">Creative Writing</button>
   </a>
-  <a href="/chess">
-    <button class="button is-warning">Chess</button>
-  </a>
   <a href="/dramaClub">
     <button class="button is-warning">Drama Club</button>
   </a>
@@ -170,7 +169,7 @@
     <button class="button is-success">Rangi Voices</button>
   </a>
   <a href="/sinfonia">
-    <button class="button is-success">Sinfonia</button>
+    <button class="button is-success">Rangi Sinfonia</button>
   </a>
   <a href="/jazzBand">
     <button class="button is-success">Jazz Band</button>
