@@ -4,7 +4,7 @@ h1 {
     font-size: 50px;
 }
 
-h2 {
+h2, p {
     text-align: center;
 }
 
