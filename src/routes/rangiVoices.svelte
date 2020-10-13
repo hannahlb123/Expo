@@ -20,6 +20,11 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
+img {
+  width: 40%;
+  height: auto;
+}
+
 
 </style>
 
@@ -30,6 +35,8 @@ h2, p {
 <br>
 <p>They need to enjoy singing together and learn about what it means to be a positive and contributing member of a choir. It is not necessary to have singing lessons or necessary to be able to read music, it is an advantage though.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up for 2021 by 2/5/21</h2>
+<img src="RangiVoices1.jpeg" alt="">
+<img src="RangiVoices2.jpeg" alt="">
+<h2 class="subtitle" id="signUp">Sign up for 2021 by 5th of Feburary</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Charlton</h2>
