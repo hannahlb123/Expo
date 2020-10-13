@@ -123,6 +123,9 @@
   <a href="/lawn">
     <button class="button is-info">Lawn Bowls</button>
   </a>
+  <a href="/fitness">
+    <button class="button is-info">Fitness Centre</button>
+  </a>
   <a href="/robotics">
     <button class="button is-warning">Robotics</button>
   </a>
@@ -143,6 +146,12 @@
   </a>
   <a href="/rainbow">
     <button class="button is-warning">Rainbow Rangi</button>
+  </a>
+  <a href="/environment">
+    <button class="button is-warning">Environment Club</button>
+  </a>
+  <a href="/chapel">
+    <button class="button is-warning">Chapel Committee</button>
   </a>
   <a href="/treePlanting">
     <button class="button is-danger">Rangi Eco Action</button>
@@ -181,8 +190,12 @@
     <button class="button is-success">Dance Company</button>
   </a>
   <a href="/art">
-    <button class="button is-success">Art Extension Class</button>
+    <button class="button is-success">Art Extension Club</button>
   </a>
+  <a href="/chamber">
+    <button class="button is-success">Chamber Music</button>
+  </a>
+
 
 </div>
 <br />
