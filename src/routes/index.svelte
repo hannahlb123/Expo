@@ -1,37 +1,4 @@
-<script>
-
-</script>
-
 <style>
-  #sportCode {
-    background-color: hsl(204, 86%, 53%);
-    color: black;
-    width: 200px;
-  }
-
-  #clubCode {
-    background-color: hsl(48, 100%, 67%);
-    color: black;
-    width: 200px;
-  }
-
-  #activityCode {
-    background-color: hsl(348, 100%, 61%);
-    color: black;
-    width: 200px;
-  }
-
-  #artsCode {
-    background-color: hsl(141, 53%, 53%);
-    color: black;
-    width: 200px;
-  }
-
-  #groupsCode {
-    background-color: hsl(171, 100%, 41%);
-    width: 200px;
-  }
-
   button:hover {
     background-color: hsl(0, 0%, 86%);
     color: black;
@@ -60,62 +27,16 @@
 <p>If you have any questions about the club messege the leader on teams</p>
 <br>
 <br>
-<p id="sportCode">Blue = Sports</p>
-<p id="clubCode">Yellow = Club</p>
-<p id="activityCode">Red = Activity</p>
-<p id="groupsCode">Turquoise = Groups</p>
-<p id="artsCode">Green = Arts/music</p>
 
-<br>
-<br>
-<div id="buttons">
-  <a href="/athletics">
-    <button class="button is-info">Athletics</button>
+<div id="nav">
+  <a href="/SPORTS">
+    <button class="button is-info">Sports</button>
   </a>
-  <a href="/badmington">
-    <button class="button is-info">Badmington</button>
+  <a href="/CLUBS">
+    <button class="button is-warning">Clubs</button>
   </a>
-  <a href="/basketball">
-    <button class="button is-info">Basketball</button>
-  </a>
-  <a href="/beachVolleyball">
-    <button class="button is-info">Beach Volleyball</button>
-  </a>
-  <a href="/cricket">
-    <button class="button is-info">Cricket</button>
-  </a>
-  <a href="/crossCountry">
-    <button class="button is-info">Cross Country Running</button>
-  </a>
-  <a href="/cycling">
-    <button class="button is-info">Cycling</button>
-  </a>
-  <a href="/dragon">
-  <button class="button is-info">Dragon Boating</button>
-  </a>
-  <a href="/equestrian">
-    <button class="button is-info">Equestrian</button>
-  </a>
-  <a href="/fencing">
-    <button class="button is-info">Fencing</button>
-  </a>
-  <a href="/football">
-    <button class="button is-info">Football</button>
-  </a>
-  <a href="/futsul">
-    <button class="button is-info">Futsal</button>
-  </a>
-  <a href="/gym">
-    <button class="button is-info">Gymnastics</button>
-  </a>
-  <a href="/hockey">
-    <button class="button is-info">Hockey</button>
-  </a>
-  <a href="/infoot">
-    <button class="button is-info">Indoor Football</button>
-  </a>
-  <a href="/innetball">
-    <button class="button is-info">Indoor Netball</button>
+  <a href="/ACTIVITIES">
+    <button class="button is-danger">Activities</button>
   </a>
   <a href="/kick">
     <button class="button is-info">Kickboxing</button>
@@ -243,7 +164,12 @@
   <a href="/chamber">
     <button class="button is-success">Chamber Music</button>
   </a>
-
-
 </div>
-<br />
+
+
+  
+  
+
+
+
+<br/>

@@ -22,8 +22,10 @@ h2, p {
 
 img{
     height: 300px;
-    height: auto;
-    text-align: center;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
 
@@ -35,7 +37,8 @@ img{
 <p>There is no cost associated with the student library team, however you will earn community service hours for your work. You need to love reading; Be comfortable finding your way around the library; Be friendly, positive and polite and enjoy helping students; have good spoken and written English; Comfortable using technology; enjoy change. </p>
 <br>
 
-<img src="library team.jpeg" alt="student library team 2020">
+
 <h2 id="signUp" class="subtitle">Sign ups are closed for this year. Check back in at the start of next school year to sign up for 2021</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Milward</h2>
+<img src="library team.jpeg" alt="student library team 2020">
