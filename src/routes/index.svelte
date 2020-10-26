@@ -123,6 +123,54 @@
   <a href="/lawn">
     <button class="button is-info">Lawn Bowls</button>
   </a>
+  <a href="/life">
+    <button class="button is-info">Life Saving</button>
+  </a>
+  <a href="/metafit">
+    <button class="button is-info">Metafit</button>
+  </a>
+  <a href="/multi">
+    <button class="button is-info">Multisport</button>
+  </a>
+  <a href="/netball">
+    <button class="button is-info">Netball</button>
+  </a>
+  <a href="/rowing">
+    <button class="button is-info">Rowing</button>
+  </a>
+  <a href="/rugby">
+    <button class="button is-info">Rugby</button>
+  </a>
+  <a href="/ski">
+    <button class="button is-info">Ski & Snowboarding</button>
+  </a>
+  <a href="/strength">
+    <button class="button is-info">Strength & Conditioning</button>
+  </a>
+  <a href="/surf">
+    <button class="button is-info">Surfing</button>
+  </a>
+  <a href="/swim">
+    <button class="button is-info">Swimming</button>
+  </a>
+  <a href="/tennis">
+    <button class="button is-info">Tennis</button>
+  </a>
+  <a href="/touch">
+    <button class="button is-info">Touch Rugby</button>
+  </a>
+  <a href="/tramp">
+    <button class="button is-info">Trampolining</button>
+  </a>
+  <a href="/frisbe">
+  <button class="button is-info">Ultimate Frisbe</button>
+  </a>
+  <a href="/volleyball">
+    <button class="button is-info">Volleyball</button>
+  </a>
+  <a href="/waterpolo">
+    <button class="button is-info">Waterpolo</button>
+  </a>
   <a href="/fitness">
     <button class="button is-info">Fitness Centre</button>
   </a>

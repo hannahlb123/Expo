@@ -20,10 +20,7 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-img {
-  width: 40%;
-  height: auto;
-}
+
 
 </style>
 
@@ -34,9 +31,7 @@ img {
 <br>
 <p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
 <br>
-<img src="sinfonia1.jpeg" alt="Tree Planting at Rangi Ruru">
-<img src="sinfonia2.jpeg" alt="Tree Planting event">
-<img src="sinfonia3.jpeg" alt="Sinfonia practise on camp">
+
 <h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Kingsbury</h2>
