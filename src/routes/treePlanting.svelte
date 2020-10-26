@@ -21,8 +21,8 @@ h2, p {
 }
 
 img {
-  width: 40%;
-  height: auto;
+  width: auto;
+  height: 300px;
 }
 
 </style>
