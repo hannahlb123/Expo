@@ -40,11 +40,4 @@
   <a href="/ARTS">
     <button class="button is-success">Arts</button>
   </a>
-<<<<<<< Updated upstream
-
 </div>
-
-<br />
-=======
-</div>
->>>>>>> Stashed changes
