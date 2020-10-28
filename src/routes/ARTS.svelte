@@ -7,6 +7,7 @@
   button {
     margin: 5px;
   }
+  
   h1 {
     text-align: center;
     font-size: 50px;
@@ -15,7 +16,7 @@
 </style>
 
 <div id="buttons">
-
+  <h1 class="title">Arts</h1>
   <a href="/resolutions">
     <button class="button is-success">Resolutions</button>
   </a>

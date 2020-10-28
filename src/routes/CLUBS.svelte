@@ -15,6 +15,7 @@
 </style>
 
 <div id="buttons">
+<h1 class="title">Clubs</h1>
   <a href="/robotics">
     <button class="button is-warning">Robotics</button>
   </a>
