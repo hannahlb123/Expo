@@ -3,7 +3,6 @@
     background-color: hsl(0, 0%, 86%);
     color: black;
   }
-
   button {
     margin: 5px;
   }
@@ -41,7 +40,11 @@
   <a href="/ARTS">
     <button class="button is-success">Arts</button>
   </a>
+<<<<<<< Updated upstream
 
 </div>
 
 <br />
+=======
+</div>
+>>>>>>> Stashed changes
