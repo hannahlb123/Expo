@@ -7,8 +7,13 @@
   button {
     margin: 5px;
   }
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
 </style>
-
+<h1 class="title">Sports</h1>
 <div id="buttons">
   <a href="/athletics">
     <button class="button is-info">Athletics</button>
@@ -63,6 +68,78 @@
   </a>
   <a href="/lawn">
     <button class="button is-info">Lawn Bowls</button>
+  </a>
+  <a href="/life">
+    <button class="button is-info">Life Saving</button>
+  </a>
+  <a href="/metafit">
+    <button class="button is-info">Metafit</button>
+  </a>
+  <a href="/multi">
+    <button class="button is-info">Multisport</button>
+  </a>
+  <a href="/netball">
+    <button class="button is-info">Netball</button>
+  </a>
+  <a href="/rowing">
+    <button class="button is-info">Rowing</button>
+  </a>
+  <a href="/rugby">
+    <button class="button is-info">Rugby</button>
+  </a>
+  <a href="/ski">
+    <button class="button is-info">Ski & Snowboarding</button>
+  </a>
+  <a href="/strength">
+    <button class="button is-info">Strength & Conditioning</button>
+  </a>
+  <a href="/surf">
+    <button class="button is-info">Surfing</button>
+  </a>
+  <a href="/swim">
+    <button class="button is-info">Swimming</button>
+  </a>
+  <a href="/tennis">
+    <button class="button is-info">Tennis</button>
+  </a>
+  <a href="/touch">
+    <button class="button is-info">Touch Rugby</button>
+  </a>
+  <a href="/tramp">
+    <button class="button is-info">Trampolining</button>
+  </a>
+  <a href="/frisbe">
+  <button class="button is-info">Ultimate Frisbe</button>
+  </a>
+  <a href="/volleyball">
+    <button class="button is-info">Volleyball</button>
+  </a>
+  <a href="/waterpolo">
+    <button class="button is-info">Waterpolo</button>
+  </a>
+  <a href="/7touch">
+    <button class="button is-info">7/8 Touch</button>
+  </a>
+  <a href="/7waterpolo">
+    <button class="button is-info">7/8 Waterpolo</button>
+  </a>
+  <a href="/7basketball">
+    <button class="button is-info">7/8 Basketball</button>
+  </a>
+  <a href="/7cycling">
+    <button class="button is-info">7/8 Cycling</button>
+  </a>
+  <a href="/7running">
+    <button class="button is-info">7/8 Running Training</button>
+  </a>
+  <a href="7swim">
+    <button class="button is-info">7/8 Swimming Training</button>
+  </a>
+  <a href="/7tennis">
+    <button class="button is-info">7/8 Tennis Coaching</button>
+  </a>
+  <a href="/7conditioning">
+    <button class="button is-info">7/8 Conditioning</button>
   </a>
   <a href="/fitness">
     <button class="button is-info">Fitness Centre</button>

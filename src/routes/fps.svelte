@@ -2,6 +2,7 @@
 h1 {
     text-align: center;
     font-size: 50px;
+    padding: 10px;
 }
 
 h2, p {

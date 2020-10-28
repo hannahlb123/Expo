@@ -7,8 +7,13 @@
   button {
     margin: 5px;
   }
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
 </style>
-
+<h1 class="title">Activites</h1>
 <div id="buttons">
   <a href="/treePlanting">
     <button class="button is-danger">Rangi Eco Action</button>
@@ -16,4 +21,5 @@
   <a href="/maths">
     <button class="button is-danger">Maths Help</button>
   </a>
+
 </div>

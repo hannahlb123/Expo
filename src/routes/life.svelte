@@ -2,6 +2,7 @@
 h1 {
     text-align: center;
     font-size: 50px;
+    padding: 10px;
 }
 
 h2, p {
@@ -24,14 +25,14 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
-<h2 class="subtitle" id="where">Where: Music Block</h2>
-<p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
+<h1 class="title">Life Saving</h1>
+<h2 class="subtitle" id="when">When: Terms 1 & 4 times TBC</h2>
+<h2 class="subtitle" id="where">Where: Rangi Pool</h2>
+<p>In life saving your learn very important water saftey skills. All girls complete their bronze level badge in year 9. You are then able to conitnue on with life saving to get further badges and learn more through it.</p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p>You need your school navy togs and your clan swimming cap. The cost is for the awards sat.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the begining of the year for term 1, and in term 3 for term 4. </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Ms Joyce</h2>
