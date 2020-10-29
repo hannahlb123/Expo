@@ -1,22 +1,39 @@
 <script>
-	export let segment
+  export let segment;
 </script>
 
 <style>
-	a {
-		border-bottom: 1px solid white;
-	}
+  .navbar {
+    background-color: #3581b8;
+    height: 100px;
+  }
+  .title {
+    line-height: 100px;
+    padding-left: 20px;
+    padding-right: 30px;
+    color: white;
+  }
+  p{
+    color: white;
+    line-height: 100px;
+  }
 
- .is-active {
-	 border-bottom: 1px solid black;
- }
+  .navbar-brand{
+    width: 70px;
+  }
+
+  .navbar-brand:hover{
+    background-color: #D6EDFF;
+    color: #3581b8;
+    transition-duration: 0.4s;
+   }
 </style>
 
 <nav class="navbar">
+  <h1 class="title">Rangi Ruru Co-curricular Activities Expo</h1>
   <div class="navbar-brand">
     <a class="navbar-item" class:is-active={segment === undefined} href=".">
-			home
-		</a>
+      <p>home</p>
+    </a>
   </div>
 </nav>
-
