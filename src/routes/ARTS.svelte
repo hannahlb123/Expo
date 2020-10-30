@@ -6,13 +6,15 @@
 
   button {
     margin: 5px;
+    height: 40px;
+    width: 180px;
   }
-  
+
   h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 </style>
 
 <div id="buttons">

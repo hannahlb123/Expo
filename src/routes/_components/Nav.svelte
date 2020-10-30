@@ -17,6 +17,9 @@
     <a class="navbar-item" class:is-active={segment === undefined} href=".">
 			home
 		</a>
+	<a class="navbar-item" class:is-active={segment === undefined} href="./SPORTS">
+			Sports
+		</a>
   </div>
 </nav>
 

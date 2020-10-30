@@ -6,15 +6,19 @@
 
   button {
     margin: 5px;
+    height: 40px;
+    width: 180px;
   }
   h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 </style>
+
 <h1 class="title">Sports</h1>
-<div id="buttons">
+<h2 class="subtitle">Years 9-13</h2>
+<div id="9buttons">
   <a href="/athletics">
     <button class="button is-info">Athletics</button>
   </a>
@@ -37,7 +41,7 @@
     <button class="button is-info">Cycling</button>
   </a>
   <a href="/dragon">
-  <button class="button is-info">Dragon Boating</button>
+    <button class="button is-info">Dragon Boating</button>
   </a>
   <a href="/equestrian">
     <button class="button is-info">Equestrian</button>
@@ -109,7 +113,7 @@
     <button class="button is-info">Trampolining</button>
   </a>
   <a href="/frisbe">
-  <button class="button is-info">Ultimate Frisbe</button>
+    <button class="button is-info">Ultimate Frisbe</button>
   </a>
   <a href="/volleyball">
     <button class="button is-info">Volleyball</button>
@@ -117,6 +121,14 @@
   <a href="/waterpolo">
     <button class="button is-info">Waterpolo</button>
   </a>
+  <a href="/fitness">
+    <button class="button is-info">Fitness Centre</button>
+  </a>
+</div>
+<br />
+<br />
+<h2 class="subtitle">Years 7 & 8</h2>
+<div id="7buttons">
   <a href="/7touch">
     <button class="button is-info">7/8 Touch</button>
   </a>
@@ -140,8 +152,5 @@
   </a>
   <a href="/7conditioning">
     <button class="button is-info">7/8 Conditioning</button>
-  </a>
-  <a href="/fitness">
-    <button class="button is-info">Fitness Centre</button>
   </a>
 </div>

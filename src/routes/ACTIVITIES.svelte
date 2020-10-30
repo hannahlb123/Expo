@@ -6,13 +6,16 @@
 
   button {
     margin: 5px;
+    height: 40px;
+    width: 180px;
   }
-h1 {
+  h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 </style>
+
 <h1 class="title">Activites</h1>
 <div id="buttons">
   <a href="/treePlanting">

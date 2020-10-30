@@ -25,14 +25,14 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
-<h2 class="subtitle" id="where">Where: Music Block</h2>
-<p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
+<h1 class="title">Rowing</h1>
+<h2 class="subtitle" id="when">When: October-March trainings 3-6 times per week</h2>
+<h2 class="subtitle" id="where">Where: Trainings at Kerrs Reach, Ragattas at various venues. </h2>
+<p>You are in a team of usaully 4 or 8, and you row across a strech of water racing other teams to get to the finish line the fastest. There is someone called a cox, who sits at the front of the back of the boat and encourages the rowers, this is generally someone who is small. </p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p>Rowing is a sport which requeires massive comitment, year 9's are unabel to row in term 1 but can join in term 4. There is a monthley fee of about $750 plus additional costs depending on where nationals takes place. You will need the rangi rowing singlet, navy bike pants, navy socks & navy with old stripe top, you will also need your own bike.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the end of term 3</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Mr van Rossen</h2>

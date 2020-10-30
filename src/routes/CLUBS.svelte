@@ -6,16 +6,18 @@
 
   button {
     margin: 5px;
+    height: 40px;
+    width: 180px;
   }
   h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 </style>
 
 <div id="buttons">
-<h1 class="title">Clubs</h1>
+  <h1 class="title">Clubs</h1>
   <a href="/robotics">
     <button class="button is-warning">Robotics</button>
   </a>
@@ -43,7 +45,7 @@
   <a href="/chapel">
     <button class="button is-warning">Chapel Committee</button>
   </a>
-    <a href="/library">
+  <a href="/library">
     <button class="button is-warning">Student Library Team</button>
   </a>
 </div>

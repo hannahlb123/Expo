@@ -25,12 +25,12 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
-<h2 class="subtitle" id="where">Where: Music Block</h2>
-<p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
+<h1 class="title">Rugby</h1>
+<h2 class="subtitle" id="when">When: Terms 2 & 3: Wednesday games, trainings TBC</h2>
+<h2 class="subtitle" id="where">Where: School or Hagley Park</h2>
+<p>Rugby is a ball sport with 15 players on each team, the aim of the game is to get the ball across the line at the end of the field by tackling people.</p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p>It is important that you show up to all trainings to learn the safe contact techniques. You will need your own boots, shorts, socks and mouthguard. Tops will be provided. The cost is around $40 per season plus transport costs. </p>
 <br>
 
 <h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
