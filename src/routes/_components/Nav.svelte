@@ -16,10 +16,13 @@
   p{
     color: white;
     line-height: 100px;
+    width: 80px;
+    text-align: center;
   }
-
-  
-
+  .navbar-item{
+    width: 80px !important;
+    text-align: center;
+  }
   a:hover{
     background-color: #D6EDFF;
     color: #3581b8;
@@ -29,21 +32,19 @@
 
 <nav class="navbar">
   <h1 class="title">Rangi Ruru Co-curricular Activities Expo</h1>
-  <div class="navbar-brand">
     <a class="navbar-item" class:is-active={segment === undefined} href=".">
       <p>Home</p>
     </a>
-	<a class="navbar-item" class:is-active={segment === undefined} href="./SPORTS">
+	  <a class="navbar-item" class:is-active={segment === undefined} href="./SPORTS">
       <p>Sports</p>
     </a>
-	<a class="navbar-item" class:is-active={segment === undefined} href="./CLUBS">
+	  <a class="navbar-item" class:is-active={segment === undefined} href="./CLUBS">
       <p>Clubs</p>
     </a>
-	<a class="navbar-item" class:is-active={segment === undefined} href="./ACTIVITIES">
+	  <a class="navbar-item" class:is-active={segment === undefined} href="./ACTIVITIES">
       <p>Activites</p>
     </a>
-	<a class="navbar-item" class:is-active={segment === undefined} href="./ARTS">
+	  <a class="navbar-item" class:is-active={segment === undefined} href="./ARTS">
       <p>Arts</p>
     </a>
-  </div>
 </nav>
