@@ -13,6 +13,7 @@
     text-align: center;
     font-size: 50px;
     padding: 10px;
+<<<<<<< Updated upstream
   }
   #blue {
     background-color: #D6EDFF; 
@@ -27,6 +28,10 @@
     border-color: #FEDF72;
     border-radius: 3.5px;
   }
+=======
+    color: #707070;
+}
+>>>>>>> Stashed changes
 </style>
 
 <h1 class="title">Sports</h1>
