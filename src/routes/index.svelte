@@ -27,9 +27,7 @@
   Choose a club/actitivty/sport you would like to sign up for or learn more
   about
 </h2>
-<p>All sport is for years 9-13 unless said otherwise</p>
-<br />
-<p>If you have any questions about the club messege the leader on teams</p>
+<p>If you have any questions message the leader on teams</p>
 <br />
 <br />
 

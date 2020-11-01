@@ -25,8 +25,8 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
+<h1 class="title">Ski & Snowboard</h1>
+<h2 class="subtitle" id="when">When: Events only, mostly term 3</h2>
 <h2 class="subtitle" id="where">Where: Music Block</h2>
 <p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
 <br>

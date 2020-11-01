@@ -30,9 +30,9 @@ h2, p {
 <h2 class="subtitle" id="where">Where: School or Hagley Park</h2>
 <p>Rugby is a ball sport with 15 players on each team, the aim of the game is to get the ball across the line at the end of the field by tackling people.</p>
 <br>
-<p>It is important that you show up to all trainings to learn the safe contact techniques. You will need your own boots, shorts, socks and mouthguard. Tops will be provided. The cost is around $40 per season plus transport costs. </p>
+<p>It is important that you show up to all trainings to learn the safe contact techniques. You will need your own boots, shorts, socks and mouthguard. Tops will be provided. The cost is around $40 per season plus transport costs.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beggining of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Mr Mills</h2>

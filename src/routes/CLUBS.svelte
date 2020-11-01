@@ -14,38 +14,52 @@
     font-size: 50px;
     padding: 10px;
   }
+  #gold {
+
+    background-color: #FEE486; 
+    border: solid 5px;
+    border-color: #FEDF72;
+    border-radius: 3.5px;
+  }
+
+  #blue {
+    background-color: #D6EDFF; 
+    border: solid 5px;
+    border-color: #C2E4FF;
+    border-radius: 3.5px;
+  }
 </style>
 
 <div id="buttons">
   <h1 class="title">Clubs</h1>
-  <a href="/robotics">
-    <button class="button is-warning">Robotics</button>
+  <a href="/chapel">
+    <button id="gold">Chapel Committee</button>
   </a>
   <a href="/creativeWriting">
-    <button class="button is-warning">Creative Writing</button>
-  </a>
-  <a href="/dramaClub">
-    <button class="button is-warning">Drama Club</button>
+    <button id="blue">Creative Writing</button>
   </a>
   <a href="/debating">
-    <button class="button is-warning">Debating</button>
+    <button id="gold">Debating</button>
   </a>
-  <a href="/bookclub">
-    <button class="button is-warning">Junior Bookclub</button>
-  </a>
-  <a href="/fps">
-    <button class="button is-warning">Future Problem Solving</button>
-  </a>
-  <a href="/rainbow">
-    <button class="button is-warning">Rainbow Rangi</button>
+  <a href="/dramaClub">
+    <button id="blue">Drama Club</button>
   </a>
   <a href="/environment">
-    <button class="button is-warning">Environment Club</button>
+    <button id="gold">Environment Club</button>
   </a>
-  <a href="/chapel">
-    <button class="button is-warning">Chapel Committee</button>
+  <a href="/fps">
+    <button id="blue">Future Problem Solving</button>
+  </a>
+  <a href="/bookclub">
+    <button id="gold">Junior Bookclub</button>
+  </a>
+  <a href="/rainbow">
+    <button id="blue">Rainbow Rangi</button>
+  </a>
+  <a href="/robotics">
+    <button id="gold">Robotics</button>
   </a>
   <a href="/library">
-    <button class="button is-warning">Student Library Team</button>
+    <button id="blue">Student Library Team</button>
   </a>
 </div>

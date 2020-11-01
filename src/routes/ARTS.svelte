@@ -15,41 +15,55 @@
     font-size: 50px;
     padding: 10px;
   }
+  #gold {
+
+    background-color: #FEE486; 
+    border: solid 5px;
+    border-color: #FEDF72;
+    border-radius: 3.5px;
+  }
+
+  #blue {
+    background-color: #D6EDFF; 
+    border: solid 5px;
+    border-color: #C2E4FF;
+    border-radius: 3.5px;
+  }
 </style>
 
 <div id="buttons">
   <h1 class="title">Arts</h1>
-  <a href="/resolutions">
-    <button class="button is-success">Resolutions</button>
-  </a>
-  <a href="/players">
-    <button class="button is-success">Rangi Players</button>
-  </a>
-  <a href="/percussion">
-    <button class="button is-success">Percussion Ensemble</button>
-  </a>
-  <a href="/kapahaka">
-    <button class="button is-success">Kapa Haka</button>
-  </a>
-  <a href="/rangiVoices">
-    <button class="button is-success">Rangi Voices</button>
-  </a>
-  <a href="/sinfonia">
-    <button class="button is-success">Rangi Sinfonia</button>
-  </a>
-  <a href="/jazzBand">
-    <button class="button is-success">Jazz Band</button>
-  </a>
-  <a href="/rockBand">
-    <button class="button is-success">Rock Band</button>
-  </a>
-  <a href="/dance">
-    <button class="button is-success">Dance Company</button>
-  </a>
   <a href="/art">
-    <button class="button is-success">Art Extension Club</button>
+    <button id="gold">Art Extension Club</button>
   </a>
   <a href="/chamber">
-    <button class="button is-success">Chamber Music</button>
+    <button id="blue">Chamber Music</button>
+  </a>
+  <a href="/dance">
+    <button id="gold">Dance Company</button>
+  </a>
+  <a href="/jazzBand">
+    <button id="blue">Jazz Band</button>
+  </a>
+  <a href="/kapahaka">
+    <button id="gold">Kapa Haka</button>
+  </a>
+  <a href="/percussion">
+    <button id="blue">Percussion Ensemble</button>
+  </a>
+  <a href="/players">
+    <button id="gold">Rangi Players</button>
+  </a>
+  <a href="/sinfonia">
+    <button id="blue">Rangi Sinfonia</button>
+  </a>
+  <a href="/rangiVoices">
+    <button id="gold">Rangi Voices</button>
+  </a>
+  <a href="/resolutions">
+    <button id="blue">Resolutions</button>
+  </a>
+  <a href="/rockBand">
+    <button id="gold">Rock Band</button>
   </a>
 </div>

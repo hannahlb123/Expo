@@ -14,143 +14,157 @@
     font-size: 50px;
     padding: 10px;
   }
+  #blue {
+    background-color: #D6EDFF; 
+    border: solid 5px;
+    border-color: #C2E4FF;
+    border-radius: 3.5px;
+  }
+
+ #gold {
+    background-color: #FEE486; 
+    border: solid 5px;
+    border-color: #FEDF72;
+    border-radius: 3.5px;
+  }
 </style>
 
 <h1 class="title">Sports</h1>
 <h2 class="subtitle">Years 9-13</h2>
 <div id="9buttons">
   <a href="/athletics">
-    <button class="button is-info">Athletics</button>
+    <button id="gold">Athletics</button>
   </a>
   <a href="/badmington">
-    <button class="button is-info">Badmington</button>
+    <button id="blue">Badmington</button>
   </a>
   <a href="/basketball">
-    <button class="button is-info">Basketball</button>
+    <button id="gold">Basketball</button>
   </a>
   <a href="/beachVolleyball">
-    <button class="button is-info">Beach Volleyball</button>
+    <button id="blue">Beach Volleyball</button>
   </a>
   <a href="/cricket">
-    <button class="button is-info">Cricket</button>
+    <button id="gold">Cricket</button>
   </a>
   <a href="/crossCountry">
-    <button class="button is-info">Cross Country Running</button>
+    <button id="blue">Cross Country Running</button>
   </a>
   <a href="/cycling">
-    <button class="button is-info">Cycling</button>
+    <button id="gold">Cycling</button>
   </a>
   <a href="/dragon">
-    <button class="button is-info">Dragon Boating</button>
+    <button id="blue">Dragon Boating</button>
   </a>
   <a href="/equestrian">
-    <button class="button is-info">Equestrian</button>
+    <button id="gold">Equestrian</button>
   </a>
   <a href="/fencing">
-    <button class="button is-info">Fencing</button>
+    <button id="blue">Fencing</button>
+  </a>
+   <a href="/fitness">
+    <button id="gold">Fitness Centre</button>
   </a>
   <a href="/football">
-    <button class="button is-info">Football</button>
+    <button id="blue">Football</button>
   </a>
   <a href="/futsul">
-    <button class="button is-info">Futsal</button>
+    <button id="gold">Futsal</button>
   </a>
   <a href="/gym">
-    <button class="button is-info">Gymnastics</button>
+    <button id="blue">Gymnastics</button>
   </a>
   <a href="/hockey">
-    <button class="button is-info">Hockey</button>
+    <button id="gold">Hockey</button>
   </a>
   <a href="/infoot">
-    <button class="button is-info">Indoor Football</button>
+    <button id="blue">Indoor Football</button>
   </a>
   <a href="/innetball">
-    <button class="button is-info">Indoor Netball</button>
+    <button id="gold">Indoor Netball</button>
   </a>
   <a href="/kick">
-    <button class="button is-info">Kickboxing</button>
+    <button id="blue">Kickboxing</button>
   </a>
   <a href="/lawn">
-    <button class="button is-info">Lawn Bowls</button>
+    <button id="gold">Lawn Bowls</button>
   </a>
   <a href="/life">
-    <button class="button is-info">Life Saving</button>
+    <button id="blue">Life Saving</button>
   </a>
   <a href="/metafit">
-    <button class="button is-info">Metafit</button>
+    <button id="gold">Metafit</button>
   </a>
   <a href="/multi">
-    <button class="button is-info">Multisport</button>
+    <button id="blue">Multisport</button>
   </a>
   <a href="/netball">
-    <button class="button is-info">Netball</button>
+    <button id="gold">Netball</button>
   </a>
   <a href="/rowing">
-    <button class="button is-info">Rowing</button>
+    <button id="blue">Rowing</button>
   </a>
   <a href="/rugby">
-    <button class="button is-info">Rugby</button>
+    <button id="gold">Rugby</button>
   </a>
   <a href="/ski">
-    <button class="button is-info">Ski & Snowboarding</button>
+    <button id="blue">Ski & Snowboarding</button>
   </a>
   <a href="/strength">
-    <button class="button is-info">Strength & Conditioning</button>
+    <button id="gold">Strength & Conditioning</button>
   </a>
   <a href="/surf">
-    <button class="button is-info">Surfing</button>
+    <button id="blue">Surfing</button>
   </a>
   <a href="/swim">
-    <button class="button is-info">Swimming</button>
+    <button id="gold">Swimming</button>
   </a>
   <a href="/tennis">
-    <button class="button is-info">Tennis</button>
+    <button id="blue">Tennis</button>
   </a>
   <a href="/touch">
-    <button class="button is-info">Touch Rugby</button>
+    <button id="gold">Touch Rugby</button>
   </a>
   <a href="/tramp">
-    <button class="button is-info">Trampolining</button>
+    <button id="blue">Trampolining</button>
   </a>
   <a href="/frisbe">
-    <button class="button is-info">Ultimate Frisbe</button>
+    <button id="gold">Ultimate Frisbe</button>
   </a>
   <a href="/volleyball">
-    <button class="button is-info">Volleyball</button>
+    <button id="blue">Volleyball</button>
   </a>
   <a href="/waterpolo">
-    <button class="button is-info">Waterpolo</button>
-  </a>
-  <a href="/fitness">
-    <button class="button is-info">Fitness Centre</button>
+    <button id="gold">Waterpolo</button>
   </a>
 </div>
 <br />
 <br />
 <h2 class="subtitle">Years 7 & 8</h2>
 <div id="7buttons">
-  <a href="/7touch">
-    <button class="button is-info">7/8 Touch</button>
-  </a>
-  <a href="/7waterpolo">
-    <button class="button is-info">7/8 Waterpolo</button>
-  </a>
-  <a href="/7basketball">
-    <button class="button is-info">7/8 Basketball</button>
-  </a>
-  <a href="/7cycling">
-    <button class="button is-info">7/8 Cycling</button>
-  </a>
-  <a href="/7running">
-    <button class="button is-info">7/8 Running Training</button>
-  </a>
-  <a href="7swim">
-    <button class="button is-info">7/8 Swimming Training</button>
-  </a>
-  <a href="/7tennis">
-    <button class="button is-info">7/8 Tennis Coaching</button>
+<a href="/7basketball">
+    <button id="gold">7/8 Basketball</button>
   </a>
   <a href="/7conditioning">
-    <button class="button is-info">7/8 Conditioning</button>
+    <button id="blue">7/8 Conditioning</button>
   </a>
+  <a href="/7cycling">
+    <button id="gold">7/8 Cycling</button>
+  </a>
+  <a href="/7running">
+    <button id="blue">7/8 Running Training</button>
+  </a>
+  <a href="7swim">
+    <button id="gold">7/8 Swimming Training</button>
+  </a>
+  <a href="/7tennis">
+    <button id="blue">7/8 Tennis Coaching</button>
+  </a>
+  <a href="/7touch">
+    <button id="gold">7/8 Touch</button>
+  </a>
+  <a href="/7waterpolo">
+    <button id="blue">7/8 Waterpolo</button>
+  </a>
+  
 </div>

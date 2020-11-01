@@ -14,15 +14,29 @@
     font-size: 50px;
     padding: 10px;
   }
+  #blue {
+    background-color: #D6EDFF; 
+    border: solid 5px;
+    border-color: #C2E4FF;
+    border-radius: 3.5px;
+  }
+
+  #gold {
+    background-color: #FEE486; 
+    border: solid 5px;
+    border-color: #FEDF72;
+    border-radius: 3.5px;
+  }
+
 </style>
 
 <h1 class="title">Activites</h1>
 <div id="buttons">
-  <a href="/treePlanting">
-    <button class="button is-danger">Rangi Eco Action</button>
+<a href="/maths">
+    <button id="gold">Maths Help</button>
   </a>
-  <a href="/maths">
-    <button class="button is-danger">Maths Help</button>
+  <a href="/treePlanting">
+    <button id="blue">Rangi Eco Action</button>
   </a>
 
 </div>
