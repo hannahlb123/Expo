@@ -20,8 +20,15 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+.is-light{
+    width: 40px;
+    float: left;
+}
 </style>
 
+<a href="/SPORTS">
+<button class="button is-light">back</button>
+</a>
 <h1 class="title">Badmington</h1>
 <h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>

@@ -21,9 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-
-
+.is-light{
+    width: 40px;
+    float: left;
+}
 </style>
+
+<a href="/SPORTS">
+<button class="button is-light">back</button>
+</a>
 
 <h1 class="title">Waterpolo</h1>
 <h2 class="subtitle" id="when">When: Games Tuesday or Wednesday latest game at 9pm, training times vary</h2>

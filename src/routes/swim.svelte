@@ -21,9 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-
-
+.is-light{
+    width: 40px;
+    float: left;
+}
 </style>
+
+<a href="/SPORTS">
+<button class="button is-light">back</button>
+</a>
 
 <h1 class="title">Swimming</h1>
 <h2 class="subtitle" id="when">When: Mondays and Wednesdays terms 1&4 for non-club swimmers, events throughout year</h2>
