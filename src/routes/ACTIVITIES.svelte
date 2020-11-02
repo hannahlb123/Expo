@@ -8,11 +8,13 @@
     margin: 5px;
     height: 40px;
     width: 180px;
+    color: #4c4c4c !important;
   }
   h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
+    color: #4c4c4c !important;
   }
   #blue {
     background-color: #D6EDFF; 
