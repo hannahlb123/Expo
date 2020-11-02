@@ -29,4 +29,4 @@ h2, p {
 <br>
 <p>You will need your own sports pe uniform. It is approximitly $25 per person per term plus transport. 5-8 girls per team, and you are able to create your own social team. </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up at the beggining of the year and/or the end of term 3.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year and/or the end of term 3.</h2>

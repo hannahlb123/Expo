@@ -33,6 +33,6 @@ h2, p {
 <p>You will need your own tennis racket and scool sports uniform. Wednesday games are about $20 per term plus transport, coaching is about $70 per person for 6 group lessons. Top teams will attend south island and national events, this will have extra costs. </p>
 <br>
 
-<h2 class="subtitle" id="signUp">Sign up at the beggining of the year</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: ???</h2>

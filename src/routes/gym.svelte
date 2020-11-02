@@ -30,3 +30,4 @@ h2, p {
 <p>You will need your own leotard, and the cost completly varies based off what competions and transport you choose to enter. This is not a coaching program so you have to be doing club gymnastics outside of school. </p>
 <br>
 <h2 class="subtitle" id="signUp">Contact Ms Anderson to join. </h2>
+<h2 class="subtitle" id="leader">???</h2>

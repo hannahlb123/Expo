@@ -21,10 +21,7 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-img {
-  width: 40%;
-  height: auto;
-}
+
 
 </style>
 
@@ -35,9 +32,7 @@ img {
 <br>
 <p><b>This is for years 11-13 only.</b>You need to love to sing, be willing to work hard with a fantastic group of like minded young women, and to be a member of Resolutions for the entire year. An ability to read music is useful, but NOT essential. Singing lessons also useful, but NOT essential. You do not need to have been in Rangi Voices in Years 7-10 to audition, but it is a help if you have been. The cost is round $560 per year for travel to Big Sing Nationals if selected and uniform hire. There is a maximum of 30 people who can join.</p>
 <br>
-<img src="reso1.jpg" alt="Resoltions 2019">
-<img src="reso2.jpeg" alt="Big Sing Nationals 2020">
-<img src="reso3.jpg" alt="Resolutions 2020">
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 1st of Janurary at the begining of each year.</h2>
+
+<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 1st of Janurary at the beginning of each year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Charlton</h2>

@@ -29,4 +29,4 @@ h2, p {
 <br>
 <p>You will need your school sports uniform, the cost is about $25 per person per term. You need 7-10 players per team, you are able to create your own social team. </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up at the beggining of the year and/or the end of term 3.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year and/or the end of term 3.</h2>

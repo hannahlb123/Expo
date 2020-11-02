@@ -29,4 +29,4 @@ h2, p {
 <br>
 <p>You need to your school sports uniform, the cost is approximetly $50 per person, per term plus transportation costs. A minimum of 8 girls is required per team.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, check back at the beggining of the year and/or the end of term 3.</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, check back at the beginning of the year and/or the end of term 3.</h2>

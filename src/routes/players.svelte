@@ -29,7 +29,7 @@ h2, p {
 <br>
 <p>Mr Thin is in charge, you need to have your own instrument. You need to have been learning your instrument for at least 2 terms to join. If you unsure whether you are at a high enough level talk to Mr Thin or your instument teacher about it. </p>
 <br>
-<img src="players.jpg" alt="Rangi Players 2020">
+
 <h2 class="subtitle" id="signUp">Messege or email Mr Thin to join.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Thin</h2>

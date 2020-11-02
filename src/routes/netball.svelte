@@ -33,6 +33,6 @@ h2, p {
 <p>You will need a rangi netball dress, available from the uniform shop, and navy shorts to wear underneath. Saturday costs between $120-$250, Wednesday $40. Trials held in term 1, socials teams do not need a trial. Saturday comp starts end of april, and there will be games during the holidays. 9 A team, 10 A team and Senior A team all go to tournament.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">Sign up at the begining of the year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Anderson</h2>

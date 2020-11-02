@@ -33,6 +33,6 @@ h2, p {
 <p>You need your school navy togs and your clan swimming cap. The cost is for the awards sat.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">Sign up at the begining of the year for term 1, and in term 3 for term 4. </h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year for term 1, and in term 3 for term 4. </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Joyce</h2>

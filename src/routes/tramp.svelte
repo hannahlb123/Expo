@@ -33,6 +33,6 @@ h2, p {
 <p>You will need your school sports uniform and socks. Minimum numbers are required. The cost is $40 per term plus cost of badges if sat. No experiance is needed. </p>
 <br>
 
-<h2 class="subtitle" id="signUp">Sign up at the beggining of the year, or each term. </h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year, or each term. </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: ???</h2>

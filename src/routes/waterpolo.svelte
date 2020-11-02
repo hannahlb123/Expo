@@ -25,14 +25,14 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
-<h2 class="subtitle" id="where">Where: Music Block</h2>
-<p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
+<h1 class="title">Waterpolo</h1>
+<h2 class="subtitle" id="when">When: Games Tuesday or Wednesday latest game at 9pm, training times vary</h2>
+<h2 class="subtitle" id="where">Where: Training - school pool, Games - Jelly Park/ QUII/ Rangi</h2>
+<p>Waterpolo is a competitive team sport played in the water between two teams. The game contains 4 quarters in which each team will try to score a goal by throwing the ball into the goal at each end. </p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p>You will need your own Rangi waterpolo togs and swimming cap, waterpolo caps and balls are provided. The cost is about $90 per term plus pool entry and transport. The Rangi togs available from the uniform shop are about $110. No experiance needed but a good swimming ability is a big advantage. Teams may entre south island tournaments.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of term 1 and 4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Ms Anderson</h2>

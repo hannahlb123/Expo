@@ -25,14 +25,14 @@ h2, p {
 
 </style>
 
-<h1 class="title">Rangi Sinfonia</h1>
-<h2 class="subtitle" id="when">When: Tuesday 3.45 - 5.30pm</h2>
-<h2 class="subtitle" id="where">Where: Music Block</h2>
-<p>We have enjoy rehearsing music together and preparing for performances, including prizegiving. We also have a camp at the start of the year which is very social, and the girls really enjoy getting to know each other and hang out in the music department.</p>
+<h1 class="title">Volleyball</h1>
+<h2 class="subtitle" id="when">When: Games on Mondays terms 1&4, training times vary</h2>
+<h2 class="subtitle" id="where">Where: School gym and various indoor venues</h2>
+<p>Volleyball is a summer team sport where 6 people on each team stand across from each other seperated from a net. The teams score points by getting the other team by getting the ball to hit the ground on the other teams side. </p>
 <br>
-<p>Rangi Sinfonia is for all years however you must be able to read music and play your orchestral instrument to a minimum of Grade 3/4 level. The cost of the camp and the transport to gigs outside of Rangi is about $200.</p>
+<p>School sports uniform is needed, kneepads are compulsary for senior A and junior A teams, recommended for other teams. The cost is about $30 per term plus transport.</p>
 <br>
 
-<h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the begining of each year.</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of term 1&4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mrs Kingsbury</h2>
+">Leader: Ms Rule</h2>

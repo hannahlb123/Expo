@@ -29,6 +29,6 @@ h2, p {
 <br>
 <p>You will need your school sports uniform, the cost is about $70 per person per term. No experiance is needed.  </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up at the end of each term???</h2>
+<h2 class="subtitle" id="signUp">Sign up at the end of each term</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: ???</h2>
