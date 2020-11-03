@@ -1,8 +1,8 @@
 <style>
   button:hover {
-    background-color: hsl(0, 0%, 86%);
-    color: black;
-  }
+    color: white !important;
+    }
+
   button {
     margin: 5px;
     height: 40px;

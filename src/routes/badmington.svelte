@@ -20,6 +20,11 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+
+.is-light{
+    width: 40px;
+    float: left;
+}
 </style>
 
 <h1 class="title">Badminton</h1>

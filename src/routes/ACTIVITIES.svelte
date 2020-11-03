@@ -1,8 +1,7 @@
 <style>
   button:hover {
-    background-color: hsl(0, 0%, 86%);
-    color: black;
-  }
+    color: white !important;
+    }
 
   button {
     margin: 5px;
@@ -10,6 +9,7 @@
     width: 180px;
     color: #4c4c4c !important;
   }
+
   h1 {
     text-align: center;
     font-size: 50px;
@@ -33,6 +33,7 @@
 </style>
 
 <h1 class="title">Activites</h1>
+
 <div id="buttons">
 <a href="/maths">
     <button id="gold">Maths Help</button>
