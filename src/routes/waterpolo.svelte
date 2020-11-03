@@ -21,15 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
 
 <h1 class="title">Waterpolo</h1>
 <h2 class="subtitle" id="when">When: Games Tuesday or Wednesday latest game at 9pm, training times vary</h2>
@@ -42,3 +42,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up at the beginning of term 1 and 4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Anderson</h2>
+<a href="/volleyball">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/athletics">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

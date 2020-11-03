@@ -21,15 +21,16 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
+
 <h1 class="title">Metafit</h1>
 <h2 class="subtitle" id="when">When: Tuesdays and Thursdays after school</h2>
 <h2 class="subtitle" id="where">Where: Rangi Fitness Center</h2>
@@ -41,3 +42,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Come to however many sessions you would like.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Joyce</h2>
+<a href="/life">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/multi">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

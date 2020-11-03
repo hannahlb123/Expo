@@ -21,15 +21,16 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
+
 
 <h1 class="title">Basketball</h1>
 <h2 class="subtitle" id="when">When: Fridays from 4pm, terms 2 & 3</h2>

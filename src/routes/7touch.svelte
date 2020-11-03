@@ -20,7 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
 
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Year 7 & 8 Touch Rugby</h1>
@@ -33,3 +39,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: ???</h2>
+<a href="/7tennis">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/7waterpolo">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

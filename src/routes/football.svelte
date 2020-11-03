@@ -20,15 +20,16 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
+
 
 <h1 class="title">Football</h1>
 <h2 class="subtitle" id="when">When: Tuesdays 3:30 - 4:30 for trainings and Wednesday afternoons for games. </h2>
@@ -44,6 +45,6 @@ h2, p {
 <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/frisbe">
+<a href="/futsul">
     <button id="next" class="button is-light">Next Page</button>
 </a>

@@ -20,15 +20,16 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
+
 
 <h1 class="title">Cycling</h1>
 <h2 class="subtitle" id="when">When: Sunday rides in term 1, Wednesday afternoons in term 2 & 3 and Friday wind-trainer sessions in terms 1-3. </h2>

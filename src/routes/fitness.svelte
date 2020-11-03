@@ -20,15 +20,16 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
-<a href="/SPORTS">
-<button class="button is-light">back</button>
-</a>
+
 
 <h1 class="title">Fitness Centre</h1>
 <h2 class="subtitle" id="when">When: Open every day 8:00am-5:00pm</h2>

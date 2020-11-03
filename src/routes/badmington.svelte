@@ -20,10 +20,12 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
 
-.is-light{
-    width: 40px;
-    float: left;
+#back {
+    margin-right: 380px;
 }
 </style>
 

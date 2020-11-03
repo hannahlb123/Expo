@@ -20,9 +20,12 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
-.is-light{
-    width: 40px;
-    float: left;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 </style>
 
@@ -36,3 +39,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">No sign up needed, show up to however many sessions you like</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Joyce</h2>
+<a href="/7running">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/7tennis">
+    <button id="next" class="button is-light">Next Page</button>
+</a>
