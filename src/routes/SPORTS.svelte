@@ -36,7 +36,7 @@
     <button id="gold">Athletics</button>
   </a>
   <a href="/badmington">
-    <button id="blue">Badmington</button>
+    <button id="blue">Badminton</button>
   </a>
   <a href="/basketball">
     <button id="gold">Basketball</button>

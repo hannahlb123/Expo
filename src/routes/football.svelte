@@ -30,3 +30,12 @@ h2, p {
 <p>Uniform will be provided for 1st & 2nd XI. Players need their own mouth guard, boots, shin guards & socks. The cost is $60 per season with extra cost for transport. The 1st XI will go to tournament in winter tournament, which will have extra costs.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are currently closed check back in at the start of term 2.</h2>
+<a href="/fitness">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/frisbe">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

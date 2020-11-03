@@ -33,3 +33,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: ???</h2>
+<a href="/beachVolleyball">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/crossCountry">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

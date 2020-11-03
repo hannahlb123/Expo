@@ -22,13 +22,13 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Badmington</h1>
-<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
-<h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
-<p>Badmington is a sport like tennis played with racquets, you hit a shuttlecock across a net to the other player. This is played in a team of four, where you play two games each week, singles and doubles.</p>
+<h1 class="title">Year 7 & 8 Cycling</h1>
+<h2 class="subtitle" id="when">When: Term 1 - Monday/Thursday after school, Term - 2 Wednesday afternoon</h2>
+<h2 class="subtitle" id="where">Where: Racing at Tai Tapu</h2>
+<p>Cycling is split into 4 races for the school competition- individual time trials which is you racing as fast as you can against the clock, team time trials which is a group of min 3 and max 4 people (max 5 for nationals) and you can start the race with 4 or 5 and finish with a min of 3 and a graded scratch where you race in a group of people about your level and it is the first person over the finish line who wins. For training you train as a team to learn how to do team time trials.</p>
 <br>
-<p>Normal school sport t-shirt and shorts, you need your own racquet. It is $25 for both terms, additional cost if you take the school transport. Generally no practises just play the games, however if your team wants a practise it can be arranged.</p>
+<p>You will need your own bike and helmet. The cost is $40 per term.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Waghorn</h2>
+">Leader: ???</h2>

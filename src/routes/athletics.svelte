@@ -21,6 +21,14 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
+
 </style>
 
 <h1 class="title">Athletics</h1>
@@ -34,3 +42,12 @@ h2, p {
 
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Brooks</h2>
+<a href="/waterpolo">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/badmington">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

@@ -22,13 +22,13 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Badmington</h1>
-<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
-<h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
-<p>Badmington is a sport like tennis played with racquets, you hit a shuttlecock across a net to the other player. This is played in a team of four, where you play two games each week, singles and doubles.</p>
+<h1 class="title">Year 7 & 8 Swim Training</h1>
+<h2 class="subtitle" id="when">When: Monday 3:30-4:30 terms 1&4</h2>
+<h2 class="subtitle" id="where">Where: School pool</h2>
+<p>You will practise swimming for an hour, where you will imporve your swimming time, skill and your fitness. This is for all levels of swimming ability.</p>
 <br>
-<p>Normal school sport t-shirt and shorts, you need your own racquet. It is $25 for both terms, additional cost if you take the school transport. Generally no practises just play the games, however if your team wants a practise it can be arranged.</p>
+<p>You will need yoru own togs, goggles and swim cap. The cost is $5 per session. </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="signUp">No sign up needed, show up to however many sessions you like</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Waghorn</h2>
+">Leader: Ms Joyce</h2>

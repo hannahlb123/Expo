@@ -22,7 +22,7 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Badmington</h1>
+<h1 class="title">Badminton</h1>
 <h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
 <p>Badmington is a sport like tennis played with racquets, you hit a shuttlecock across a net to the other player. This is played in a team of four, where you play two games each week, singles and doubles.</p>
@@ -32,3 +32,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Waghorn</h2>
+<a href="/athletics">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/basketball">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

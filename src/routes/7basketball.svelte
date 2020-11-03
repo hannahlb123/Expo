@@ -22,13 +22,13 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Badmington</h1>
-<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
-<h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
-<p>Badmington is a sport like tennis played with racquets, you hit a shuttlecock across a net to the other player. This is played in a team of four, where you play two games each week, singles and doubles.</p>
+<h1 class="title">Year 7 & 8 Basketball</h1>
+<h2 class="subtitle" id="when">When: Friday 4-6pm terms 2&3</h2>
+<h2 class="subtitle" id="where">Where: Wharenui Rec Centre</h2>
+<p>Basketball is a team sport where you have 5 players on each team, each team will run down the court with a ball and try and throw the ball into the hoop at each end.</p>
 <br>
-<p>Normal school sport t-shirt and shorts, you need your own racquet. It is $25 for both terms, additional cost if you take the school transport. Generally no practises just play the games, however if your team wants a practise it can be arranged.</p>
+<p>You will need your school sports uniform. The cost is $50 for the season.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 class="subtitle" id="signUp">Sign up before term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Waghorn</h2>
+">Leader: ???</h2>

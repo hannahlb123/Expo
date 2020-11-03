@@ -32,3 +32,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up when you come along to a session</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Joyce, Harriet Lord, Meg Smith</h2>
+<a href="/fencing">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/football">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

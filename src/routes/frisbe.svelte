@@ -36,3 +36,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up at the beginning of term 1 & 4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Allely</h2>
+<a href="/waterpolo">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/badmington">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

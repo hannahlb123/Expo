@@ -22,12 +22,12 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Badmington</h1>
-<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
-<h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
-<p>Badmington is a sport like tennis played with racquets, you hit a shuttlecock across a net to the other player. This is played in a team of four, where you play two games each week, singles and doubles.</p>
+<h1 class="title">Year 7 & 8 Tennis</h1>
+<h2 class="subtitle" id="when">When: Thursday morning terms 1&4</h2>
+<h2 class="subtitle" id="where">Where: School courts</h2>
+<p>Tennis is a summer sport where you hit a ball to other sides of the court with a racket to the other player.</p>
 <br>
-<p>Normal school sport t-shirt and shorts, you need your own racquet. It is $25 for both terms, additional cost if you take the school transport. Generally no practises just play the games, however if your team wants a practise it can be arranged.</p>
+<p>You will need your own sports gear and tennis racket. The cost is about $60 per term.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
