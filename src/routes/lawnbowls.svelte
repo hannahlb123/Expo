@@ -30,27 +30,27 @@
   }
 </style>
 
-<h1 class="title">Futsal</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 3-4:30pm Terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Various venues</h2>
-<p>annie to give description</p>
-<br />
+<h1 class="title">Lawn Bowls</h1>
+<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm terms 1 & 4</h2>
+<h2 class="subtitle" id="where">Where: Various bowling clubs</h2>
 <p>
-  You need to your school sports uniform, the cost is approximetly $50 per
-  person, per term plus transportation costs. A minimum of 8 girls is required
-  per team.
+  Lawn bowls is a sport which the objective is to roll biased balls so that they
+  stop close to a smaller ball called a "jack" or "kitty".
 </p>
 <br />
-<h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, check back at the beginning of the year and/or
-  the end of term 3.
-</h2>
-<a href="/football">
+<p>
+  You will need your school sports uniform and flat soled shoes, the cost is
+  about $15 per person per term plus transport. No experiance is needed.
+</p>
+<br />
+<h2 class="subtitle" id="signUp">Sign up at the end of each term???</h2>
+
+<a href="/kickboxing">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/gymnastics">
+<a href="/lifeSaving">
   <button id="next" class="button is-light">Next Page</button>
 </a>

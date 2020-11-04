@@ -30,27 +30,31 @@
   }
 </style>
 
-<h1 class="title">Futsal</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 3-4:30pm Terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Various venues</h2>
-<p>annie to give description</p>
+<h1 class="title">Indoor Football</h1>
+<h2 class="subtitle" id="when">
+  When: Games from 3:15pm on Wednesdays in terms 1 & 4.
+</h2>
+<h2 class="subtitle" id="where">Where: Various indoor sports centers</h2>
+<p>
+  Indoor Football is football which is played inside. The main difference is
+  that you play with 5 payers on the court.
+</p>
 <br />
 <p>
-  You need to your school sports uniform, the cost is approximetly $50 per
-  person, per term plus transportation costs. A minimum of 8 girls is required
-  per team.
+  You will need your own school PE uniform. It is approximitly $25 per person
+  plus transport. There are 5-8 girls per team, and you are able to create your
+  own social team.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, check back at the beginning of the year and/or
-  the end of term 3.
+  Sign up at the beginning of the year and/or the end of term 3
 </h2>
-<a href="/football">
+<a href="/hockey">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/gymnastics">
+<a href="/indoorNetball">
   <button id="next" class="button is-light">Next Page</button>
 </a>

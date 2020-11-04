@@ -30,27 +30,27 @@
   }
 </style>
 
-<h1 class="title">Futsal</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 3-4:30pm Terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Various venues</h2>
-<p>annie to give description</p>
-<br />
+<h1 class="title">Kickboxing</h1>
+<h2 class="subtitle" id="when">When: Wednesday 3-3:45pm all year</h2>
+<h2 class="subtitle" id="where">Where: Proactive Martial Arts, Sockburn</h2>
 <p>
-  You need to your school sports uniform, the cost is approximetly $50 per
-  person, per term plus transportation costs. A minimum of 8 girls is required
-  per team.
+  Kickboxing is a combat sport involving kicking and punching. Kickboxing is
+  practised for self-defence, general fitness, or as a contact sport.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, check back at the beginning of the year and/or
-  the end of term 3.
-</h2>
-<a href="/football">
+<p>
+  You will need your school sports uniform, the cost is about $70 per person. No
+  experiance is needed.
+</p>
+<br />
+<h2 class="subtitle" id="signUp">Sign up at the end of each term</h2>
+
+<a href="/indoorNetball">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/gymnastics">
+<a href="/lawnbowls">
   <button id="next" class="button is-light">Next Page</button>
 </a>

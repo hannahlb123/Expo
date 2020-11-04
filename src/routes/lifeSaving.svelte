@@ -9,6 +9,7 @@
   p {
     text-align: center;
   }
+
   #when {
     color: hsl(204, 86%, 53%);
   }
@@ -30,33 +31,33 @@
   }
 </style>
 
-<h1 class="title">Beach Volleyball</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 4-6pm, terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Pioneer Sports</h2>
+<h1 class="title">Life Saving</h1>
+<h2 class="subtitle" id="when">When: Terms 1 & 4</h2>
+<h2 class="subtitle" id="where">Where: Rangi Pool</h2>
 <p>
-  Beach volleyball is a team sport played by two teams of two players on a sand
-  court divided by a net. As in indoor volleyball, the objective of the game is
-  to send the ball over the net and to ground it on the opponent's side of the
-  court, and to prevent the same effort by the opponent.
+  In life saving your learn very important water saftey skills. All girls
+  complete their bronze level badge in year 9. You are then able to continue on
+  with life saving to get further badges and learn more.
 </p>
 <br />
 <p>
-  Uniform is PE uniform, you need to have played or be playing indoor
-  volleyball. It costs about $30 per term as well as transport.
+  You need your school navy togs and your clan swimming cap. The cost is for the
+  awards sat.
 </p>
 <br />
+
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, check back towards term 2
+  Sign up at the beginning of the year for term 1, and in term 3 for term 4.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader:
+  Leader: Ms Joyce
 </h2>
-<a href="/beachVolleyball">
+<a href="/lawnbowls">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/cricket">
+<a href="/metafit">
   <button id="next" class="button is-light">Next Page</button>
 </a>
