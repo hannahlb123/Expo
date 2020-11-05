@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Junior Bookclub</h1>
@@ -32,3 +39,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up - max 10 people</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Isabel Milward</h2>
+<a href="/fps">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/rainbow">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

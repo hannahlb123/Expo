@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Chapel Committee</h1>
@@ -31,3 +38,12 @@ Service in the (school) community</p>
 <h2 class="subtitle" id="signUp">You can sign up any point of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Camille Perelini, Elisha Villi-Umanga and Rev. Nicol</h2>
+<a href="/library">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/creativeWriting">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

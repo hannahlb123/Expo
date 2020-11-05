@@ -20,7 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
 
+#back {
+    margin-right: 380px;
+}
 
 </style>
 
@@ -34,3 +40,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Just turn up to as many meetings as you like, no sign up needed.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Daisy Auker-Woor</h2>
+<a href="/bookclub">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/robotics">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

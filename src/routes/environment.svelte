@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Environment Club</h1>
@@ -30,3 +37,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Just come along when ever you want!</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Anna Casey and Ms Rivers</h2>
+<a href="/debating">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/fps">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

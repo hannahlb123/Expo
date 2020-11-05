@@ -28,6 +28,13 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Student Library Team</h1>
@@ -43,3 +50,12 @@ img{
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Milward</h2>
 <img src="library team.jpeg" alt="student library team 2020">
+<a href="/robotics">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/chapel">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

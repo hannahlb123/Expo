@@ -21,13 +21,12 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
-img{
-    height: 300px;
-    width: auto;
-    padding: 10px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
 }
 
 </style>
@@ -40,4 +39,14 @@ img{
 <h2 class="subtitle" id="signUp">Sign up any time of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);">Leader: Ms Lindstrom and Pippa Lange</h2>
 
-<img src="debating.jpg" alt="Debating">
+<a href="dramaClub">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Sports Page</button>
+</a>
+<a href="/environment">
+    <button id="next" class="button is-light">Next Page</button>
+</a>
+
+
