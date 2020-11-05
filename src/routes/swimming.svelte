@@ -31,33 +31,34 @@
   }
 </style>
 
-<h1 class="title">Rugby</h1>
-<h2 class="subtitle" id="when">
-  When: Wednesday games and trainings terms 2 & 3
-</h2>
-<h2 class="subtitle" id="where">Where: School or Hagley Park</h2>
+<h1 class="title">Swimming</h1>
+<h2 class="subtitle" id="when">When: Mondays and Wednesdays terms 1 & 4</h2>
+<h2 class="subtitle" id="where">Where: School pool and competion pools</h2>
 <p>
-  Rugby is a ball sport with 15 players on each team, the aim of the game is to
-  get the ball across the line at the end of the field by tackling people.
+  Swimming is the summer sport of moving throughout the water. The Monday and
+  Wednesday sessions are for non-club swimmers at any level. Events for
+  competitive swimmers are throughout the year.
 </p>
 <br />
 <p>
-  It is important that you show up to all trainings to learn the safe contact
-  techniques. You will need your own boots, shorts, socks and mouthguard. Tops
-  will be provided. The cost is around $40 per season plus transport costs.
+  You will need your own togs, googles and cap. The cost is $5 per sessions
+  attended, and the entry fee for competions.
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
-<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Mr Mills
+<h2 class="subtitle" id="signUp">
+  Talk to Ms Anderson for events, no sign up needed for Monday and Wednesday
+  sessions
 </h2>
-<a href="/rowing">
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
+  Leader: Ms Joyce
+</h2>
+<a href="/surfing">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/ski">
+<a href="/tennis">
   <button id="next" class="button is-light">Next Page</button>
 </a>

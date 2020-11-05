@@ -115,10 +115,10 @@
   <a href="/strength">
     <button id="gold">Strength & Conditioning</button>
   </a>
-  <a href="/surf">
+  <a href="/surfing">
     <button id="blue">Surfing</button>
   </a>
-  <a href="/swim">
+  <a href="/swimming">
     <button id="gold">Swimming</button>
   </a>
   <a href="/tennis">
@@ -127,7 +127,7 @@
   <a href="/touch">
     <button id="gold">Touch Rugby</button>
   </a>
-  <a href="/tramp">
+  <a href="/trampolining">
     <button id="blue">Trampolining</button>
   </a>
   <a href="/ultimateFrisbee">
