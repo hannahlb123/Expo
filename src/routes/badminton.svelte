@@ -9,6 +9,7 @@
   p {
     text-align: center;
   }
+
   #when {
     color: hsl(204, 86%, 53%);
   }
@@ -20,7 +21,6 @@
   #signUp {
     color: hsl(48, 100%, 67%);
   }
-
   #previous {
     margin-right: 380px;
   }
@@ -30,33 +30,34 @@
   }
 </style>
 
-<h1 class="title">Beach Volleyball</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 4-6pm, terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Pioneer Sports</h2>
+<h1 class="title">Badminton</h1>
+<h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
+<h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
 <p>
-  Beach volleyball is a team sport played by two teams of two players on a sand
-  court divided by a net. As in indoor volleyball, the objective of the game is
-  to send the ball over the net and to ground it on the opponent's side of the
-  court, and to prevent the same effort by the opponent.
+  Badminton is similar to tennis where you hit a shuttlecock over a net to the
+  other player. This is played in a team of four, where you play two games each
+  week, singles and doubles.
 </p>
 <br />
 <p>
-  Uniform is PE uniform, you need to have played or be playing indoor
-  volleyball. It costs about $30 per term as well as transport.
+  Uniform is school PE uniform, you need your own racquet. It is $25 for both
+  terms, additional cost if you take the school transport. Generally no
+  practises just play the games, however if your team wants a practise it can be
+  arranged.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
   Sign ups are closed for this season, check back towards term 2
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader:
+  Leader: Ms Waghorn
 </h2>
-<a href="/beachVolleyball">
+<a href="/athletics">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/cricket">
+<a href="/basketball">
   <button id="next" class="button is-light">Next Page</button>
 </a>

@@ -37,7 +37,7 @@
   <a href="/athletics">
     <button id="gold">Athletics</button>
   </a>
-  <a href="/badmington">
+  <a href="/badminton">
     <button id="blue">Badminton</button>
   </a>
   <a href="/basketball">
@@ -64,7 +64,7 @@
   <a href="/fencing">
     <button id="blue">Fencing</button>
   </a>
-   <a href="/fitness">
+   <a href="/fitnessCentre">
     <button id="gold">Fitness Centre</button>
   </a>
   <a href="/football">
@@ -73,31 +73,31 @@
   <a href="/futsul">
     <button id="gold">Futsal</button>
   </a>
-  <a href="/gym">
+  <a href="/gymnastics">
     <button id="blue">Gymnastics</button>
   </a>
   <a href="/hockey">
     <button id="gold">Hockey</button>
   </a>
-  <a href="/infoot">
+  <a href="/indoorFootball">
     <button id="blue">Indoor Football</button>
   </a>
-  <a href="/innetball">
+  <a href="/indoorNetball">
     <button id="gold">Indoor Netball</button>
   </a>
-  <a href="/kick">
+  <a href="/kickboxing">
     <button id="blue">Kickboxing</button>
   </a>
-  <a href="/lawn">
+  <a href="/lawnbowls">
     <button id="gold">Lawn Bowls</button>
   </a>
-  <a href="/life">
+  <a href="/lifeSaving">
     <button id="blue">Life Saving</button>
   </a>
   <a href="/metafit">
     <button id="gold">Metafit</button>
   </a>
-  <a href="/multi">
+  <a href="/multiSport">
     <button id="blue">Multisport</button>
   </a>
   <a href="/netball">
@@ -130,7 +130,7 @@
   <a href="/tramp">
     <button id="blue">Trampolining</button>
   </a>
-  <a href="/frisbe">
+  <a href="/ultimateFrisbee">
     <button id="gold">Ultimate Frisbe</button>
   </a>
   <a href="/volleyball">
