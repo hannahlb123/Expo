@@ -32,8 +32,7 @@
 
 <h1 class="title">Dragon Boating</h1>
 <h2 class="subtitle" id="when">
-  When: Term 1 only, 5 weeks of training finishing with Tournament Sunday 8th of
-  March
+  When: Term 1 only, 5 weeks of training finishing with Tournament
 </h2>
 <h2 class="subtitle" id="where">Where: Lake Rua for trainings</h2>
 <p>
@@ -44,7 +43,7 @@
 <br />
 <p>
   Uniform is the PE uniform. The price will be confirmed later
-  on. This is for years 11-13
+  on. This is for years 10-13
   <b>only</b>
   . You must be able to swim 50m, and there is a max of 12 people per crew.
 </p>
@@ -53,7 +52,7 @@
   Sign ups are currently closed check back in at the start of term 1.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: 
+  Leader: Ms Anderson
 </h2>
 <a href="/cycling">
   <button id="previous" class="button is-light">Previous Page</button>

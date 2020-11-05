@@ -32,6 +32,7 @@
   When: School events are held during school time
 </h2>
 <h2 class="subtitle" id="where">Where: Various venues</h2>
+<p>Teams and or individuals cn enter the duathlon an triathlon secondary school events. </p>
 <p>
   You will need your own bike and rangi sports uniform. It is about $25-50 for
   each event per person.

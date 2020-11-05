@@ -33,7 +33,7 @@
 <h1 class="title">Futsal</h1>
 <h2 class="subtitle" id="when">When: Wednesdays 3-4:30pm Terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: Various venues</h2>
-<p>annie to give description</p>
+<p></p>
 <br />
 <p>
   You need to your school sports uniform, the cost is approximetly $50 per

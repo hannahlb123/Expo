@@ -39,7 +39,7 @@
 <br />
 <h2 class="subtitle" id="signUp">Sign up when you come along to a session</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leaders: Ms Joyce, Harriet Lord, Meg Smith
+  Leaders: Ms Joyce
 </h2>
 <a href="/fencing">
   <button id="previous" class="button is-light">Previous Page</button>

@@ -38,8 +38,6 @@
   Basketball is a team sport where you have 5 players on each team, each team
   will run down the court with a ball and try and throw the ball into the hoop
   at each end. Trials are held to be sorted into teams within your year group.
-  If you want to form a social team you need to get enough players before term 2
-  begins and email your team list to Ms Anderson.
 </p>
 <br />
 <p>
@@ -53,7 +51,7 @@
   Sign ups are closed for this season, check back towards term 2
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: 
+  Leader: Ms Brooks 
 </h2>
 <a href="/badminton">
   <button id="previous" class="button is-light">Previous Page</button>

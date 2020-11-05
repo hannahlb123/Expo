@@ -31,9 +31,9 @@
 </style>
 
 <h1 class="title">Cricket</h1>
-<h2 class="subtitle">Twilight or Regional Qualifer</h2>
+<h2 class="subtitle">Regional Qualifer</h2>
 <h2 class="subtitle" id="when">
-  When: Twilight - Thurs from 4:30pm<br>Reg Qualifying - March + trainings
+  When: March + trainings
 </h2>
 <h2 class="subtitle" id="where">Where: Hagley Park</h2>
 <p>
@@ -44,16 +44,14 @@
 </p>
 <br />
 <p>
-  You will need white cricket pants which can be bought from the school uniform
-  shop. Some cricket gear will be supplied. Twilight costs $15 plus transport,
-  Regional Qualifer is $50 per term, additional costs if qualify for Nationals.
+  You will need white cricket pants, tops supplied. Regional Qualifer is $50 per term, additional costs if qualify for Nationals.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
   Sign ups are closed for this season, check back towards term 4
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: 
+  Leader: Ms Anderson
 </h2>
 <a href="/beachVolleyball">
   <button id="previous" class="button is-light">Previous Page</button>

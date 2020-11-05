@@ -49,7 +49,7 @@
   Sign ups are currently closed check back in at the start of term 1.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader:
+  Leader: Ms Waghorn
 </h2>
 <a href="/equestrian">
   <button id="previous" class="button is-light">Previous Page</button>

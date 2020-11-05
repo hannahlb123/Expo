@@ -31,7 +31,7 @@
 
 <h1 class="title">Football</h1>
 <h2 class="subtitle" id="when">
-  When: Tuesdays 3:30 - 4:30 for trainings and Wednesday afternoons for games.
+  When: Mondays 3:30 - 4:30 for trainings and Wednesday afternoons for games.
 </h2>
 <h2 class="subtitle" id="where">
   Where: School field for trainings, games are various locations

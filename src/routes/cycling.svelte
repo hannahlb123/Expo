@@ -32,7 +32,7 @@
 
 <h1 class="title">Cycling</h1>
 <h2 class="subtitle" id="when">
-  When: Sunday rides in term 1, Wednesday afternoons in term 2 & 3 and Friday
+  When: Weekend rides in term 1, Wednesday afternoons in term 2 & 3 and Friday
   wind-trainer sessions in terms 1-3.
 </h2>
 <h2 class="subtitle" id="where">
@@ -59,7 +59,7 @@
   Sign ups are closed for this season, check back towards term 1
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Schreures
+  Leader: Ms Anderson
 </h2>
 <a href="/crossCountry">
   <button id="previous" class="button is-light">Previous Page</button>
