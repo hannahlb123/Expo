@@ -31,34 +31,27 @@
   }
 </style>
 
-<h1 class="title">Tennis</h1>
-<h2 class="subtitle" id="when">
-  When: Games - Wednesdays afterschool
-  <br />
-  Coaching - Tuesday &/or Thursday mornings terms 1 & 4
-</h2>
-<h2 class="subtitle" id="where">Where: School courts and various venues</h2>
+<h1 class="title">Surfing</h1>
+<h2 class="subtitle" id="when">When: Tuesday 4:30-6:30 terms 1 & 4</h2>
+<h2 class="subtitle" id="where">Where: Sumner or New Brighton beach</h2>
 <p>
-  Tennis is a summer sport where you hit a ball to other sides of the court with
-  a racket to the other player.
+  Surfing is the sport of riding waves in an upright position, they glide across
+  the surface of the water until the wave breaks and loses its energy.
 </p>
 <br />
 <p>
-  You will need your own tennis racket and school sports uniform. Wednesday
-  games are about $20 per term plus transport, coaching is about $70 per person
-  for 6 group lessons. Top teams will attend south island and national events,
-  this will have extra costs.
+  This is a learn to swim program only. You will need your own togs, wetsuit and
+  board are provided. The cost is about $160 for 6 lessons plus transport.
 </p>
 <br />
 
 <h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
-
-<a href="/swimming">
+<a href="/strength">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/touch">
+<a href="/swimming">
   <button id="next" class="button is-light">Next Page</button>
 </a>

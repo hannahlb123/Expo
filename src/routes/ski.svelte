@@ -1,54 +1,53 @@
 <style>
-h1 {
+  h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 
-h2, p {
+  h2,
+  p {
     text-align: center;
-}
+  }
 
-#when {
+  #when {
     color: hsl(204, 86%, 53%);
-}
+  }
 
-#where {
+  #where {
     color: hsl(204, 86%, 53%);
-}
+  }
 
-#signUp {
-    color: hsl(48, 100%, 67%);
-}
-
-#previous {
+  #previous {
     margin-right: 380px;
-}
+  }
 
-#back {
+  #back {
     margin-right: 380px;
-}
+  }
 </style>
-
-
 
 <h1 class="title">Ski & Snowboarding</h1>
 <h2 class="subtitle" id="when">When: Events only, generally term 3</h2>
 <h2 class="subtitle" id="where">Where: Mt Hutt</h2>
-<p>Skiing and snowboarding is a winter sport that involves descending a slope that is covered with snow while standing on a board/skis attached to a rider's feet</p>
-<br>
-<p>You will need to be a competent ski/snowboarder to join, you will also need your own ski gear. The cost depends on the entry costs and transport used. </p>
-<br>
+<p>
+  Skiing and snowboarding is a winter sport that involves descending a slope
+  that is covered with snow while standing on a board/skis attached to a rider's
+  feet
+</p>
+<br />
+<p>
+  You will need to be a competent ski/snowboarder to join, you will also need
+  your own ski gear. The cost depends on the entry costs and transport used.
+</p>
+<br />
 
-<h2 class="subtitle" id="signUp">???</h2>
-<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: ???</h2>
 <a href="/rugby">
-    <button id="previous" class="button is-light">Previous Page</button>
+  <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
-    <button id="back" class="button is-light">Sports Page</button>
+  <button id="back" class="button is-light">Sports Page</button>
 </a>
 <a href="/strength">
-    <button id="next" class="button is-light">Next Page</button>
+  <button id="next" class="button is-light">Next Page</button>
 </a>
