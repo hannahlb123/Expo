@@ -36,7 +36,7 @@
 <p>
   Fencing is a sport involving 3 different types of swords - foil, épée and
   sabre. You play in bouts against your opponent and earn points if you hit
-  them. Each sowrd type has different rules and targets.
+  them. Each sword type has different rules and targets.
 </p>
 <br />
 <p>
