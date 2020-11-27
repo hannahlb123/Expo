@@ -30,15 +30,19 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Touch Rugby</h1>
+<h1 class="title">Touch </h1>
 <h2 class="subtitle" id="when">When: Games - Wednesday after school <br> Training times vary terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: School field and various venues</h2>
 <p>Touch rugby is a summer sport derived from rugby where you touch the other player instead of tackling them.</p>
 <br>
 <p>You will need your school sports uniform, touch shoes are needed for supertouch but are optional for other teams. The cost is about $25 per term plus transport costs. Supertouch has additional costs for a strength and conditioning programme and competition entries. </p>
 <br>
+<h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beggining of the year</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
+  Leader: Ross Kennedy
+</h2>
 
-<h2 class="subtitle" id="signUp">Sign up at the beginning of the year.</h2>
+
 
 <a href="/tennis">
     <button id="previous" class="button is-light">Previous Page</button>

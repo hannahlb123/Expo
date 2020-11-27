@@ -55,7 +55,7 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, check back at the beginning of term 1 or
+  Sign ups are closed for this season, sign up at the beginning of term 1 &
   4
 </h2>
 

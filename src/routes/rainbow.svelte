@@ -44,7 +44,7 @@ h2, p {
     <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">
-    <button id="back" class="button is-light">Sports Page</button>
+    <button id="back" class="button is-light">Clubs page</button>
 </a>
 <a href="/robotics">
     <button id="next" class="button is-light">Next Page</button>

@@ -48,7 +48,7 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, check back towards term 4
+  Sign ups are closed for this season, sign up at before term 4
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Anderson

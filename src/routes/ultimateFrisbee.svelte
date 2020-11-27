@@ -46,11 +46,10 @@
   of 8 players per team is needed.
 </p>
 <br />
-
-<h2 class="subtitle" id="signUp">Sign up at the beginning of term 1 & 4</h2>
+<h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beginning of each term</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Allely
-</h2>
+  Leader: Ms Waghorn </h2>
+
 <a href="/trampolining">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>

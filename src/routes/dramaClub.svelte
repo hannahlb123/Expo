@@ -20,6 +20,14 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Drama Club</h1>
@@ -32,3 +40,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">No need to sign up</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Rutherford and head of drama</h2>
+<a href="/debating">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/CLUBS">
+    <button id="back" class="button is-light">Clubs Page</button>
+</a>
+<a href="/environment">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

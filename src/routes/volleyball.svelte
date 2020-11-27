@@ -49,9 +49,9 @@
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign up at the beginning of term 1&4</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of term 1&4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Rule
+  Leader: Ms Brooks
 </h2>
 <a href="/ultimateFrisbee">
   <button id="previous" class="button is-light">Previous Page</button>

@@ -39,13 +39,13 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up any time of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);">Leader: Ms Lindstrom and Pippa Lange</h2>
 
-<a href="dramaClub">
+<a href="/creativeWriting">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">
-    <button id="back" class="button is-light">Sports Page</button>
+    <button id="back" class="button is-light">Clubs Page</button>
 </a>
-<a href="/environment">
+<a href="/dramaClub">
     <button id="next" class="button is-light">Next Page</button>
 </a>
 

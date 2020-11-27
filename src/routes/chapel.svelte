@@ -42,7 +42,7 @@ Service in the (school) community</p>
     <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">
-    <button id="back" class="button is-light">Sports Page</button>
+    <button id="back" class="button is-light">Clubs Page</button>
 </a>
 <a href="/creativeWriting">
     <button id="next" class="button is-light">Next Page</button>

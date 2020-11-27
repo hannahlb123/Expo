@@ -37,7 +37,11 @@
   You will need your own bike and rangi sports uniform. It is about $25-50 for
   each event per person.
 </p>
-<br />
+<br/>
+<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);">Sign up as events are advastised.</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
+  Leader: Ms Brooks
+</h2>
 
 <a href="/metafit">
   <button id="previous" class="button is-light">Previous Page</button>

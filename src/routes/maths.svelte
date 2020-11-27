@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 </style>
 
 <h1 class="title">Maths Help</h1>
@@ -32,3 +39,13 @@ h2, p {
 <h2 class="subtitle" id="signUp">No sign up needed, just show up to whatever sessions you like. </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Lidstone</h2>
+<br>
+<a href="/treePlanting">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ACTIVITIES">
+    <button id="back" class="button is-light">Activities Page</button>
+</a>
+<a href="/treePlanting">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

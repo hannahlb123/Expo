@@ -25,6 +25,13 @@ img {
   width: auto;
   height: 300px;
 }
+#previous {
+    margin-right: 380px;
+}
+
+#back {
+    margin-right: 380px;
+}
 
 </style>
 
@@ -40,3 +47,13 @@ img {
 <h2 class="subtitle" id="signUp">No sign up needed, just show up to whatever sessions you like</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Rosa Davies</h2>
+<br>
+<a href="/maths">
+    <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ACTIVITIES">
+    <button id="back" class="button is-light">Activities Page</button>
+</a>
+<a href="/maths">
+    <button id="next" class="button is-light">Next Page</button>
+</a>

@@ -42,6 +42,7 @@
   experiance is needed.
 </p>
 <br />
+<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%); ">Signups are currently closed, sign ups offered each term</h2>
 
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ross Kennedy

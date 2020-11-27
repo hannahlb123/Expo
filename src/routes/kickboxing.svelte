@@ -40,10 +40,13 @@
 <br />
 <p>
   You will need your school sports uniform, the cost is about $70 per person. No
-  experiance is needed.
+  experiance is needed. Minimum numbers apply.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Sign up at the end of each term</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the end of each term and the beggining of the year</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
+  Leader: Ms Waghorn
+</h2>
 
 <a href="/indoorNetball">
   <button id="previous" class="button is-light">Previous Page</button>
