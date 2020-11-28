@@ -34,22 +34,20 @@
 <h2 class="subtitle" id="when">
   When: Term 1 only, 5 weeks of training finishing with Tournament
 </h2>
-<h2 class="subtitle" id="where">Where: Lake Rua for trainings</h2>
+<h2 class="subtitle" id="where">Where: Lake Rua</h2>
 <p>
-  Dragon Boating is where you race in a boat with some paddlers, a drummer and a
+  Dragon Boating is where you race in a boat with paddlers, a drummer and a
   steers person against other boats to cross the finish with the shortest time
   possible.
 </p>
 <br />
 <p>
   Uniform is the PE uniform. The price will be confirmed later
-  on. This is for years 10-13
-  <b>only</b>
-  . You must be able to swim 50m, and there is a max of 12 people per crew.
+  on. This is for years 10-13 only. You must be able to swim 50m, and there is a max of 12 people per crew.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, sign up at the begining of the year.
+  Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Anderson

@@ -43,20 +43,18 @@
 </h2>
 <p>
   Athletics is a mixture of different sporting events such as running, jumping,
-  throwing and walking. People choose a few different events to compete in and
-  Rangi will help them with those events.
+  throwing and walking. You can choose a few different events to compete in and
+  Rangi will help you train.
 </p>
 <br />
 <p>
-  All uniform/equipment is provided except spikes. The cost is just the entry
-  fee for events which is only for people who choose to compete. Athletes can
+  All uniform/equipment is provided except spikes. The only costs are for the entry fees of events you choose to enter. Athletes can
   also consider training with a club outside of school. The school team could be
   selected for different competitions, although participation is not mandatory.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, sign up at the beginning of term 1 &
-  4
+  Sign up at the beginning of terms 1 & 4
 </h2>
 
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">

@@ -44,11 +44,11 @@
 </p>
 <br />
 <p>
-  You will need white cricket pants, tops supplied. Regional Qualifer is $50 per term, additional costs if qualify for Nationals.
+  You will need white cricket pants, tops supplied. Regional Qualifer is $50 per term, additional costs if you qualify for Nationals.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, sign up at before term 4
+  Sign up before term 4
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Anderson

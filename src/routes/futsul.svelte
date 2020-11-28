@@ -31,19 +31,18 @@
 </style>
 
 <h1 class="title">Futsal</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 3-4:30pm Terms 1 & 4</h2>
+<h2 class="subtitle" id="when">When: Wednesdays 3:00-4:30pm Terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: Various venues</h2>
-<p></p>
+<p>Futsal is a game very similar to football. It is played between two teams of 5 on a court smaller than a football pitch normally indoors.</p>
 <br />
 <p>
-  You need to your school sports uniform, the cost is approximetly $50 per
-  person, per term plus transportation costs. A minimum of 8 girls is required
+  You need the school sports uniform, the cost is approximetly $50 per
+  person per term plus transportation costs. A minimum of 8 girls is required
   per team.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, sign up at the beginning of the year and/or
-  the end of term 3.
+  Sign up at the beginning of term 1 & 4
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn

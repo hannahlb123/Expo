@@ -33,7 +33,7 @@
 
 <h1 class="title">Sports</h1>
 <h2 class="subtitle">Years 9-13</h2>
-<p>Most team sports offer a social option if you wish to enter your own team please contact the staff member in charge.</p>
+<p>Most team sports offer a social option if you wish to enter your own team, please contact the staff member in charge.</p>
 <div id="9buttons">
   <a href="/athletics">
     <button id="gold">Athletics</button>
@@ -56,7 +56,7 @@
   <a href="/cycling">
     <button id="gold">Cycling</button>
   </a>
-  <a href="/dragon">
+  <a href="/dragonBoating">
     <button id="blue">Dragon Boating</button>
   </a>
   <a href="/equestrian">

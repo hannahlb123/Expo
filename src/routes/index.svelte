@@ -23,7 +23,7 @@
 </style>
 
 <h2 class="subtitle">
-  Choose a club/actitivty/sport you would like to sign up for or learn more
+  Choose a club/activity/sport you would like to sign up for or learn more
   about
 </h2>
 <p>If you have any questions message the leader on teams</p>

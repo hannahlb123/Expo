@@ -38,27 +38,22 @@
 <p>
   Polo is a sport played on horse back with two teams, where you use mallets
   with long flexible handles to drive a wooden ball down a grass
-  field between two goal posts.
-</p>
-<br />
-<p>
-  Learn to ride sessions is where you are taught how to ride a horse, and how to
-  care for them. If you are an experianced rider you are also able to compete in events through school.
+  field between two goal posts. Learn to ride sessions are where you are taught how to ride a horse, and how to care for them. If you are an experienced rider you are also able to compete in events through school.
 </p>
 <br />
 <p>
   You need your own mount for events, no equipment is needed for learn to ride
-  sessions or Polo. The cost will depend on the level of involvment. No
+  sessions or polo. The cost will depend on the level of involvment. No
   experiance is needed, newcomers are welcome.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed, sign up at the begining of the year.
+  Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Young
 </h2>
-<a href="/dragon">
+<a href="/dragonBoating">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

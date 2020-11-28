@@ -40,14 +40,13 @@
 </p>
 <br />
 <p>
-  Uniform is school PE uniform, you need your own racquet. It is $25 for both
-  terms, additional cost if you take the school transport. Generally no
-  practises just play the games, however if your team wants a practise it can be
-  arranged.
+  Uniform is the school PE uniform, you need your own racquet. It is $25 for both
+  terms, additional cost if you take the school transport. Generally there are no
+  practises, however if your team wants a practise it can be arranged.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, sign up at the beggining of the year
+  Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn

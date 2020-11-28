@@ -31,7 +31,7 @@
 </style>
 
 <h1 class="title">Cross Country Running</h1>
-<h2 class="subtitle" id="when">When: Event based terms 2 & 3</h2>
+<h2 class="subtitle" id="when">When: Events during terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Rangi and various other venues</h2>
 <p>
   Cross country running is a sport in which teams and individuals run a race on
@@ -39,11 +39,11 @@
 </p>
 <br />
 <p>
-  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter in and the transport you take. You can attend running training during the year at school, or you may like to consider joining a club.
+  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter in and the transport you take. You can attend running training at school, or you may like to consider joining a club.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are closed for this season, sign up at the begining of the year
+  Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn
