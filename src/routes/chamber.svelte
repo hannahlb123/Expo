@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+  }
+
+  #back {
+    margin-right: 380px;
+  }
 </style>
 
 <h1 class="title">Chamber Music</h1>
@@ -32,3 +39,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up for 2021 by the 12th of February</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Kingsbury</h2>
+<a href="/art">
+  <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ARTS">
+  <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="/dance">
+  <button id="next" class="button is-light">Next Page</button>
+</a>

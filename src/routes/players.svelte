@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+  }
+
+  #back {
+    margin-right: 380px;
+  }
 </style>
 
 <h1 class="title">Rangi Players</h1>
@@ -33,3 +40,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Messege or email Mr Thin to join.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Thin</h2>
+<a href="/percussion">
+  <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ARTS">
+  <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="/sinfonia">
+  <button id="next" class="button is-light">Next Page</button>
+</a>

@@ -21,6 +21,13 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
+#previous {
+    margin-right: 380px;
+  }
+
+  #back {
+    margin-right: 380px;
+  }
 
 
 </style>
@@ -36,3 +43,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">You need to sign up for an audition by the 5th of Feburary at the beginning of each year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Kingsbury</h2>
+<a href="/players">
+  <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ARTS">
+  <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="/rangiVoices">
+  <button id="next" class="button is-light">Next Page</button>
+</a>

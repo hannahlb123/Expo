@@ -20,6 +20,13 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
+#previous {
+    margin-right: 380px;
+  }
+
+  #back {
+    margin-right: 380px;
+  }
 </style>
 
 <h1 class="title">Rock Band</h1>
@@ -32,3 +39,12 @@ h2, p {
 <h2 id="signUp" class="subtitle">Messege Mr Kaa on teams to sign up.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Kaa</h2>
+<a href="/rangiVoices">
+  <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ARTS">
+  <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="/art">
+  <button id="next" class="button is-light">Next Page</button>
+</a>

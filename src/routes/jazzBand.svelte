@@ -21,7 +21,13 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 
+#previous {
+    margin-right: 380px;
+  }
 
+  #back {
+    margin-right: 380px;
+  }
 </style>
 
 <h1 class="title">Jazz Band</h1>
@@ -34,3 +40,12 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign ups are currently closed. Check back at the beginning of the year.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Lana Law</h2>
+<a href="/dance">
+  <button id="previous" class="button is-light">Previous Page</button>
+</a>
+<a href="/ARTS">
+  <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="/kapahaka">
+  <button id="next" class="button is-light">Next Page</button>
+</a>
