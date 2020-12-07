@@ -48,7 +48,7 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign up at the beginning of the year
+  Sign ups are currently closed. Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Young

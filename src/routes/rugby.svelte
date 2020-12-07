@@ -48,9 +48,9 @@
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Mrs Stanton
+  Leader: Ms Frier
 </h2>
 <a href="/rowing">
   <button id="previous" class="button is-light">Previous Page</button>
@@ -58,6 +58,6 @@
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/ski">
+<a href="/running">
   <button id="next" class="button is-light">Next Page</button>
 </a>

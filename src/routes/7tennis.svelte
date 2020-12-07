@@ -29,12 +29,12 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Year 7 & 8 Tennis</h1>
-<h2 class="subtitle" id="when">When: Thursday morning terms 1&4</h2>
+<h1 class="title">Year 7 & 8 Tennis Coaching</h1>
+<h2 class="subtitle" id="when">When: Friday afternoon</h2>
 <h2 class="subtitle" id="where">Where: School courts</h2>
 <p>Tennis is a summer sport where you hit a ball to other sides of the court with a racket to the other player.</p>
 <br>
-<p>You will need your own sports gear and tennis racket. The cost is about $60 per term.</p>
+<p>You will need your own sports gear and tennis racket. The cost is about $60 per term. Experianced players may be asked to join the seniors.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);

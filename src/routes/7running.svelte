@@ -30,15 +30,15 @@ h2, p {
 </style>
 
 <h1 class="title">Year 7 & 8 Running Training</h1>
-<h2 class="subtitle" id="when">When: Tuesday/Thusday - all year</h2>
-<h2 class="subtitle" id="where">Where: Run from school</h2>
-<p>???</p>
+<h2 class="subtitle" id="when">When: Tuesday mornings at 7:15</h2>
+<h2 class="subtitle" id="where">Where: Meet at the gym</h2>
+<p>Sessions will either be sprint training, long distance, or feild events. This will be taken by a running coach</p>
 <br>
 <p>You will need sports gear. The cost is no cost. </p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Waghorn</h2>
+">Leader: Ms Brooks</h2>
 <a href="/7cycling">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

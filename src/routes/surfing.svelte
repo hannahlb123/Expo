@@ -40,7 +40,7 @@
 </p>
 <br />
 <p>
-  <b>This is a learn to swim program only.</b> You will need your own togs, wetsuit and
+  <b>This is a learn to surf program only.</b> You will need your own togs, wetsuit and
   board are provided. The cost is about $160 for 6 lessons plus transport.
 </p>
 <br />

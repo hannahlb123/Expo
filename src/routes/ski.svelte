@@ -46,7 +46,7 @@
   Leader: Mrs Stanton
 </h2>
 
-<a href="/rugby">
+<a href="/running">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

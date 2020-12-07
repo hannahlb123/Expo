@@ -32,11 +32,11 @@
 </style>
 
 <h1 class="title">Life Saving</h1>
-<h2 class="subtitle" id="when">When: Terms 1 & 4</h2>
+<h2 class="subtitle" id="when">When: All year</h2>
 <h2 class="subtitle" id="where">Where: Rangi Pool</h2>
 <p>
-  In life saving your learn very important water saftey skills. All girls
-  complete their bronze level badge in year 9. You are then able to continue on
+  In life saving your learn very important water saftey skills. <b>All girls
+  complete their bronze level badge in year 9.</b> You are then able to continue on
   with life saving to get further badges and learn more.
 </p>
 <br />
@@ -47,7 +47,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Sign up at the beginning of the year for term 1, and in term 3 for term 4.
+  Sign ups are currently closed. Sign up at the beginning of the year for term 1, and in term 3 for term 4.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Joyce

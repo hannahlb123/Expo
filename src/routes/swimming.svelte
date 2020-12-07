@@ -47,7 +47,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Talk to Ms Anderson for events, sign up at the beggining of terms 1 & 4 for swimming sessions. 
+  Talk to Ms Anderson for events, Sign ups are currently closed. sign up at the beggining of terms 1 & 4 for swimming sessions. 
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Joyce

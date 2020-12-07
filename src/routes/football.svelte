@@ -1,11 +1,12 @@
 <style>
-  h1 {
+    h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
   }
 
-  h2, ::after {
+  h2,
+  p {
     text-align: center;
   }
 
@@ -49,7 +50,7 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign up at the start of term 2
+  Sign ups are currently closed. Sign up at the start of term 2
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Brooks

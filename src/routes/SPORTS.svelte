@@ -110,35 +110,38 @@
   <a href="/rugby">
     <button id="gold">Rugby</button>
   </a>
+  <a href="/running">
+    <button id="blue">Running Training</button>
+  </a>
   <a href="/ski">
-    <button id="blue">Ski & Snowboarding</button>
+    <button id="gold">Ski & Snowboarding</button>
   </a>
   <a href="/strength">
-    <button id="gold">Strength & Conditioning</button>
+    <button id="blue">Strength & Conditioning</button>
   </a>
   <a href="/surfing">
-    <button id="blue">Surfing</button>
+    <button id="gold">Surfing</button>
   </a>
   <a href="/swimming">
-    <button id="gold">Swimming</button>
+    <button id="blue">Swimming</button>
   </a>
   <a href="/tennis">
-    <button id="blue">Tennis</button>
+    <button id="gold">Tennis</button>
   </a>
   <a href="/touch">
-    <button id="gold">Touch Rugby</button>
+    <button id="blue">Touch Rugby</button>
   </a>
   <a href="/trampolining">
-    <button id="blue">Trampolining</button>
+    <button id="gold">Trampolining</button>
   </a>
   <a href="/ultimateFrisbee">
-    <button id="gold">Ultimate Frisbe</button>
+    <button id="blue">Ultimate Frisbe</button>
   </a>
   <a href="/volleyball">
-    <button id="blue">Volleyball</button>
+    <button id="gold">Volleyball</button>
   </a>
   <a href="/waterpolo">
-    <button id="gold">Waterpolo</button>
+    <button id="blue">Waterpolo</button>
   </a>
 </div>
 <br />

@@ -55,7 +55,7 @@
 
 <h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Anderson
+  Leader: Ms Kennedy
 </h2>
 <a href="/multiSport">
   <button id="previous" class="button is-light">Previous Page</button>

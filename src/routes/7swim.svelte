@@ -36,7 +36,7 @@ h2, p {
 <br>
 <p>You will need yoru own togs, goggles and swim cap. The cost is $5 per session. </p>
 <br>
-<h2 class="subtitle" id="signUp">No sign up needed, show up to however many sessions you like</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of terms 1 & 4.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Joyce</h2>
 <a href="/7running">

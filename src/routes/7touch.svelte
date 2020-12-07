@@ -29,16 +29,16 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Year 7 & 8 Touch Rugby</h1>
+<h1 class="title">Year 7 & 8 Touch</h1>
 <h2 class="subtitle" id="when">When: Friday 4:20 terms 1&4</h2>
 <h2 class="subtitle" id="where">Where: St. Andrews</h2>
 <p>Touch rugby is a summer sport derived from the winter sport rugby, where you touch the other player instead of tackling them.</p>
 <br>
 <p>You will need your school sports uniform. The cost is $10 per term. </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: ???</h2>
+">Leader: Ms Waghorn</h2>
 <a href="/7tennis">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

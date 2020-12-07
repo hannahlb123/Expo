@@ -43,7 +43,10 @@
   about $15 per person per term plus transport. No experiance is needed.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Sign up at the beginning of each term</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of each term</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
+  Leader: Ms Waghorn
+</h2>
 
 <a href="/kickboxing">
   <button id="previous" class="button is-light">Previous Page</button>
