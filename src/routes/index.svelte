@@ -17,8 +17,7 @@
     transition-duration: 0.9s;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
       0 17px 50px 0 rgba(0, 0, 0, 0.19);
-  }
-  
+  } 
 </style>
 
 <h2 class="subtitle">
@@ -54,7 +53,6 @@
   <a href="/ARTS">
     <button style="background-color: #FEE486; border: solid 10px #FEDF72;">
     <h1 class="title">Arts & Kapa Haka</h1>
-    <br>
     <h2 class="subtitle">Toi Whaari</h2>
     </button> 
   </a>
