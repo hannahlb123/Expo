@@ -33,6 +33,7 @@
 
 <div id="buttons">
   <h1 class="title">Clubs</h1>
+  <h2 class="subtitle" style="text-align: center;">Karapu</h2>
   <a href="/chapel">
     <button id="gold">Chapel Committee</button>
   </a>

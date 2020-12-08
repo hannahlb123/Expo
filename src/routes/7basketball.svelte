@@ -36,7 +36,7 @@ h2, p {
 <br>
 <p>You will need your school sports uniform. The cost is $50 for the season.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up before term 2</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up before term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Waghorn</h2>
 <a href="/7waterpolo">

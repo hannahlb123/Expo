@@ -30,7 +30,8 @@
 </style>
 
 <div id="buttons">
-  <h1 class="title">Arts</h1>
+  <h1 class="title">Arts & Kapa Haka</h1>
+  <h2 class="subtitle" style="text-align: center;">Toi Whaari</h2>
   <a href="/art">
     <button id="gold">Art Extension Club</button>
   </a>

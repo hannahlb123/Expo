@@ -9,7 +9,6 @@
     margin: 5px;
     width: 230px;
     height: 300px;
-    font-size: 30px;
     font-weight: 500 !important;
     color: #4c4c4c !important;
     border-radius: 10px;
@@ -32,15 +31,31 @@
 
 <div id="nav">
   <a href="/SPORTS">
-    <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF;">Sports</button>
+    <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF; ">
+      <h1 class="title">Sports</h1>
+      <br>
+      <h2 class="subtitle">Tākaro</h2>
+    </button>
   </a>
   <a href="/CLUBS">
-    <button style="background-color: #FEE486; border: solid 10px #FEDF72;">Clubs</button>
+    <button style="background-color: #FEE486; border: solid 10px #FEDF72; ">
+      <h1 class="title">Clubs</h1>
+      <br>
+      <h2 class="subtitle">Karapu</h2>
+    </button>
   </a>
   <a href="/ACTIVITIES">
-    <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF;">Activities</button>
+    <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF;   ">
+    <h1 class="title">Activites</h1>
+    <br>
+    <h2 class="subtitle">Mahi</h2>
+    </button>
   </a>
   <a href="/ARTS">
-    <button style="background-color: #FEE486; border: solid 10px #FEDF72;">Arts/music</button>
+    <button style="background-color: #FEE486; border: solid 10px #FEDF72;">
+    <h1 class="title">Arts & Kapa Haka</h1>
+    <br>
+    <h2 class="subtitle">Toi Whaari</h2>
+    </button> 
   </a>
 </div>
