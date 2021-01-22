@@ -64,4 +64,7 @@
   <a href="/library">
     <button id="blue">Student Library Team</button>
   </a>
+  <a href="/stageAngels">
+    <button id="gold">Stage Angels</button>
+  </a>
 </div>

@@ -65,6 +65,6 @@ img{
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
     <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
-<a href="/chapel">
+<a href="/stageAngels">
     <button id="next" class="button is-light">Next Page</button>
 </a>
