@@ -43,7 +43,7 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <!--<h2 class="subtitle" id="signUp">Sign ups are closed for this year</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Isabel Milward</h2>
+">Leader: Ms Milward</h2>
 <a href="/fps">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

@@ -36,7 +36,7 @@ h2, p {
 <br>
 <h2 class="subtitle" id="signUp">Just come along when ever you want!</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Anna Casey and Ms Rivers</h2>
+">Leader: Ms Rivers</h2>
 <a href="/dramaClub">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

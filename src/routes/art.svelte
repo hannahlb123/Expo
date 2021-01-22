@@ -43,7 +43,7 @@ h2, p {
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <!--<h2 class="subtitle" id="signUp">Just come along to try it out!</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ava Smith</h2>
+">Leader: TBC</h2>
 <a href="/rockBand">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
