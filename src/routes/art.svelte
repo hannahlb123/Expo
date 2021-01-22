@@ -21,12 +21,16 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
-  }
+    margin-right: 320px;
+}
 
-  #back {
-    margin-right: 380px;
-  }
+#back {
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
+}
 </style>
 
 <h1 class="title">Art Extension Club</h1>
@@ -36,7 +40,8 @@ h2, p {
 <br>
 <p>You do not have to have any particular skills to join. This club is free and open to all and you can join any time. Bring along some art to do and have fun!</p>
 <br>
-<h2 class="subtitle" id="signUp">Just come along to try it out!</h2>
+<h2 class="subtitle" id="signUp">Sign up via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Just come along to try it out!</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ava Smith</h2>
 <a href="/rockBand">
@@ -44,6 +49,9 @@ h2, p {
 </a>
 <a href="/ARTS">
   <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/chamber">
   <button id="next" class="button is-light">Next Page</button>

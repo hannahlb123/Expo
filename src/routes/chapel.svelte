@@ -39,7 +39,8 @@ h2, p {
 <p>Involvement in Chapel services: candles, readings, prayer, videos, set up and pack down.
 Service in the (school) community</p>
 <br>
-<h2 class="subtitle" id="signUp">You can sign up any point of the year</h2>
+<h2 class="subtitle" id="signUp">Sign up via button below</h2>
+<!--<h2 class="subtitle" id="signUp">Messege Rev. Nicol to sign up</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Camille Perelini, Elisha Villi-Umanga and Rev. Nicol</h2>
 <a href="/library">

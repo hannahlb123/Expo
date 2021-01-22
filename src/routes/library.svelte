@@ -29,11 +29,15 @@ img{
     margin-right: auto;
 }
 #previous {
-    margin-right: 380px;
+    margin-right: 320px;
 }
 
 #back {
-    margin-right: 380px;
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
 }
 </style>
 
@@ -46,7 +50,8 @@ img{
 <br>
 
 
-<h2 id="signUp" class="subtitle">Sign ups are closed for this year. Check back in at the start of next school year to sign up for 2021</h2>
+<h2 id="signUp" class="subtitle">Sign up via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Sign ups are currently closed.</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Milward</h2>
 <img src="library team.jpeg" alt="student library team 2020">
@@ -56,6 +61,9 @@ img{
 </a>
 <a href="/CLUBS">
     <button id="back" class="button is-light">Clubs page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/chapel">
     <button id="next" class="button is-light">Next Page</button>

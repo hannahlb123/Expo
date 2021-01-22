@@ -21,11 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
+    margin-right: 320px;
 }
 
 #back {
-    margin-right: 380px;
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
 }
 </style>
 
@@ -36,7 +40,8 @@ h2, p {
 <br>
 <p>Be interested in reading or wanting to find out more about books and you can sign up anypoint of the year.<b>Years 7 and 8 only</b></p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up - max 10 people</h2>
+<h2 class="subtitle" id="signUp">Sign up via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Sign ups are closed for this year</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Isabel Milward</h2>
 <a href="/fps">
@@ -44,6 +49,9 @@ h2, p {
 </a>
 <a href="/CLUBS">
     <button id="back" class="button is-light">Clubs page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/rainbow">
     <button id="next" class="button is-light">Next Page</button>

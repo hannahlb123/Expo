@@ -21,12 +21,16 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
-  }
+    margin-right: 320px;
+}
 
-  #back {
-    margin-right: 380px;
-  }
+#back {
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
+}
 </style>
 
 <h1 class="title">Chamber Music</h1>
@@ -36,7 +40,8 @@ h2, p {
 <br>
 <p>You need to be able to play your instrument to a high level (Grade 5 or above) and a preparedness to work really hard and learn to play together with self discipline and direction. You also need an ability to have fun and see the lighter side of music making . There is a cost of entry to the chamber music contest. For those selected for National Finale, a cost of around $200-$300, depending on where the National Finale is held.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign up for 2021 by the 12th of February</h2>
+<h2 class="subtitle" id="signUp">Sign up for 2021 by the 12th of February via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Sign ups are currently closed</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Kingsbury</h2>
 <a href="/art">
@@ -44,6 +49,9 @@ h2, p {
 </a>
 <a href="/ARTS">
   <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/dance">
   <button id="next" class="button is-light">Next Page</button>

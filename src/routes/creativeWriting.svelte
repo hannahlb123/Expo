@@ -21,11 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
+    margin-right: 320px;
 }
 
 #back {
-    margin-right: 380px;
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
 }
 </style>
 
@@ -36,7 +40,8 @@ h2, p {
 <br>
 <p>You do not have to have any particular skills to join. This club is free and open to all. Bring along your prefered way of writing, for example your laptop or pen and paper. </p>
 <br>
-<h2 class="subtitle" id="signUp">Just come along to try it out!</h2>
+<h2 class="subtitle" id="signUp">Sign up via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Just show up to try it out</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Bovett</h2>
 <a href="/chapel">

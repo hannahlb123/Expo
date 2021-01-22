@@ -21,12 +21,16 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
-  }
+    margin-right: 320px;
+}
 
-  #back {
-    margin-right: 380px;
-  }
+#back {
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
+}
 </style>
 
 <h1 class="title">Rangi Players</h1>
@@ -37,7 +41,8 @@ h2, p {
 <p>Mr Thin is in charge, you need to have your own instrument. You need to have been learning your instrument for at least 2 terms to join. If you unsure whether you are at a high enough level talk to Mr Thin or your instument teacher about it. </p>
 <br>
 
-<h2 class="subtitle" id="signUp">Messege or email Mr Thin to join.</h2>
+<h2 class="subtitle" id="signUp">Sign up via link below</h2>
+<!--<h2 class="subtitle" id="signUp">Messege Mr Think to join</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Thin</h2>
 <a href="/percussion">
@@ -45,6 +50,9 @@ h2, p {
 </a>
 <a href="/ARTS">
   <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/sinfonia">
   <button id="next" class="button is-light">Next Page</button>

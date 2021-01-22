@@ -27,12 +27,16 @@ img {
 }
 
 #previous {
-    margin-right: 380px;
-  }
+    margin-right: 320px;
+}
 
-  #back {
-    margin-right: 380px;
-  }
+#back {
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
+}
 </style>
 
 <h1 class="title">Rangi Voices</h1>
@@ -44,7 +48,8 @@ img {
 <br>
 <img src="RangiVoices1.jpeg" alt="">
 <img src="RangiVoices2.jpeg" alt="">
-<h2 class="subtitle" id="signUp">Sign up for 2021 by 5th of Feburary</h2>
+<h2 class="subtitle" id="signUp">Sign up for 2021 by 5th of Feburary via the link below</h2>
+<!--<h2 class="subtitle" id="signUp">Sign ups are currentlu closed</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Charlton</h2>
 <a href="/sinfonia">
@@ -52,6 +57,9 @@ img {
 </a>
 <a href="/ARTS">
   <button id="back" class="button is-light">Arts Page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/resolutions">
   <button id="next" class="button is-light">Next Page</button>
