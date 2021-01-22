@@ -53,7 +53,7 @@
   <a href="/ARTS">
     <button style="background-color: #FEE486; border: solid 10px #FEDF72;">
     <h1 class="title">Arts & Kapa Haka</h1>
-    <h2 class="subtitle">Toi Whakaari</h2>
+    <h2 class="subtitle">Toi Whakaar</h2>
     </button> 
   </a>
 </div>
