@@ -35,8 +35,7 @@
 <h2 class="subtitle" id="when">When: Tuesdays and Thursdays after school</h2>
 <h2 class="subtitle" id="where">Where: Rangi Fitness Center</h2>
 <p>
-  In Metafit you complete 20-30 minute excerises that are designed to get you
-  fitter and stronger.
+  In Metafit you complete 20-30 minute workouts made up of a range of different exercises that are designed to get you fitter and stronger.
 </p>
 <br />
 <p>
@@ -46,7 +45,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Come to however many sessions you would like.
+  Come to however many sessions you would like
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Joyce

@@ -38,7 +38,7 @@
   each event per person.
 </p>
 <br/>
-<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);">Sign up as events are advertised.</h2>
+<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);">Sign up as events are advertised</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Brooks
 </h2>

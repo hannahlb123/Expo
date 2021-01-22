@@ -32,7 +32,7 @@
 
 <h1 class="title">Indoor Football</h1>
 <h2 class="subtitle" id="when">
-  When: Games from 3:15pm on Wednesdays in terms 1 & 4.
+  When: Games from 3:15pm on Wednesdays terms 1 & 4
 </h2>
 <h2 class="subtitle" id="where">Where: Various indoor sports centers</h2>
 <p>
@@ -41,7 +41,7 @@
 </p>
 <br />
 <p>
-  You will need your own school PE uniform. It is approximitly $25 per person
+  You will need your own school PE uniform. It is approximately $25 per person
   plus transport. There are 5-8 girls per team, and you are able to create your
   own social team.
 </p>

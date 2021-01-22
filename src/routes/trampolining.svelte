@@ -35,7 +35,7 @@
 <h2 class="subtitle" id="when">When: Wednesdays after school</h2>
 <h2 class="subtitle" id="where">Where: Christchurch School of Gymnastics</h2>
 <p>
-  Trampolining is a year round sport where people do tricks while bouncing on
+  Trampolining is a year-round sport where people do tricks while bouncing on
   the trampoline. You will learn to safely perform tricks on the trampoline and
   improve your fitness and flexibility.
 </p>

@@ -29,22 +29,22 @@ h2, p {
 }
 </style>
 
-<h1 class="title">Year 7 & 8 Touch</h1>
-<h2 class="subtitle" id="when">When: Friday 4:20 terms 1&4</h2>
-<h2 class="subtitle" id="where">Where: St. Andrews</h2>
-<p>Touch rugby is a summer sport derived from the winter sport rugby, where you touch the other player instead of tackling them.</p>
+<h1 class="title">Year 7 & 8 Tennis Coaching</h1>
+<h2 class="subtitle" id="when">When: Friday afternoon</h2>
+<h2 class="subtitle" id="where">Where: School courts</h2>
+<p>Tennis is a summer sport where you hit a ball to the other side of the court with a racket.</p>
 <br>
-<p>You will need your school sports uniform. The cost is $10 per term. </p>
+<p>You will need your own sports gear and tennis racket. The cost is about $60 per term. Experienced players may be asked to join the seniors.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are closed, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Waghorn</h2>
-<a href="/7tennis">
+<a href="/7&8swimming">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/7waterpolo">
+<a href="/7&8touch">
     <button id="next" class="button is-light">Next Page</button>
 </a>
