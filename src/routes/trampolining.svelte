@@ -35,14 +35,14 @@
 <h2 class="subtitle" id="when">When: Wednesdays afterscool</h2>
 <h2 class="subtitle" id="where">Where: Christchurch School of Gymnastics</h2>
 <p>
-  Trampolining is a year round sport where people do tricks while bouncing on
+  Trampolining is a year-round sport where people do tricks while bouncing on
   the trampoline. You will learn to safely perform tricks on the trampoline and
   improve your fitness and flexibility.
 </p>
 <br />
 <p>
   You will need your school sports uniform and socks. Minimum numbers are
-  required. The cost is $40 per term plus cost of badges if sat. No experiance
+  required. The cost is $40 per term plus cost of badges if sat. No experience
   is needed.
 </p>
 <br />

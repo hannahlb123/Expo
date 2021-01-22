@@ -32,14 +32,14 @@
 <h2 class="subtitle" id="where">Where: School fitness center and gym</h2>
 <p>
   Strength and conditioning is generally for a specific sport, higher level
-  sports team will be required to attend stregnth and conditioning sessions with
+  sports team will be required to attend strength and conditioning session with
   a coach who will provide them with exercises to help them to improve in their
   sport.
 </p>
 <br />
 <p>
   You will need sports clothes, the cost is about $10 per session attended. No
-  experiance is needed.
+  experience is needed.
 </p>
 <br />
 <h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%); ">Signups are currently closed, sign ups offered each term</h2>
@@ -47,7 +47,7 @@
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ross Kennedy
 </h2>
-<a href="/ski">
+<a href="/skiing">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

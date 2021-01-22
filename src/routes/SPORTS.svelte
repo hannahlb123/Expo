@@ -114,10 +114,10 @@
   <a href="/running">
     <button id="blue">Running Training</button>
   </a>
-  <a href="/ski">
+  <a href="/skiing">
     <button id="gold">Ski & Snowboarding</button>
   </a>
-  <a href="/strength">
+  <a href="/strength&conditioning">
     <button id="blue">Strength & Conditioning</button>
   </a>
   <a href="/surfing">

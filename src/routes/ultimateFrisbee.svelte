@@ -35,14 +35,14 @@
 <h2 class="subtitle" id="when">When: Wednesday afterschool terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: North Hagley Park</h2>
 <p>
-  Ultimate frisbee is a non-contact summer sport which is a self refereed team
-  sport played with a frisbee(flying disc). Two teams of seven players play on a
+  Ultimate frisbee is a non-contact self refereed team
+  sport which is played with a frisbee(flying disc). Two teams of seven players play on a
   narrow field and try to throw the frisbee across the line at the other end of
   the field.
 </p>
 <br />
 <p>
-  You will need your school uniform, the cost is about $20 per term. A minimum
+  You will need your school PE uniform, the cost is about $20 per term. A minimum
   of 8 players per team is needed.
 </p>
 <br />

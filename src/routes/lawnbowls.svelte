@@ -39,11 +39,11 @@
 </p>
 <br />
 <p>
-  You will need your school sports uniform and flat soled shoes, the cost is
-  about $15 per person per term plus transport. No experiance is needed.
+  You will need your school sports uniform and flat-soled shoes, the cost is
+  about $15 per person plus transport. No experience is needed.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of each term</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of each term</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn
 </h2>

@@ -38,7 +38,7 @@
 <p>Indoor netball is netball but played indoors with one less player.</p>
 <br />
 <p>
-  You will need your school sports uniform, the cost is about $25 per person.
+  You will need your school PE uniform, the cost is about $25 per person.
   You need 7-10 players per team, you are able to create your own social team.
 </p>
 <br />

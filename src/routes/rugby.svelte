@@ -42,13 +42,13 @@
 </p>
 <br />
 <p>
-  It is important that you show up to all trainings to learn the safe contact
+  It is important that you show up to all trainings to learn safe contact
   techniques. You will need your own boots, shorts, socks and mouthguard. Tops
   will be provided. The cost is around $40 per season plus transport costs.
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Frier
 </h2>

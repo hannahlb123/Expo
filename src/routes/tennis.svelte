@@ -32,15 +32,13 @@
 </style>
 
 <h1 class="title">Tennis</h1>
-<h2 class="subtitle" id="when">
-  When: Games - Wednesdays afterschool
-  <br />
+<h2 class="subtitle" id="when"> When: Games - Wednesdays after school<br />
   Coaching - Tuesday &/or Thursday mornings terms 1 & 4
 </h2>
 <h2 class="subtitle" id="where">Where: School courts and various venues</h2>
 <p>
-  Tennis is a summer sport where you hit a ball to other sides of the court with
-  a racket to the other player.
+  Tennis is a summer sport where you hit a ball to the other side of the court with
+  a racket.
 </p>
 <br />
 <p>

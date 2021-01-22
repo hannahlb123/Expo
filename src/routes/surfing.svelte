@@ -32,11 +32,11 @@
 </style>
 
 <h1 class="title">Surfing</h1>
-<h2 class="subtitle" id="when">When: Tuesday 4:30-6:30 terms 1 & 4</h2>
+<h2 class="subtitle" id="when">When: Tuesday 4:30-6:30pm terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: Sumner beach</h2>
 <p>
   Surfing is the sport of riding waves in an upright position, they glide across
-  the surface of the water until the wave breaks and loses its energy.
+  the surface of the water until the wave breaks.
 </p>
 <br />
 <p>
@@ -49,7 +49,7 @@
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn
 </h2>
-<a href="/strength">
+<a href="/strength&conditioning">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

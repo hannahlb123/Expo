@@ -31,19 +31,19 @@
 </style>
 
 <h1 class="title">Kickboxing</h1>
-<h2 class="subtitle" id="when">When: Wednesday 3-3:45pm all year</h2>
+<h2 class="subtitle" id="when">When: Wednesday 3:00-3:45pm all year</h2>
 <h2 class="subtitle" id="where">Where: Proactive Martial Arts, Sockburn</h2>
 <p>
   Kickboxing is a combat sport involving kicking and punching. Kickboxing is
-  practised for self-defence, general fitness, or as a contact sport.
+  practised for self-defence, general fitness or as a contact sport.
 </p>
 <br />
 <p>
-  You will need your school sports uniform, the cost is about $70 per person. No
-  experiance is needed. Minimum numbers apply.
+  You will need your school PE uniform, the cost is about $70 per person. No
+  experience is needed. Minimum numbers apply.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the end of each term and the beggining of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of the year or at the end of each term</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn
 </h2>
