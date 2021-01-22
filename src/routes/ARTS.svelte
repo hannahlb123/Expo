@@ -50,7 +50,7 @@
   <a href="/percussion">
     <button id="blue">Percussion Ensemble</button>
   </a>
-  <a href="/players">
+  <a href="/rangiPlayers">
     <button id="gold">Rangi Players</button>
   </a>
   <a href="/sinfonia">

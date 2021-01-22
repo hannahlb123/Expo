@@ -38,7 +38,7 @@ h2, p {
 <h2 class="subtitle" id="where">Where: Dance studio</h2>
 <p><b>Elite Dance Company, Senior Dance Company, Junior Dance Company, Year 7/8 Dance Company</b></p>
 <br>
-<p>There are 4 dance companies to audition for. Each company learns routines to perform at the regional Dance NZ Made competition in July. They also perform at school events such as the Showcase, Evening of Dance and Prize giving. Senior students can work towards NCEA credits through the Senior Dance Company and the Elite Dance Company. There is a cost of $40-$80 depending on the number of performance opportunities</p>
+<p>There are 4 dance companies to audition for. Each company learns routines to perform at the regional Dance NZ Made competition in July. They also perform at school events such as the Showcase, Evening of Dance and Prize Giving. Senior students can work towards NCEA credits through the Senior Dance Company and the Elite Dance Company. There is a cost of $40-$80 depending on the number of performance opportunities.</p>
 <br>
 
 
