@@ -36,9 +36,9 @@ h2, p {
 <h1 class="title">Junior Bookclub</h1>
 <h2 class="subtitle" id="when">When: Once a fortnight, day TBC</h2>
 <h2 class="subtitle" id="where">Where: Library</h2>
-<p>We have fun, play games and talk about the books we have read and find others we would like to read.</p>
+<p>We have fun, play games and talk about the books we have read and get suggestions from others of other books to read.</p>
 <br>
-<p>Be interested in reading or wanting to find out more about books and you can sign up anypoint of the year.<b>Years 7 and 8 only</b></p>
+<p>All you need is to be interested in reading or wanting to find out more about books. You can sign up any point of the year. <b>Years 7 and 8 only</b></p>
 <br>
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <!--<h2 class="subtitle" id="signUp">Sign ups are closed for this year</h2>-->
@@ -53,6 +53,6 @@ h2, p {
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
     <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
-<a href="/rainbow">
+<a href="/rainbowRangi">
     <button id="next" class="button is-light">Next Page</button>
 </a>

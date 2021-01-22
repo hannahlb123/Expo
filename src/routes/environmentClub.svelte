@@ -32,7 +32,7 @@ h2, p {
 <h1 class="title">Environment Club</h1>
 <h2 class="subtitle" id="when">When: Last Friday of each month</h2>
 <h2 class="subtitle" id="where">Where: TBC</h2>
-<p>All you need is to be keen to take action! There are practical workshops making environmentally friendly products and hands on activities like planting in our school nursery or greenhouse.</p>
+<p>All you need is to be keen to take action! Environment Club involves practical workshops to make environmentally friendly products and hands on activities like planting in our school nursery or greenhouse.</p>
 <br>
 <h2 class="subtitle" id="signUp">Just come along when ever you want!</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);

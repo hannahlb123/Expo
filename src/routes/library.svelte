@@ -44,9 +44,9 @@ img{
 <h1 class="title">Student Library Team</h1>
 <h2 class="subtitle" id="when">When: 30 mins each week whenever suits you</h2>
 <h2 class="subtitle" id="where">Where: Rangi Library</h2>
-<p>The student library team is a team of 15 people from years 11 to 13 who look after the library before school, lunchtimes or after school for at lest half an hour each week. The duties can include: helping with basic library functions such as checking out books and returns, recommending resources and keeping the library stocked.</p>
+<p>The student library team is a team of 15 students from years 11 to 13 who look after the library before school, lunchtimes or after school for at least half an hour each week. The duties can include: helping with basic library functions such as checking out books and returns, recommending resources and keeping the library stocked.</p>
 <br>
-<p>There is no cost associated with the student library team, however you will earn community service hours for your work. You need to love reading; Be comfortable finding your way around the library; Be friendly, positive and polite and enjoy helping students; have good spoken and written English; Comfortable using technology; enjoy change. </p>
+<p>There is no cost associated with the student library team, however, you will earn community service hours for your work. You need to love reading, be comfortable finding your way around the library, be friendly, positive and polite and enjoy helping students as well as having good spoken and written English and being comfortable using technology. </p>
 <br>
 
 

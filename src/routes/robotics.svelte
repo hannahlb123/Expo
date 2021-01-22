@@ -36,13 +36,13 @@ h2, p {
 <h1 class="title">Robotics</h1>
 <h2 class="subtitle" id="when">When: TBC</h2>
 <h2 class="subtitle" id="where">Where: CH3 (Creative Hub)</h2>
-<p>Robotics Club lets interested students play with buildable and programmable technology, from EV3s to BBC micro:bits. Students can choose to work on guided projects, something they're interested in, or compete in local and regional robotics competitions.</p>
+<p>Robotics Club lets students play with buildable and programmable technology, from EV3s to BBC micro:bits. Students can choose to work on guided projects, something they're interested in, or compete in local and regional robotics competitions.</p>
 <br>
-<p>You do not have to own or have any skills to join. To join the club does not cost anything however if you choose to enter in a competion then it may cost money. </p>
+<p>You do not have to own any equipment or have any skills to join. Robotics club does not cost anything however if you choose to enter in a competition then there will be a cost. </p>
 <br>
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mr Wu</h2>
+">Leader: Ms Wu</h2>
 <a href="/rainbow">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

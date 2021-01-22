@@ -33,9 +33,9 @@ h2, p {
 <h1 class="title">Drama Club</h1>
 <h2 class="subtitle" id="when">When: TBC</h2>
 <h2 class="subtitle" id="where">Where: Merivale Lane Theatre</h2>
-<p>Drama club involves games and activities to build your confidence and give you opportunities to be creative.</p>
+<p>Drama club involves games and activities to build your confidence in performing and gives you opportunities to be creative.</p>
 <br>
-<p>All are welcome and you can come along any time during the year</p>
+<p>All are welcome and you can come along any time during the year.</p>
 <br>
 <h2 class="subtitle" id="signUp">No need to sign up</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
@@ -46,6 +46,6 @@ h2, p {
 <a href="/CLUBS">
     <button id="back" class="button is-light">Clubs Page</button>
 </a>
-<a href="/environment">
+<a href="/environmentClub">
     <button id="next" class="button is-light">Next Page</button>
 </a>

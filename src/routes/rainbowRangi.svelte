@@ -31,13 +31,13 @@ h2, p {
 </style>
 
 <h1 class="title">Rainbow Rangi</h1>
-<h2 class="subtitle" id="when">When: Monday Lunchtimes</h2>
-<h2 class="subtitle" id="where">Where: Mr Sloss's Room(Upstairs Mana Wahine)</h2>
-<p>Rainbow Rangi is a group for lgbt people in our Rangi community, as well as their straight allies, to come together and discuss the issues in our communities, and provide a place where everyone can feel included and accepted. Most sessions include baking and food to share.</p>
+<h2 class="subtitle" id="when">When: Monday lunchtimes</h2>
+<h2 class="subtitle" id="where">Where: Mr Sloss's Room (Upstairs Mana Wahine)</h2>
+<p>Rainbow Rangi is a group for LGBT people in our Rangi community, as well as their straight allies, to come together and discuss the issues in our communities, and provide a place where everyone can feel included and accepted. Most sessions include baking and food to share.</p>
 <br>
-<p>Rainbow Rangi is open to all year groups and anyone whether you are apart of the LGBTQ+ community or just an Ally. There is no cost associated with this club.</p>
+<p>Rainbow Rangi is open to all year groups and anyone whether you are apart of the LGBTQ+ community or just an ally. There is no cost associated with this club.</p>
 <br>
-<h2 class="subtitle" id="signUp">Just turn up to as many meetings as you like, no sign up needed.</h2>
+<h2 class="subtitle" id="signUp">Just turn up to as many meetings as you like, no sign up needed</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Evelyn Kuo</h2>
 <a href="/bookclub">

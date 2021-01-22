@@ -46,7 +46,7 @@
   <a href="/dramaClub">
     <button id="blue">Drama Club</button>
   </a>
-  <a href="/environment">
+  <a href="/environmentClub">
     <button id="gold">Environment Club</button>
   </a>
   <a href="/fps">
@@ -55,7 +55,7 @@
   <a href="/bookclub">
     <button id="gold">Junior Bookclub</button>
   </a>
-  <a href="/rainbow">
+  <a href="/rainbowRangi">
     <button id="blue">Rainbow Rangi</button>
   </a>
   <a href="/robotics">

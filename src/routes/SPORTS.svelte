@@ -136,7 +136,7 @@
     <button id="gold">Trampolining</button>
   </a>
   <a href="/ultimateFrisbee">
-    <button id="blue">Ultimate Frisbe</button>
+    <button id="blue">Ultimate Frisbee</button>
   </a>
   <a href="/volleyball">
     <button id="gold">Volleyball</button>

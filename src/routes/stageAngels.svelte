@@ -35,14 +35,14 @@ h2, p {
 
 <h1 class="title">Stage Angels</h1>
 <h2 class="subtitle" id="when">When: TBC</h2>
-<h2 class="subtitle" id="where">Where: Merivale Lane Theater</h2>
-<p>In Stage Angels we are looking to partner with the new Conference Centre technical team to give students experience in working in our own venues but also other theatre venues in schools. We want more women in theatre technology, and some of our past and current students work for companies in Christchurch and for outside hirers of our venues after school and on the weekends. We give you an opportunity to gain the skills to get involved in our productions in an offstage capacity.</p>
+<h2 class="subtitle" id="where">Where: Merivale Lane Theatre</h2>
+<p>In Stage Angels we are looking to partner with the new Conference Centre technical team to give students experience in working our own venues but also other theatre venues in schools. We want more women in theatre technology, and some of our past and current students work for companies in Christchurch and for outside hirers of our venues after school and on the weekends. We give you an opportunity to gain the skills to get involved in our productions in an offstage capacity.</p>
 <br>
-<p>You need to have an interest in either theatre Technologies (lights, sound, props, set, costume, etc) of management - being a stage hand, stage manager. It is open to all year levels and there is no cost. </p>
+<p>You need to have an interest in either theatre technologies (lights, sound, props, set, costume, etc), being a stagehand or stage manager. It is open to all year levels and there is no cost. </p>
 <br>
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Mr Wu</h2>
+">Leader: Ms Wu</h2>
 <a href="/library">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>

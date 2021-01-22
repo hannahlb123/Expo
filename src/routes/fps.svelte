@@ -38,12 +38,12 @@ h2, p {
 <h2 class="subtitle" id="where">Where: CH2 (Creative Hub)</h2>
 <p>Future Problem Solving is about learning to tackle big, global problems that humanity could be facing in the next few decades. We try to come up with solutions to many things, including climate change, ecological destruction, genetic engineering, social injustice, and space travel.</p>
 <br>
-<p>The cost depends on the level of envolvement, it is somewhere around $100-$150. It is welcome to all levels of experience. You will need to bring a pencil case and some sort of notes system.</p>
+<p>The cost depends on the level of involvement, it's somewhere around $100-$150. FPS is welcome to all levels of experience. You will need to bring a pencil case and some sort of notes system.</p>
 <br>
 <h2 class="subtitle" id="signUp">Sign up via link below</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Isis Ward</h2>
-<a href="/environment">
+<a href="/environmenClubt">
     <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">
