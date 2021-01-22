@@ -28,10 +28,6 @@
     text-align: center;
   }
 
-  #image{
-      margin-left: 200px;
-  }
-
   #previous {
     margin-right: 380px;
   }
@@ -65,7 +61,7 @@
 </p>
 <br />
 
-<img src="tree1.jpg" id="image" alt="Tree Planting at Rangi Ruru" />
+<img src="tree1.jpg" alt="Tree Planting at Rangi Ruru" />
 <img src="tree2.jpg" alt="Tree Planting event" />
 
 <h2 class="subtitle" id="signUp">
