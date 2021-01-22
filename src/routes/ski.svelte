@@ -41,7 +41,7 @@
   your own ski gear. The cost depends on the entry costs and transport used.
 </p>
 <br />
-<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);" >Sign up are events are promated</h2>
+<h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);" >Sign up are events are promoted</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Mrs Stanton
 </h2>

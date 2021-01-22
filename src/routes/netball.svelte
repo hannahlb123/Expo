@@ -39,14 +39,14 @@
   Where: Hagley park on Saturdays and various venues on Wednesdays
 </h2>
 <p>
-  Netball is a ball sport with 7 players on each team, the obejct of the game is
+  Netball is a ball sport with 7 players on each team, the object of the game is
   to throw the ball in the hoop at the other end of the court. Rangi has teams
   of 10 from years 9-13, social teams are an option.
 </p>
 <br />
 <p>
-  You will need a rangi netball dress, available from the uniform shop, and navy
-  shorts to wear underneath. Saturday costs between $120-$250, Wednesday $40.
+  You will need a rangi netball dress, which is available from the uniform shop, and navy
+  shorts to wear underneath. Saturday costs between $120-$250, Wednesday costs $40.
   Trials are held in term 1, socials teams do not need a trial. Saturday comp
   starts end of April, and there will be games during the holidays. 9 A team, 10
   A team and Senior A team all go to tournament.

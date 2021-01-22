@@ -39,7 +39,7 @@
 </h2>
 <p>
   You kick a ball around a field with 11 other players, and you try to get the
-  ball through your goal the end of the field.
+  ball through your goal at the end of the field.
 </p>
 <br />
 <p>

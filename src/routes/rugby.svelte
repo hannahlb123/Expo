@@ -37,7 +37,7 @@
 </h2>
 <h2 class="subtitle" id="where">Where: School or Hagley Park</h2>
 <p>
-  Rugby is a ball sport with 15 players on each team, the aim of the game is to
+  Rugby is a ball sport with 15 players on each team. The aim of the game is to
   get the ball across the line at the end of the field by tackling people.
 </p>
 <br />

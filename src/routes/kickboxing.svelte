@@ -35,12 +35,12 @@
 <h2 class="subtitle" id="where">Where: Proactive Martial Arts, Sockburn</h2>
 <p>
   Kickboxing is a combat sport involving kicking and punching. Kickboxing is
-  practised for self-defence, general fitness, or as a contact sport.
+  practiced for self-defence, general fitness, or as a contact sport.
 </p>
 <br />
 <p>
   You will need your school sports uniform, the cost is about $70 per person. No
-  experiance is needed. Minimum numbers apply.
+  experience is needed. Minimum numbers apply.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the end of each term and the beggining of the year</h2>

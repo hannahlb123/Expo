@@ -34,15 +34,15 @@
 <h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm, Terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Rangi and different school gyms</h2>
 <p>
-  Badminton is similar to tennis where you hit a shuttlecock over a net to the
+  Badminton is a game where you hit a shuttlecock over a net to the
   other player. This is played in a team of four, where you play two games each
   week, singles and doubles.
 </p>
 <br />
 <p>
-  Uniform is the school PE uniform, you need your own racquet. It is $25 for both
+  Uniform is the school PE uniform but you need your own racquet. It is $25 for both
   terms, additional cost if you take the school transport. Generally there are no
-  practises, however if your team wants a practise it can be arranged.
+  practices, however if your team wants a practise it can be arranged.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">

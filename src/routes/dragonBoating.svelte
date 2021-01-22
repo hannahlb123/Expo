@@ -37,7 +37,7 @@
 <h2 class="subtitle" id="where">Where: Lake Rua</h2>
 <p>
   Dragon Boating is where you race in a boat with paddlers, a drummer and a
-  steers person against other boats to cross the finish with the shortest time
+  steer person against other boats to cross the finish with the shortest time
   possible.
 </p>
 <br />

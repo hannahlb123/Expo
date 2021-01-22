@@ -39,7 +39,7 @@
 </p>
 <br />
 <p>
-  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter in and the transport you take. You can attend running training at school, or you may like to consider joining a club.
+  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter, and the transport you take. You can attend running training at school, or you may like to consider joining a club.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">

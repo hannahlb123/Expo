@@ -35,11 +35,11 @@
   When: Games from 3:15pm on Wednesdays terms 1 & 4
 </h2>
 <h2 class="subtitle" id="where">Where: Various indoor sports centers</h2>
-<p>Indoor netball is netball but played indoors with one less player.</p>
+<p>Indoor netball is netball but played indoors.</p>
 <br />
 <p>
   You will need your school sports uniform, the cost is about $25 per person.
-  You need 7-10 players per team, you are able to create your own social team.
+  You need 7-10 players per team and you are able to create your own social team.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">

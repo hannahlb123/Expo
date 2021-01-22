@@ -32,9 +32,9 @@ h2, p {
 <h1 class="title">Running Training</h1>
 <h2 class="subtitle" id="when">When: Tuesday mornings at 7:15</h2>
 <h2 class="subtitle" id="where">Where: Meet at the gym</h2>
-<p>Sessions will either be sprint training, long distance, or feild events. This will be taken by a running coach</p>
+<p>Sessions will either be sprint training, long distance, or field events. This will be taken by a running coach</p>
 <br>
-<p>You will need sports gear. The cost is no cost. </p>
+<p>You will need sports gear. There is no cost. </p>
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);

@@ -39,8 +39,8 @@
   Where: Rides leave from Rangi, terms 2 & 3 cycle in Tai Tapu
 </h2>
 <p>
-  Cycling is split into 3 races for the school competition- individual time
-  trials which is you racing as fast as you can against the clock. Team time
+  Cycling is split into 3 races for the school competition - individual time
+  trials where you race as fast as you can against the clock. Team time
   trials is a group of 3 to 4 (5 for nationals) where you race other teams. There is a graded
   scratch where you race in a group of people about your level and it is the
   first person over the finish line who wins. For training you train as a team

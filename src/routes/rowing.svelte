@@ -36,19 +36,19 @@
   When: October-March trainings 3-6 times per week
 </h2>
 <h2 class="subtitle" id="where">
-  Where: Trainings at Kerrs Reach, Ragattas at various venues.
+  Where: Trainings at Kerrs Reach, Regattas at various venues.
 </h2>
 <p>
-  You are in a team of usaully 4 or 8, and you row across a strech of water
+  You are in a team of usually 4 or 8, and you row across a strech of water
   racing other teams to get to the finish line the fastest. There is someone
   called a cox, who sits at the front of the back of the boat and encourages the
   rowers, this is generally someone who is small.
 </p>
 <br />
 <p>
-  Rowing is a sport which requeires massive comitment, year 9's are unabel to
-  row in term 1 but can join in term 4. There is a monthley fee of about $750
-  plus additional costs depending on where nationals takes place. You will need
+  Rowing is a sport which requires massive commitment, year 9's are unable to
+  row in term 1 but can join in term 4. There is a monthly fee of about $750
+  plus additional costs depending on where nationals take place. You will need
   the rangi rowing singlet, navy bike pants, navy socks & navy with old stripe
   top, you will also need your own bike.
 </p>

@@ -39,7 +39,7 @@
 </h2>
 <h2 class="subtitle" id="where">Where: School courts and various venues</h2>
 <p>
-  Tennis is a summer sport where you hit a ball to other sides of the court with
+  Tennis is a summer sport where you hit a ball to the other side of the court with
   a racket to the other player.
 </p>
 <br />
@@ -50,7 +50,7 @@
   this will have extra costs.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Bissland
 </h2>

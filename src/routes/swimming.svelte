@@ -33,9 +33,9 @@
 
 <h1 class="title">Swimming</h1>
 <h2 class="subtitle" id="when">When: Mondays and Wednesdays terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: School pool and competion pools</h2>
+<h2 class="subtitle" id="where">Where: School pool and competition pools</h2>
 <p>
-  Swimming is the summer sport of moving throughout the water. The Monday and
+  Swimming is the summer sport of moving through the water. The Monday and
   Wednesday sessions are for non-club swimmers at any level. Events for
   competitive swimmers are throughout the year.
 </p>
@@ -47,7 +47,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Talk to Ms Anderson for events, Sign ups are currently closed. sign up at the beggining of terms 1 & 4 for swimming sessions. 
+  Talk to Ms Anderson for events, Sign ups are currently closed. Sign up at the beginning of terms 1 & 4 for swimming sessions. 
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Joyce

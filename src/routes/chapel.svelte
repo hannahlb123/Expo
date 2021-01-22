@@ -21,11 +21,15 @@ h2, p {
     color: hsl(48, 100%, 67%);
 }
 #previous {
-    margin-right: 380px;
+    margin-right: 320px;
 }
 
 #back {
-    margin-right: 380px;
+    margin-right: 20px;
+}
+
+#signUpLink {
+    margin-right: 330px;
 }
 </style>
 
@@ -43,6 +47,9 @@ Service in the (school) community</p>
 </a>
 <a href="/CLUBS">
     <button id="back" class="button is-light">Clubs Page</button>
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
+    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
 </a>
 <a href="/creativeWriting">
     <button id="next" class="button is-light">Next Page</button>

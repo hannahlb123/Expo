@@ -35,15 +35,15 @@
 <h2 class="subtitle" id="when">When: Fridays from 4pm, terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Various venues</h2>
 <p>
-  Basketball is a team sport where you have 5 players on each team, each team
-  will run down the court with a ball and try and throw the ball into the hoop
-  at each end. Trials are held to be sorted into teams within your year group.
+  Basketball is a team sport where you have 5 players on each team. Each team
+  will run down the court with a ball and try to throw the ball into the hoop
+  at each end. Trials are held so that you can be sorted into teams within your year group.
 </p>
 <br />
 <p>
-  Basketball singlet is needed, you will need to purchase one at the uniform
-  shop, you also need your own mouthguard. Approximetly $92 to play, $77 for a
-  singlet and extra for school transport is needed. Extra costs if placed into
+  A basketball singlet is needed, you will need to purchase one at the uniform
+  shop. You also need your own mouthguard. Approximately $92 to play, $77 for a
+  singlet and extra for school transport if needed. There are extra costs if placed into
   senior A or B team as you will go to tournament in term 3.
 </p>
 <br />

@@ -38,8 +38,7 @@
 <h2 class="subtitle" id="where">Where: School gym and various indoor venues</h2>
 <p>
   Volleyball is a summer team sport where 6 people on each team stand across
-  from each other seperated from a net. The teams score points by getting the
-  other team by getting the ball to hit the ground on the other teams side.
+  from each other separated by a net. The teams score points by getting the ball to hit the ground on the other teams side.
 </p>
 <br />
 <p>
@@ -49,7 +48,7 @@
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of term 1&4</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of term 1 & 4</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Brooks
 </h2>

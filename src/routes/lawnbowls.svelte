@@ -34,13 +34,13 @@
 <h2 class="subtitle" id="when">When: Wednesday 3:15-4:15pm terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: Various bowling clubs</h2>
 <p>
-  Lawn bowls is a sport which the objective is to roll biased balls so that they
+  Lawn bowls is a sport where the objective is to roll biased balls so that they
   stop close to a smaller ball called a "jack" or "kitty".
 </p>
 <br />
 <p>
-  You will need your school sports uniform and flat soled shoes, the cost is
-  about $15 per person per term plus transport. No experiance is needed.
+  You will need your school sports uniform and flat soled shoes. The cost is
+  about $15 per person per term plus transport. No experience is needed.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">Sign ups are currently closed. Sign up at the beginning of each term</h2>

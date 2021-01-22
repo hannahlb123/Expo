@@ -41,7 +41,7 @@
 <br />
 <p>
   Fencing gear will be provided, you need the school sports uniform. The cost is
-  approximetly $15 per week. This is a coaching program only, addition cost for
+  approximetly $15 per week. This is a coaching program only, additional cost for
   events.
 </p>
 <br />

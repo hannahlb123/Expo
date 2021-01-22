@@ -32,7 +32,7 @@
 </style>
 
 <h1 class="title">Trampolining</h1>
-<h2 class="subtitle" id="when">When: Wednesdays afterscool</h2>
+<h2 class="subtitle" id="when">When: Wednesdays after school</h2>
 <h2 class="subtitle" id="where">Where: Christchurch School of Gymnastics</h2>
 <p>
   Trampolining is a year round sport where people do tricks while bouncing on
@@ -42,13 +42,13 @@
 <br />
 <p>
   You will need your school sports uniform and socks. Minimum numbers are
-  required. The cost is $40 per term plus cost of badges if sat. No experiance
+  required. The cost is $40 per term plus cost of badges if sat. No experience
   is needed.
 </p>
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Signups are currently closed, sign up at the beginning of the year, term 2 and term 4.
+  Sign ups are currently closed, sign up at the beginning of the year, term 2 and term 4.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn

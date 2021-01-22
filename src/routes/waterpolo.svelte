@@ -47,10 +47,10 @@
 </p>
 <br />
 <p>
-  <b>Junior compertion is in term 4, senior compention(open to all ages) is in term 1</b>You will need your own Rangi waterpolo togs and swimming cap, waterpolo caps
+  <b>Junior competition is in term 4, senior competition(open to all ages) is in term 1.</b> You will need your own Rangi waterpolo togs and swimming cap, waterpolo caps
   and balls are provided. The cost is about $90 per term plus pool entry and
   transport. The Rangi togs available from the uniform shop are about $110. No
-  experiance needed but a good swimming ability is a big advantage. Teams may
+  experience needed but a good swimming ability is a big advantage. Teams may
   enter south island tournaments.
 </p>
 <br />

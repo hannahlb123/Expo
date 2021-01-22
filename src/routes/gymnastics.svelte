@@ -42,7 +42,7 @@
 <br />
 <p>
   You will need your own leotard, and the cost is based off what
-  competions and transport you choose to enter. This is not a coaching program
+  competitions and transport you choose to enter. This is not a coaching program
   so you have to be doing club gymnastics outside of school.
 </p>
 <br />
