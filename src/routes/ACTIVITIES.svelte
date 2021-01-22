@@ -38,7 +38,7 @@
 <a href="/maths">
     <button id="gold">Maths Help</button>
   </a>
-  <a href="/treePlanting">
+  <a href="/ecoAction">
     <button id="blue">Rangi Eco Action</button>
   </a>
 
