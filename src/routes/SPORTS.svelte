@@ -149,28 +149,28 @@
 <br />
 <h2 class="subtitle">Years 7 & 8</h2>
 <div id="7buttons">
-<a href="/7basketball">
+<a href="/7&8basketball">
     <button id="gold">7/8 Basketball</button>
   </a>
-  <a href="/7conditioning">
+  <a href="/7&8conditioning">
     <button id="blue">7/8 Conditioning</button>
   </a>
-  <a href="/7cycling">
+  <a href="/7&8cycling">
     <button id="gold">7/8 Cycling</button>
   </a>
-  <a href="/7running">
+  <a href="/7&8running">
     <button id="blue">7/8 Running Training</button>
   </a>
-  <a href="7swim">
+  <a href="7&8swimming">
     <button id="gold">7/8 Swimming Training</button>
   </a>
-  <a href="/7tennis">
+  <a href="/7&8tennis">
     <button id="blue">7/8 Tennis Coaching</button>
   </a>
-  <a href="/7touch">
+  <a href="/7&8touch">
     <button id="gold">7/8 Touch</button>
   </a>
-  <a href="/7waterpolo">
+  <a href="/7&8waterpolo">
     <button id="blue">7/8 Waterpolo</button>
   </a>
   
