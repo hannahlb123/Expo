@@ -1,60 +1,71 @@
 <style>
-h1 {
+  h1 {
     text-align: center;
     font-size: 50px;
     padding: 10px;
-}
+  }
 
-h2, p {
+  h2,
+  p {
     text-align: center;
-}
+  }
 
-#when {
+  #when {
     color: hsl(204, 86%, 53%);
-}
+  }
 
-#where {
+  #where {
     color: hsl(204, 86%, 53%);
-}
+  }
 
-#signUp {
+  #signUp {
     color: hsl(48, 100%, 67%);
-}
+  }
 
-#previous {
+  #previous {
     margin-right: 320px;
-}
+  }
 
-#back {
+  #back {
     margin-right: 20px;
-}
-
-#signUpLink {
-    margin-right: 330px;
-}
-
+  }
 </style>
 
 <h1 class="title">Debating</h1>
-<h2 class="subtitle" id="when">When: Once a week during terms 1-3 and competition evenings three times a term</h2>
-<h2 class="subtitle" id="where">Where: Mr Sloss's room (Mana wahine) </h2>
-<p>Year 9-13 can join. The debating competition involves six rounds spread across terms 1-3. It involves a Thursday evening every few weeks and a lunchtime get together to learn debating skills during the season. Teams compete in different experience levels - Novice, Junior and Senior. There are opportunities to compete in the Junior and Senior Regionals; Ngā Kete for Year 9-10; the impromptu competition and the season finals. </p>
+<h2 class="subtitle" id="when">
+  When: Once a week during terms 1-3 and competition evenings three times a term
+</h2>
+<h2 class="subtitle" id="where">Where: Mr Sloss's room (Mana wahine)</h2>
+<p>
+  Year 9-13 can join. The debating competition involves six rounds spread across
+  terms 1-3. It involves a Thursday evening every few weeks and a lunchtime get
+  together to learn debating skills during the season. Teams compete in
+  different experience levels - Novice, Junior and Senior. There are
+  opportunities to compete in the Junior and Senior Regionals; Ngā Kete for Year
+  9-10; the impromptu competition and the season finals.
+</p>
+<br />
 
-<h2 class="subtitle" id="signUp">Sign up via link below</h2>
+<h2 class="subtitle" id="signUp">
+  Sign up
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
+    target="_blank">
+    here
+  </a>
+</h2>
 <!--<h2 class="subtitle" id="signUp">Messege Ms Lindstrom to sign up</h2>-->
-<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);">Leader: Ms Lindstrom</h2>
+<h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);">
+  Leader: Ms Lindstrom
+</h2>
 
 <a href="/creativeWriting">
-    <button id="previous" class="button is-light">Previous Page</button>
+  <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">
-    <button id="back" class="button is-light">Clubs Page</button>
+  <button id="back" class="button is-light">Clubs Page</button>
 </a>
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">
-    <button id="signUpLink" class="button is-warning">Sign Up Here!</button>
-</a>
+
 <a href="/dramaClub">
-    <button id="next" class="button is-light">Next Page</button>
+  <button id="next" class="button is-light">Next Page</button>
 </a>
-
-
