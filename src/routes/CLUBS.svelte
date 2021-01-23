@@ -67,4 +67,7 @@
   <a href="/stageAngels">
     <button id="gold">Stage Angels</button>
   </a>
+  <a href="/techAngels">
+    <button id="blue">Tech Angels</button>
+  </a>
 </div>
