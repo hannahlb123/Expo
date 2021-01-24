@@ -150,10 +150,7 @@
 <h2 class="subtitle">Years 7 & 8</h2>
 <div id="7buttons">
 <a href="/7&8basketball">
-    <button id="gold">7/8 Basketball</button>
-  </a>
-  <a href="/7&8conditioning">
-    <button id="blue">7/8 Conditioning</button>
+    <button id="blue">7/8 Basketball</button>
   </a>
   <a href="/7&8cycling">
     <button id="gold">7/8 Cycling</button>

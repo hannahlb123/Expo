@@ -29,6 +29,7 @@
   #back {
     margin-right: 20px;
   }
+
 </style>
 
 <h1 class="title">Debating</h1>
