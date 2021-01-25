@@ -35,16 +35,16 @@
     <a class="navbar-item" class:is-active={segment === undefined} href=".">
       <p>Home</p>
     </a>
-	  <a class="navbar-item" class:is-active={segment === undefined} href="./SPORTS">
+	  <a class="navbar-item" class:is-active={segment === 'SPORTS'} href="SPORTS">
       <p>Sports</p>
     </a>
-	  <a class="navbar-item" class:is-active={segment === undefined} href="./CLUBS">
+	  <a class="navbar-item" class:is-active={segment === 'CLUBS'} href="CLUBS">
       <p>Clubs</p>
     </a>
-	  <a class="navbar-item" class:is-active={segment === undefined} href="./ACTIVITIES">
+	  <a class="navbar-item" class:is-active={segment === 'ACTIVITIES'} href="ACTIVITIES">
       <p>Activites</p>
     </a>
-	  <a class="navbar-item" class:is-active={segment === undefined} href="./ARTS">
+	  <a class="navbar-item" class:is-active={segment === 'ARTS'} href="ARTS">
       <p>Arts</p>
     </a>
 </nav>
