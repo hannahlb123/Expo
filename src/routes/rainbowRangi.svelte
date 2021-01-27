@@ -54,7 +54,7 @@
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Evelyn Kuo and Isis Ward
 </h2>
-<a href="/bookclub">
+<a href="/philosophy">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/CLUBS">

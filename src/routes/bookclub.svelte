@@ -62,6 +62,6 @@
 <a href="/CLUBS">
   <button id="back" class="button is-light">Clubs page</button>
 </a>
-<a href="/rainbowRangi">
+<a href="/philosophy">
   <button id="next" class="button is-light">Next Page</button>
 </a>

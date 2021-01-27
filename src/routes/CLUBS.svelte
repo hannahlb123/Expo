@@ -55,6 +55,9 @@
   <a href="/bookclub">
     <button id="gold">Junior Bookclub</button>
   </a>
+  <a href="/philosophy">
+    <button id="blue">Philosophy Club</button>
+  </a>
   <a href="/rainbowRangi">
     <button id="blue">Rainbow Rangi</button>
   </a>
