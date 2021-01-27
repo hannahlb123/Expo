@@ -99,50 +99,53 @@
   <a href="/metafit">
     <button id="gold">Metafit</button>
   </a>
+  <a href="/mountainBiking">
+    <button id="blue">Mountain Biking </button>
+  </a>
   <a href="/multiSport">
-    <button id="blue">Multisport</button>
+    <button id="gold">Multisport</button>
   </a>
   <a href="/netball">
-    <button id="gold">Netball</button>
+    <button id="blue">Netball</button>
   </a>
   <a href="/rowing">
-    <button id="blue">Rowing</button>
+    <button id="gold">Rowing</button>
   </a>
   <a href="/rugby">
-    <button id="gold">Rugby</button>
+    <button id="blue">Rugby</button>
   </a>
   <a href="/running">
-    <button id="blue">Running Training</button>
+    <button id="gold">Running Training</button>
   </a>
   <a href="/skiing">
-    <button id="gold">Ski & Snowboarding</button>
+    <button id="blue">Ski & Snowboarding</button>
   </a>
   <a href="/strength&conditioning">
-    <button id="blue">Strength & Conditioning</button>
+    <button id="gold">Strength & Conditioning</button>
   </a>
   <a href="/surfing">
-    <button id="gold">Surfing</button>
+    <button id="blue">Surfing</button>
   </a>
   <a href="/swimming">
-    <button id="blue">Swimming</button>
+    <button id="gold">Swimming</button>
   </a>
   <a href="/tennis">
-    <button id="gold">Tennis</button>
+    <button id="blue">Tennis</button>
   </a>
   <a href="/touch">
-    <button id="blue">Touch Rugby</button>
+    <button id="gold">Touch Rugby</button>
   </a>
   <a href="/trampolining">
-    <button id="gold">Trampolining</button>
+    <button id="blue">Trampolining</button>
   </a>
   <a href="/ultimateFrisbee">
-    <button id="blue">Ultimate Frisbee</button>
+    <button id="gold">Ultimate Frisbee</button>
   </a>
   <a href="/volleyball">
-    <button id="gold">Volleyball</button>
+    <button id="blue">Volleyball</button>
   </a>
   <a href="/waterpolo">
-    <button id="blue">Waterpolo</button>
+    <button id="gold">Waterpolo</button>
   </a>
 </div>
 <br />

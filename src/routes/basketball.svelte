@@ -32,12 +32,15 @@
 </style>
 
 <h1 class="title">Basketball</h1>
-<h2 class="subtitle" id="when">When: Fridays from 4pm, terms 2 & 3</h2>
-<h2 class="subtitle" id="where">Where: Various venues</h2>
+<h2 class="subtitle">3X3 Basketball and Winter Basketball</h2>
+<h2 class="subtitle" id="when">When: 3X3: Fridays from 3:45, Winter: Fridays from 4pm, terms 2 & 3</h2>
+<h2 class="subtitle" id="where">Where: 3X3: Rangi Gym, Winter: Various venues</h2>
 <p>
   Basketball is a team sport where you have 5 players on each team. Each team
   will run down the court with a ball and try to throw the ball into the hoop
   at each end. Trials are held so that you can be sorted into teams within your year group.
+
+  3X3 basketball is modified basketball on a half court with a max of 3 plaeyrs on the court at any time. Maximum of 5 players per team. 
 </p>
 <br />
 <p>
@@ -48,7 +51,15 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed. Sign up at the beginning of the year
+  Sign ups for winter basketball are currently closed. Sign up at the beginning of the year
+</h2>
+<h2 id="signUp" class="subtitle">
+  Sign up for 3X3 Basketball 
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
+    target="_blank">
+    here
+  </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Brooks 
