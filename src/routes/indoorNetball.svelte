@@ -42,8 +42,13 @@
   You need 7-10 players per team, you are able to create your own social team.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">
-  Signups are currently closed, sign up at the beginning of the year and/or the end of term 3.
+<h2 id="signUp" class="subtitle">
+  Sign up
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
+    target="_blank">
+    here
+  </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn

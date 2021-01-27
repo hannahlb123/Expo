@@ -41,12 +41,18 @@
   per team.
 </p>
 <br />
-<h2 class="subtitle" id="signUp">
-  Sign ups are currently closed. Sign up at the beginning of term 1 & 4
+<h2 id="signUp" class="subtitle">
+  Sign up
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
+    target="_blank">
+    here
+  </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Waghorn
 </h2>
+
 <a href="/football">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>

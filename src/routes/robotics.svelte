@@ -24,7 +24,7 @@
   #previous {
     margin-right: 320px;
   }
-
+  
   #back {
     margin-right: 20px;
   }
@@ -55,7 +55,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Wu
+  Leader: Harriet Eglinton, Tamsin Mills and Julia Wakeman
 </h2>
 <a href="/rainbowRangi">
   <button id="previous" class="button is-light">Previous Page</button>

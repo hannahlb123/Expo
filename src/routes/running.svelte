@@ -36,7 +36,14 @@ h2, p {
 <br>
 <p>You will need sports gear and there is no cost.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed for this season, check back towards term 2</h2>
+<h2 id="signUp" class="subtitle">
+  Sign up
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
+    target="_blank">
+    here
+  </a>
+</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Brooks</h2>
 <a href="/rugby">
