@@ -20,13 +20,7 @@ h2, p {
 #signUp {
     color: hsl(48, 100%, 67%);
 }
-#previous {
-    margin-right: 380px;
-}
 
-#back {
-    margin-right: 380px;
-}
 </style>
 
 <h1 class="title">Year 7 & 8 Cycling</h1>
@@ -36,15 +30,14 @@ h2, p {
 <br>
 <p><b>You will need to be confident riding to and from Tai Tapu.</b> You will need your own bike, vest and helmet. The cost is $40 per term.</p>
 <br>
-<h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beginning of the year</h2>
+<h2 id="signUp" class="subtitle">
+  Sign up
+  <a
+    href="
+http://rrgs.nz/SportSignUp7and8Term1-2021"
+    target="_blank">
+    here
+  </a>
+</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Waghorn</h2>
-<a href="/7&8basketball">
-    <button id="previous" class="button is-light">Previous Page</button>
-</a>
-<a href="/SPORTS">
-    <button id="back" class="button is-light">Sports Page</button>
-</a>
-<a href="/7&8running">
-    <button id="next" class="button is-light">Next Page</button>
-</a>

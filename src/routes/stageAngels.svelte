@@ -58,7 +58,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Mr Rutherford
+  Leader: Mr Rutherford and Isis Ward
 </h2>
 <a href="/library">
   <button id="previous" class="button is-light">Previous Page</button>

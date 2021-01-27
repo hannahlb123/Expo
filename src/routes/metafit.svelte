@@ -32,14 +32,14 @@
 </style>
 
 <h1 class="title">Metafit</h1>
-<h2 class="subtitle" id="when">When: Tuesdays and Thursdays after school</h2>
+<h2 class="subtitle" id="when">When: Tuesdays after school</h2>
 <h2 class="subtitle" id="where">Where: Rangi Fitness Center</h2>
 <p>
   In Metafit you complete 20-30 minute workouts made up of a range of different exercises that are designed to get you fitter and stronger.
 </p>
 <br />
 <p>
-  You will need a water bottle and sports clothes. The cost is $5 per session
+  <b>This is for all year levels</b>You will need a water bottle and sports clothes. The cost is $5 per session
   attended.
 </p>
 <br />

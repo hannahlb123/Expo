@@ -52,7 +52,7 @@
   Just turn up to as many meetings as you like, no sign up needed
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Evelyn Kuo
+  Leader: Evelyn Kuo and Isis Ward
 </h2>
 <a href="/bookclub">
   <button id="previous" class="button is-light">Previous Page</button>
