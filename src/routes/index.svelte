@@ -28,6 +28,12 @@
 <br />
 <br />
 
+<p>To sign up for sports 2021 click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u">here.</a></p>
+<br>
+<br>
+<p>To sign up for clubs 2021 click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">here.</a></p>
+<br>
+<br>
 <div id="nav">
   <a href="/SPORTS">
     <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF; ">
