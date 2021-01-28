@@ -47,7 +47,14 @@
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Signups are currently closed, sign up at the beginning of the year</h2>
+<h2 id="signUp" class="subtitle">
+  Sign up
+  <a
+    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    target="_blank">
+    here
+  </a>
+</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Kennedy
 </h2>

@@ -43,7 +43,7 @@
   Leader: Ms Brooks
 </h2>
 
-<a href="/metafit">
+<a href="/mountainBiking">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
