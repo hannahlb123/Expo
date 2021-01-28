@@ -53,6 +53,6 @@
 <a href="/CLUBS">
   <button id="back" class="button is-light">Clubs page</button>
 </a>
-<a href="/rainbow">
+<a href="/rainbowRangi">
   <button id="next" class="button is-light">Next Page</button>
 </a>
