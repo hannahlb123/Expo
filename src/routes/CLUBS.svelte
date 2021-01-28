@@ -59,18 +59,18 @@
     <button id="blue">Philosophy Club</button>
   </a>
   <a href="/rainbowRangi">
-    <button id="blue">Rainbow Rangi</button>
+    <button id="gold">Rainbow Rangi</button>
   </a>
   <a href="/robotics">
-    <button id="gold">Robotics</button>
+    <button id="blue">Robotics</button>
   </a>
   <a href="/library">
-    <button id="blue">Student Library Team</button>
+    <button id="gold">Student Library Team</button>
   </a>
   <a href="/stageAngels">
-    <button id="gold">Stage Angels</button>
+    <button id="blue">Stage Angels</button>
   </a>
   <a href="/techAngels">
-    <button id="blue">Tech Angels</button>
+    <button id="gold">Tech Angels</button>
   </a>
 </div>
