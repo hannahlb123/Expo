@@ -31,7 +31,7 @@
 </style>
 
 <h1 class="title">Rainbow Rangi</h1>
-<h2 class="subtitle" id="when">When: Monday lunchtimes</h2>
+<h2 class="subtitle" id="when">When: Friday lunchtimes</h2>
 <h2 class="subtitle" id="where">
   Where: Mr Sloss's Room (Upstairs Mana Wahine)
 </h2>
