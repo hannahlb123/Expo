@@ -40,4 +40,8 @@ http://rrgs.nz/SportSignUp7and8Term1-2021"
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Waghorn</h2>
+">Leader: Mrs Sinclair</h2>
+
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+  </a>

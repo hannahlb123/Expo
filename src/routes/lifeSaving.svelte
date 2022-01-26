@@ -32,7 +32,7 @@
 </style>
 
 <h1 class="title">Life Saving</h1>
-<h2 class="subtitle" id="when">When: All year</h2>
+<h2 class="subtitle" id="when">When: Day/time TBC, Terms 1/4</h2>
 <h2 class="subtitle" id="where">Where: Rangi Pool</h2>
 <p>
   In life-saving you learn very important water safety skills. <b>All girls
@@ -41,15 +41,19 @@
 </p>
 <br />
 <p>
-  You need your school navy togs and your clan swimming cap. The cost is for the
-  awards sat.
+  Togs and clan cap required. <br><br>
+  BRONZE MEDALLION - No pre-requisites apply. All sessions will be in the Rangi swimming pool & the day/time TBC. Cost - badges only.
+  <br><br>
+  BRONZE CROSS & AWARD OF MERIT - Pre-requisites apply. All sessions will be in the Rangi swimming pool & the day/time TBC. Cost - badges only.
+  <br><br>
+  DISTINCTION AWARDS - (Pre-requisites of Award of Merit applies - if you are unsure please contact Ms Joyce). All sessions will be in the Rangi swimming pool & time TBC.
 </p>
 <br />
 
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>

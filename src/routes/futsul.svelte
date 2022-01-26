@@ -31,26 +31,24 @@
 </style>
 
 <h1 class="title">Futsal</h1>
-<h2 class="subtitle" id="when">When: Wednesdays 3:00-4:30pm Terms 1 & 4</h2>
-<h2 class="subtitle" id="where">Where: Various venues</h2>
+<h2 class="subtitle" id="when">When: Games are Wednesdays 3:00-6:00pm Terms 1 & 4</h2>
+<h2 class="subtitle" id="where">Where: Various venues, training is on school turf</h2>
 <p>Futsal is a game very similar to football. It is played between two teams of 5 on a court smaller than a football pitch normally indoors.</p>
 <br />
 <p>
-  You need the school sports uniform, the cost is approximetly $50 per
-  person per term plus transportation costs. A minimum of 8 girls is required
-  per team.
+  Games between 3pm-5pm at various venues. Must wear Rangi PE uniform and shin guards. Cost approx $50 per person, per term, plus transport costs. Minimum of 8 students required per team.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 
 <a href="/football">

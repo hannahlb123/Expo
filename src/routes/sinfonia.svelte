@@ -63,8 +63,8 @@
 <a href="/rangiPlayers">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
-<a href="/ARTS">
-  <button id="back" class="button is-light">Arts Page</button>
+<a href="/MUSIC">
+  <button id="back" class="button is-light">Music Page</button>
 </a>
 <a href="/rangiVoices">
   <button id="next" class="button is-light">Next Page</button>

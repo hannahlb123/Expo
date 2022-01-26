@@ -61,12 +61,12 @@
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Lana Law
 </h2>
-<a href="/dance">
+<a href="/chamber">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
-<a href="/ARTS">
-  <button id="back" class="button is-light">Arts Page</button>
+<a href="/MUSIC">
+  <button id="back" class="button is-light">Music Page</button>
 </a>
-<a href="/kapahaka">
+<a href="/percussion">
   <button id="next" class="button is-light">Next Page</button>
 </a>

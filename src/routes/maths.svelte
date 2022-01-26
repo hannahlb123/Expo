@@ -31,7 +31,7 @@ h2, p {
 
 <h1 class="title">Maths Help</h1>
 <h2 class="subtitle" id="when">When: Monday-Thursday 8:00-8:40am</h2>
-<h2 class="subtitle" id="where">Where: MX4 (maths block)</h2>
+<h2 class="subtitle" id="where">Where: MX4 (upstairs maths block)</h2>
 <p>Maths help is for all year groups, each day there is at least two maths teachers there who can help. You can bring along your homework, classwork or any extra work. Maths help is for all levels and abilities.</p>
 <br>
 <p>Maths help is free, you will need to bring some maths to do, a calculator(if needed for your work) and a pencil case.</p>

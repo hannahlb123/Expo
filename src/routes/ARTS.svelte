@@ -35,34 +35,10 @@
   <a href="/art">
     <button id="gold">Art Extension Club</button>
   </a>
-  <a href="/chamber">
-    <button id="blue">Chamber Music</button>
-  </a>
   <a href="/dance">
-    <button id="gold">Dance Company</button>
-  </a>
-  <a href="/jazzBand">
-    <button id="blue">Jazz Band</button>
+    <button id="blue">Dance Company</button>
   </a>
   <a href="/kapahaka">
     <button id="gold">Kapa Haka</button>
-  </a>
-  <a href="/percussion">
-    <button id="blue">Percussion Ensemble</button>
-  </a>
-  <a href="/rangiPlayers">
-    <button id="gold">Rangi Players</button>
-  </a>
-  <a href="/sinfonia">
-    <button id="blue">Rangi Sinfonia</button>
-  </a>
-  <a href="/rangiVoices">
-    <button id="gold">Rangi Voices</button>
-  </a>
-  <a href="/resolutions">
-    <button id="blue">Resolutions</button>
-  </a>
-  <a href="/rockBand">
-    <button id="gold">Rock Band</button>
   </a>
 </div>

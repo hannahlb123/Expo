@@ -32,11 +32,10 @@
 
 <h1 class="title">Cycling</h1>
 <h2 class="subtitle" id="when">
-  When: Weekend rides in term 1 <br> Wednesday afternoons in term 2 & 3 <br> Friday
-  wind-trainer sessions in terms 1-3.
+  When: Term 1 - weekend rides and Friday wind-trainer sessions.<br> Wednesday afternoons in term 2 & 3 
 </h2>
 <h2 class="subtitle" id="where">
-  Where: Rides leave from Rangi, terms 2 & 3 cycle in Tai Tapu
+  Where: Rides leave from Rangi, terms 2 & 3 - Tai Tapu
 </h2>
 <p>
   Cycling is split into 3 races for the school competition - individual time
@@ -49,9 +48,11 @@
 <br />
 <p>
   You will need your own road bike and helmet, you will need a vest that you
-  MUST wear to and from races. The cost is $35 per term, there are additional
-  costs for attending events and purchasing gear. No experiance is needed, all
-  levels will be catered for.
+  MUST wear to and from races. <br> 
+  Costs: <br>
+  Term 1: $30. Terms 2/3: $100. Additional costs for attending events and purchasing gear.
+  <br> <br> No experiance is needed, all
+  levels will be catered for. Events include Cudon Tour (Blenheim), South Island Champs and NZ Road Cycliing Champs.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
@@ -63,7 +64,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Anderson
+  Leader: Mr Van Rossen
 </h2>
 <a href="/crossCountry">
   <button id="previous" class="button is-light">Previous Page</button>

@@ -32,8 +32,8 @@
 </style>
 
 <h1 class="title">Tennis</h1>
-<h2 class="subtitle" id="when"> When: Games - Wednesdays after school<br />
-  Coaching - Tuesday &/or Thursday mornings terms 1 & 4
+<h2 class="subtitle" id="when"> When: Games - Wednesdays 3:15-4:30pm Terms 1/4<br />
+  Coaching - Wednesday afternoons &/or Thursday mornings terms 1 & 4
 </h2>
 <h2 class="subtitle" id="where">Where: School courts and various venues</h2>
 <p>
@@ -42,16 +42,21 @@
 </p>
 <br />
 <p>
-  You will need your own tennis racket and school sports uniform. Wednesday
-  games are about $20 per term plus transport, coaching is about $70 per person
-  for 6 group lessons. Top teams will attend south island and national events,
-  this will have extra costs.
+  You will need your own tennis racket and school sports uniform. 
+  <br><br>
+  Premier tennis - This is our top tennis team(s) & they train twice a week with Remi Feneon (Rangi tennis coach). Games from 3.15pm at various venues. Tennis dress provided. Open trial on Friday 4th February, 7.30-8.30am on the Rangi tennis courts. Cost approx $50 plus tournament fees/costs.
+  <br><br>
+  Tennis (Year 9-13 Interclub players, can include social teams) - Games from 3.15pm at various venues. Teams will be put together after registrations close. Must wear Rangi PE uniform & costs approx $30 plus transport costs.
+  <br><br>
+  Coaching - WEDNESDAY AFTERNOON lessons from 3.00pm-4.00pm on the Rangi courts with Remi Feneon (Rangi tennis coach) or one of his coaches. This is open to Year 9-13 students (all abilities) who want a group tennis lesson (no matches/competition) on a Wednesday afternoon. 
+  <br>There are also THURSDAY MORNING lessons from 7:15am-8:30am. Cost is $90 each lesson which will be split between the students who register. 
+  
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>

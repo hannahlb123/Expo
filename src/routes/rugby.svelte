@@ -50,7 +50,7 @@
 
 <h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of the year</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Frier
+  Leader: Miss Hopcroft
 </h2>
 <a href="/rowing">
   <button id="previous" class="button is-light">Previous Page</button>

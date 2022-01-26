@@ -33,7 +33,7 @@
 <h1 class="title">Cricket</h1>
 <h2 class="subtitle">Regional Qualifer</h2>
 <h2 class="subtitle" id="when">
-  When: March + trainings
+  When: Tournament held in term 1 (15-16 March) + trainings/game on Thursdays
 </h2>
 <h2 class="subtitle" id="where">Where: Hagley Park</h2>
 <p>
@@ -44,21 +44,25 @@
 </p>
 <br />
 <p>
-  You will need white cricket pants, tops supplied. Regional Qualifer is $50 per term, additional costs if you qualify for Nationals.
+  Train/game once a week on a Thursday afternoon and attend a Christchurch tournament on Tuesday 15th & Wednesday 16th March 2022. Sign up if you are keen to play.
+<br><br>
+  White cricket pants are needed for tournament. Some cricket gear supplied.
+
+  <br><br>> Reg Qualifying - approx $50 for term 1. Additional costs is qualify for nationals.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up  
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Anderson
+  Leader: Mrs Sinclair
 </h2>
-<a href="/beachVolleyball">
+<a href="/basketball">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

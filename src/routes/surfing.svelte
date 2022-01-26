@@ -40,21 +40,24 @@
 </p>
 <br />
 <p>
-  <b>This is a learn to surf program only. This is for all year levels but priority is given to senior students.</b> You will need your own togs, a wetsuit and
-  board are provided. The cost is about $160 for 6 lessons plus transport.
+  <!-- <b>This is a learn to surf program only. This is for all year levels but priority is given to senior students.</b> -->
+  Every TUESDAY at Sumner Beach between 4.30pm-6.30pm.  A bus will transport the students to/from Summer Beach. You will need your own togs but a wetsuit and 
+  board are provided. The cost is about $180 for 6 lessons plus transport (bus hire). This is a very popular sport and you MUST register through school.
+  <br><br>
+  This is a leran to surf programme. Options to enter in Wed league for students who wish to compete.
 </p>
 <br />
 
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 <a href="/strength&conditioning">
   <button id="previous" class="button is-light">Previous Page</button>

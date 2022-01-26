@@ -38,7 +38,7 @@
 <br />
 <p>
   You will need to be a competent skier/snowboarder to join, you will also need
-  your own ski gear. The cost depends on the competition costs and transport used.
+  your own ski /snowboard gear. The cost depends on the competition costs and transport used.
 </p>
 <br />
 <h2 class="subtitle" id="signUp" style=" color: hsl(48, 100%, 67%);" >Sign up as events are promoted</h2>

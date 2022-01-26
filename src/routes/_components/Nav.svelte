@@ -44,6 +44,9 @@
 	  <a class="navbar-item" class:is-active={segment === 'ACTIVITIES'} href="ACTIVITIES">
       <p>Activites</p>
     </a>
+    <a class="navbar-item" class:is-active={segment === 'MUSIC'} href="MUSIC">
+      <p>Music</p>
+    </a>
 	  <a class="navbar-item" class:is-active={segment === 'ARTS'} href="ARTS">
       <p>Arts</p>
     </a>

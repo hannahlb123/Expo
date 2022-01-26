@@ -32,4 +32,8 @@ h2, p {
 <br>
 <h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of terms 1 & 4.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
-">Leader: Ms Joyce</h2>
+">Leader: Mrs Sinclair</h2>
+
+<a href="/SPORTS">
+    <button id="back" class="button is-light">Sports Page</button>
+  </a>

@@ -33,13 +33,13 @@
 
 <h1 class="title">Athletics</h1>
 <h2 class="subtitle" id="when">
-  When: Lunchtime trainings
+  When: Morning trainings on a Tuesday, 7:15am
   <br />
   School, Canturbury and South Island Champs in Term 1, National Champs in Term
  4
 </h2>
 <h2 class="subtitle" id="where">
-  Where: Rangi and different venues for events
+  Where: Rangi and various venues for events
 </h2>
 <p>
   Athletics is a mixture of different sporting events such as running, jumping,
@@ -54,13 +54,17 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
-  Sign ups are currently closed. Sign up at the beginning of terms 1 & 4
+  <a
+    href="https://forms.office.com/r/bEJ4vr5Pft"
+    target="_blank">
+    here
+  </a>
 </h2>
 
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Brooks
+  Leader: Mrs Brooks
 </h2>
-<a href="/waterpolo">
+<a href="/SPORTS">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">

@@ -33,10 +33,10 @@
 
 <h1 class="title">Rowing</h1>
 <h2 class="subtitle" id="when">
-  When: October-March trainings 3-6 times per week
+  When: October-March, trainings in the morning and after school 2-4 times per week in terms 1/4
 </h2>
 <h2 class="subtitle" id="where">
-  Where: Trainings at Kerrs Reach, Ragattas at various venues
+  Where: Trainings at Kerrs Reach, Regattas at various venues
 </h2>
 <p>
   You are in a team of usually 4 or 8, and you row across a stretch of water
@@ -56,7 +56,7 @@
 
 <h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the end of term 3</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Ling
+  Leader: Olivia Ling
 </h2>
 <a href="/netball">
   <button id="previous" class="button is-light">Previous Page</button>

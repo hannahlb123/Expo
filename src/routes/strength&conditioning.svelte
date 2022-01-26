@@ -28,7 +28,7 @@
 </style>
 
 <h1 class="title">Strength and Conditioning</h1>
-<h2 class="subtitle" id="when">When: Various times</h2>
+<h2 class="subtitle" id="when">When: Various times, all year</h2>
 <h2 class="subtitle" id="where">Where: School fitness center and gym</h2>
 <p>
   Strength and conditioning is generally for a specific sport, higher level
@@ -38,7 +38,7 @@
 </p>
 <br />
 <p>
-  You will need sports clothes, the cost is about $10 per session attended. No
+  You will need sports uniform/gym gear, the cost is about $10 per session attended. No
   experience is needed.
 </p>
 <br />

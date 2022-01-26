@@ -35,6 +35,7 @@
 <h2 class="subtitle" style="text-align: center;">Tākaro</h2>
 <h2 class="subtitle">Years 9-13</h2>
 <p>Most team sports offer a social option if you wish to enter your own team, please contact the staff member in charge.</p>
+
 <div id="9buttons">
   <a href="/athletics">
     <button id="gold">Athletics</button>
@@ -45,54 +46,54 @@
   <a href="/basketball">
     <button id="gold">Basketball</button>
   </a>
-  <a href="/beachVolleyball">
+  <!-- <a href="/beachVolleyball">
     <button id="blue">Beach Volleyball</button>
-  </a>
+  </a> -->
   <a href="/cricket">
-    <button id="gold">Cricket</button>
+    <button id="blue">Cricket</button>
   </a>
   <a href="/crossCountry">
-    <button id="blue">Cross Country Running</button>
+    <button id="gold">Cross Country Running</button>
   </a>
   <a href="/cycling">
-    <button id="gold">Cycling</button>
+    <button id="blue">Cycling</button>
   </a>
   <a href="/dragonBoating">
-    <button id="blue">Dragon Boating</button>
+    <button id="gold">Dragon Boating</button>
   </a>
   <a href="/equestrian">
-    <button id="gold">Equestrian</button>
+    <button id="blue">Equestrian</button>
   </a>
   <a href="/fencing">
-    <button id="blue">Fencing</button>
+    <button id="gold">Fencing</button>
   </a>
    <a href="/fitnessCentre">
-    <button id="gold">Fitness Centre</button>
+    <button id="blue">Fitness Centre</button>
   </a>
   <a href="/football">
-    <button id="blue">Football</button>
+    <button id="gold">Football</button>
   </a>
   <a href="/futsul">
-    <button id="gold">Futsal</button>
+    <button id="blue">Futsal</button>
   </a>
   <a href="/gymnastics">
-    <button id="blue">Gymnastics</button>
+    <button id="gold">Gymnastics</button>
   </a>
   <a href="/hockey">
-    <button id="gold">Hockey</button>
+    <button id="blue">Hockey</button>
   </a>
   <a href="/indoorFootball">
-    <button id="blue">Indoor Football</button>
+    <button id="gold">Indoor Football</button>
   </a>
   <a href="/indoorNetball">
-    <button id="gold">Indoor Netball</button>
+    <button id="blue">Indoor Netball</button>
   </a>
   <a href="/kickboxing">
-    <button id="blue">Kickboxing</button>
+    <button id="gold">Kickboxing</button>
   </a>
-  <a href="/lawnbowls">
+  <!-- <a href="/lawnbowls">
     <button id="gold">Lawn Bowls</button>
-  </a>
+  </a> -->
   <a href="/lifeSaving">
     <button id="blue">Life Saving</button>
   </a>
@@ -133,21 +134,37 @@
     <button id="blue">Tennis</button>
   </a>
   <a href="/touch">
-    <button id="gold">Touch Rugby</button>
+    <button id="gold">Touch</button>
   </a>
   <a href="/trampolining">
     <button id="blue">Trampolining</button>
   </a>
-  <a href="/ultimateFrisbee">
+  <!-- <a href="/ultimateFrisbee">
     <button id="gold">Ultimate Frisbee</button>
-  </a>
+  </a> -->
   <a href="/volleyball">
-    <button id="blue">Volleyball</button>
+    <button id="gold">Volleyball</button>
   </a>
   <a href="/waterpolo">
-    <button id="gold">Waterpolo</button>
+    <button id="blue">Waterpolo</button>
   </a>
 </div>
+<h2 id="signUp" class="subtitle">
+  Sign up for summer sports
+  <a
+    href="https://forms.office.com/r/bEJ4vr5Pft"
+    target="_blank">
+    here
+  </a>
+</h2>
+<h2 id="signUp" class="subtitle">
+  Sign up for term 1 winter sport trials (Netball, Basketball, Hockey & Football)
+<a
+    href="https://forms.office.com/r/DY6Cs0mKsi"
+    target="_blank">
+    here
+  </a>
+</h2>
 <br />
 <br />
 <h2 class="subtitle">Years 7 & 8</h2>

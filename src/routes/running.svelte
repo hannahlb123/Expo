@@ -30,16 +30,16 @@ h2, p {
 </style>
 
 <h1 class="title">Running Training</h1>
-<h2 class="subtitle" id="when">When: Tuesday at 7:15am</h2>
+<h2 class="subtitle" id="when">When: Tuesday at 7:20am</h2>
 <h2 class="subtitle" id="where">Where: Meet at the gym</h2>
-<p>Sessions will either be sprint training, long distance or feild events. This will be taken by a running coach.</p>
-<br>
-<p>You will need sports gear and there is no cost.</p>
+<p>
+    The "Tuesday Running Group" with Katherine Camp (Rangi running coach), is every TUESDAY @ 7.20am outside the Rangi gym. The sessions cover long distance (off site) and sprint training (onsite).  Extra session can be organised for long/triple/high jump etc. Caters for beginners through to senior athletes.
+</p>
 <br>
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>

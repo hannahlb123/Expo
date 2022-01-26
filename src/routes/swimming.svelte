@@ -32,7 +32,7 @@
 </style>
 
 <h1 class="title">Swimming</h1>
-<h2 class="subtitle" id="when">When: Mondays and Wednesdays terms 1 & 4</h2>
+<h2 class="subtitle" id="when">When: Trainings available for non-club swimmers Mondays and Wednesdays terms 1 & 4</h2>
 <h2 class="subtitle" id="where">Where: School pool and competition pools</h2>
 <p>
   Swimming is the summer sport of moving through the water. The Monday and
@@ -42,7 +42,7 @@
 <br />
 <p>
   You will need your own togs, goggles and cap. The cost is $5 per sessions
-  attended, and the entry fee for competitions.
+  attended, and the entry fee for competitions. Swimmers who wish to enter NZSS Swimming Champs/NAGs can do so.
 </p>
 <br />
 
@@ -55,7 +55,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Joyce
+  Leader: Ms Anderson
 </h2>
 <a href="/surfing">
   <button id="previous" class="button is-light">Previous Page</button>

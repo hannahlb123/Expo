@@ -39,12 +39,12 @@ h2, p {
 <h2 id="signUp" class="subtitle">Message Mr Kaa if interested</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mr Kaa</h2>
-<a href="/rangiVoices">
+<a href="/resolutions">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
-<a href="/ARTS">
-  <button id="back" class="button is-light">Arts Page</button>
+<a href="/MUSIC">
+  <button id="back" class="button is-light">Music Page</button>
 </a>
-<a href="/art">
+<a href="/MUSIC">
   <button id="next" class="button is-light">Next Page</button>
 </a>

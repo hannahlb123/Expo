@@ -31,8 +31,8 @@
 </style>
 
 <h1 class="title">Fencing</h1>
-<h2 class="subtitle" id="when">When: Thursdays 3:45-5:00 all year round</h2>
-<h2 class="subtitle" id="where">Where: HKFC</h2>
+<h2 class="subtitle" id="when">When: Thursdays 3:45pm-5pm, all year </h2>
+<h2 class="subtitle" id="where">Where: HKFC (school)</h2>
 <p>
   Fencing is a sport involving 3 different types of swords - foil, épée and
   sabre. You play in bouts against your opponent and earn points if you hit
@@ -40,21 +40,22 @@
 </p>
 <br />
 <p>
-  <b>This is for all year levels</b>Fencing gear will be provided, you need the school sports uniform. The cost is
+  <b>This is for all year levels</b>Fencing gear will be provided, you must wear the school PE uniform. The cost is
   approximetly $15 per week. This is a coaching program only, additional cost for
   events.
+  <br> Minimum 8 students required.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 <a href="/equestrian">
   <button id="previous" class="button is-light">Previous Page</button>

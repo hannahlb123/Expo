@@ -39,24 +39,27 @@
   Where: Halswell Quarry
 </h2>
 <p>
-  Mountain biking is the sport of riding specially designed mountain bikes off-road, often over rough terrain. This is a single track race series, which means you race on a mountain bike track which is about the width of of the bike.
+  Mountain biking is the sport of riding specially designed mountain bikes off-road, often over rough terrain.
 </p>
 <br />
 <p>
-  You will need your own mountain bike & have some mountain biking experiance. The cost is $20 plus weekly transport. 
+  There are two options: Single Track Series @ Halswell Quarry on a Wednesday afternoon for experienced riders. 'Learn to Ride' for those wanting to get into mountain biking - no experience required. Please register if interested in either option & the Sports Office will contact you after registrations close. Cost is $30 plus transport (experienced riders can bike to/from Halswell Quarry).
+  <br><br>
+  Single track series - own mountain bike and helmet hired.<br>
+  Learn to ride - Own bike preferable but gear can be hired.
 </p>
 <br />
 
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Kennedy
+  Leader: Mrs Sinclair
 </h2>
 <a href="/metafit">
   <button id="previous" class="button is-light">Previous Page</button>

@@ -32,30 +32,28 @@
 
 <h1 class="title">Indoor Football</h1>
 <h2 class="subtitle" id="when">
-  When: Games from 3:15pm on Wednesdays terms 1 & 4
+  When: Games from 3:15pm on Wednesdays, Terms 1/4
 </h2>
-<h2 class="subtitle" id="where">Where: Various indoor sports centers</h2>
+<h2 class="subtitle" id="where">Where: various indoor sport centres</h2>
 <p>
   Indoor Football is football which is played inside. The main difference is
   that you play with 5 payers on the court.
 </p>
 <br />
 <p>
-  You will need your own school PE uniform. It is approximately $25 per person
-  plus transport. There are 5-8 girls per team, and you are able to create your
-  own social team.
+  Games from 3pm alternating each week between the Rangi Ruru and St Margaret's gyms. Must wear Rangi PE uniform. Cost approx $30 per person, per term plus transport costs. Minimum of 10 students per team. You will need your own school PE uniform. Teams are put together or you can create your own team. No trainings involved.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up
 <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 <a href="/hockey">
   <button id="previous" class="button is-light">Previous Page</button>

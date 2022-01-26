@@ -40,16 +40,16 @@
 </p>
 <br />
 <p>
-  Uniform is the school PE uniform but you need your own racquet. It is $25 for both
-  terms, additional cost if you take the school transport. Generally there are no
-  practices, however if your team wants a practise it can be arranged.
+  Uniform is the school PE uniform but you need your own racquet. It is $30 for both
+  terms 1 and 4, additional cost if you take the school transport. Lunchtime coaching available on demand.
+  
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
   Sign ups are currently closed. Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 <a href="/athletics">
   <button id="previous" class="button is-light">Previous Page</button>

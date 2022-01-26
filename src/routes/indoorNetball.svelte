@@ -32,26 +32,24 @@
 
 <h1 class="title">Indoor Netball</h1>
 <h2 class="subtitle" id="when">
-  When: Games from 3:15pm on Wednesdays terms 1 & 4
+  When: Games from 3:15pm on Wednesdays, terms 1/4
 </h2>
 <h2 class="subtitle" id="where">Where: Various indoor sports centers</h2>
 <p>Indoor netball is netball but played indoors.</p>
 <br />
 <p>
-  You will need your school PE uniform, the cost is about $25 per person.
-  You need 7-10 players per team, you are able to create your own social team.
-</p>
+  Games from 3.15pm at various sports venues, must wear Rangi PE uniform. Cost approx $30 plus transport. Minimum of 8 students per team. Teams are put together or you can create your own team. No trainings involved.
 <br />
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Waghorn
+  Leader: Mrs Sinclair
 </h2>
 <a href="/indoorFootball">
   <button id="previous" class="button is-light">Previous Page</button>

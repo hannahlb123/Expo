@@ -31,7 +31,7 @@
 </style>
 
 <h1 class="title">Cross Country Running</h1>
-<h2 class="subtitle" id="when">When: Events during terms 2 & 3</h2>
+<h2 class="subtitle" id="when">When: Local Saturday competitions & Inter-secondary School Champs during terms 2 & 3</h2>
 <h2 class="subtitle" id="where">Where: Rangi and various other venues</h2>
 <p>
   Cross country running is a sport in which teams and individuals run a race on
@@ -39,14 +39,14 @@
 </p>
 <br />
 <p>
-  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter, and the transport you take. You can attend running training at school, or you may like to consider joining a club.
+  You will need your own running shoes and a running uniform which you can purchase at the uniform shop. The cost depends on which events you choose to enter, and the transport you take. You can attend running training at school, or athletes may like to consider training with a club. School team may be selected to attend NZSS.
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
   Sign ups are currently closed. Sign up at the beginning of the year
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Brooks
+  Leader: Mrs Brooks
 </h2>
 <a href="/cricket">
   <button id="previous" class="button is-light">Previous Page</button>
