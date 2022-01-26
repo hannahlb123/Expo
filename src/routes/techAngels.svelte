@@ -51,7 +51,7 @@
 </h2>
 <!--<h2 class="subtitle" id="signUp">Messege Rev. Nicol to sign up</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Mr Hogan, Rev. Nicol and Imogen Park
+  Leader: Mr Hogan
 </h2>
 <a href="/stageAngels">
   <button id="previous" class="button is-light">Previous Page</button>

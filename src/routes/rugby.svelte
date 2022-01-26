@@ -33,18 +33,21 @@
 
 <h1 class="title">Rugby</h1>
 <h2 class="subtitle" id="when">
-  When: Wednesday games and trainings terms 2 & 3
+  When: <br>
+  Rugby - Wednesday games 3pm-4:30pm and trainings terms 2 & 3
+  <br>Rugby 7's is tournament based - either Term 1 or 4
 </h2>
-<h2 class="subtitle" id="where">Where: School or Hagley Park</h2>
+<h2 class="subtitle" id="where">Where: <br>Trainings at school or Hagley Park, games at Burnside Park<br>
+Rugby 7's is tournament based so locations vary.</h2>
 <p>
   Rugby is a ball sport with 15 players on each team. The aim of the game is to
   get the ball across the line at the end of the field by tackling people.
 </p>
 <br />
 <p>
-  It is important that you show up to all trainings to learn safe contact
-  techniques. You will need your own boots, shorts, socks and mouthguard. Tops
-  will be provided. The cost is around $40 per season plus transport costs.
+  For both rugby and rugby 7's players must have their own boots, shorts, socks and mouth guard. Tops are provided. Cost is approx. $40 per season plus transport. <br><br>
+
+  Commitment to all trainings is vital, particularly for new players to learn safe contact techniques.
 </p>
 <br />
 

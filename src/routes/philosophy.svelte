@@ -45,7 +45,7 @@
   Just show up to any sessions you want
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Mr Sloss, Justine Berry and Krissy Epton
+  Leader: Mr Sloss
 </h2>
 <a href="/bookclub">
   <button id="previous" class="button is-light">Previous Page</button>
