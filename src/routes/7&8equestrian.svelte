@@ -60,12 +60,12 @@
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Anderson
 </h2>
-<a href="/volleyball">
+<a href="/7&8fencing">
   <button id="previous" class="button is-light">Previous Page</button>
 </a>
 <a href="/SPORTS">
   <button id="back" class="button is-light">Sports Page</button>
 </a>
-<a href="/athletics">
+<a href="/7&8metafit">
   <button id="next" class="button is-light">Next Page</button>
 </a>

@@ -39,7 +39,7 @@
 </p>
 <br />
 <p>
-  <b>This is for all year levels</b>You will need a water bottle and school sports uniform. <br><br>
+  <b>This is for all year levels. </b>You will need a water bottle and school sports uniform. <br><br>
 
   On a TUESDAY at 3:30pm-4pm @ Rangi. Meet Ms Joyce by the Fitness Centre. This is a form of HIIT (High Intensity Interval Training) which is a functional/bodyweight method of exercising. This is a challenging session for all fitness levels. Cost $5 per session.
 </p>

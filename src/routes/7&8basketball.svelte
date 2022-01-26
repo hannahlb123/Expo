@@ -35,5 +35,11 @@ h2, p {
 ">Leader: Mrs Sinclair</h2>
 
 <a href="/SPORTS">
+    <button id="previous" class="button is-light">Previous Page</button>
+  </a>
+  <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
+  </a>
+  <a href="/7&8cycling">
+    <button id="next" class="button is-light">Next Page</button>
   </a>

@@ -57,13 +57,13 @@
   <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
     Leader: Mrs Sinclair
   </h2>
-  <a href="/equestrian">
+  <a href="/7&8cycling">
     <button id="previous" class="button is-light">Previous Page</button>
   </a>
   <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
   </a>
-  <a href="/fitnessCentre">
+  <a href="/7&8equestrian">
     <button id="next" class="button is-light">Next Page</button>
   </a>
   

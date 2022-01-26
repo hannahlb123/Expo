@@ -1,8 +1,4 @@
 <style>
-  button:hover {
-    color: white !important;
-    }
-
   button {
     margin: 5px;
     height: 40px;
@@ -26,6 +22,14 @@
     border: solid 5px;
     border-color: #C2E4FF;
     border-radius: 3.5px;
+  }
+
+  #blue:hover {
+    border: 5px solid #3581b873 !important ;
+    }
+
+  #gold:hover {
+    border: 5px solid #f7c925 !important ;
   }
 </style>
 

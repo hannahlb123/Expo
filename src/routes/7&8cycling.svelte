@@ -42,6 +42,12 @@ h2, p {
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Sinclair</h2>
 
-<a href="/SPORTS">
+<a href="/7&8basketball">
+    <button id="previous" class="button is-light">Previous Page</button>
+  </a>
+  <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
+  </a>
+  <a href="/7&8fencing">
+    <button id="next" class="button is-light">Next Page</button>
   </a>

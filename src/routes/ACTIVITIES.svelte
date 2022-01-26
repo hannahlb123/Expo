@@ -1,8 +1,4 @@
 <style>
-  button:hover {
-    color: white !important;
-    }
-
   button {
     margin: 5px;
     height: 40px;
@@ -30,6 +26,13 @@
     border-radius: 3.5px;
   }
 
+  #blue:hover {
+    border: 5px solid #3581b873 !important ;
+    }
+
+  #gold:hover {
+    border: 5px solid #f7c925 !important ;
+  }
 </style>
 
 <h1 class="title">Activites</h1>
