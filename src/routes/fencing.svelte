@@ -40,19 +40,19 @@
 </p>
 <br />
 <p>
-  <b>This is for all year levels</b>Fencing gear will be provided, you must wear the school PE uniform. The cost is
+  <b>This is for all year levels. </b>Fencing gear will be provided, you must wear the school PE uniform. The cost is
   approximetly $15 per week. This is a coaching program only, additional cost for
   events.
   <br> Minimum 8 students required.
 </p>
 <br />
 <h2 id="signUp" class="subtitle">
-  Sign up
+  Click
   <a
     href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
-  </a>
+  </a> to sign up.
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Mrs Sinclair

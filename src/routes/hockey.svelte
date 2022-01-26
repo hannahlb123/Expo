@@ -32,7 +32,7 @@ h2, p {
 
 
 <h1 class="title">Hockey</h1>
-<h2 class="subtitle" id="when">When: Wednesday afternoons Terms 2 & 3<br> 1st XII play on Friday nights + weekly training <br> Trials/fitness in term 1</h2>
+<h2 class="subtitle" id="when">When: Wednesday afternoons Terms 2 & 3<br> 1st XI play on Friday nights + weekly training <br> Trials/fitness in term 1</h2>
 <h2 class="subtitle" id="where">Where: Trainings at Nunweek, Nga Puna Wai or School <br> Games at Nga Puna Wai, Nunweek or Marist</h2>
 <p>Hockey is a sport where you hit a ball with a stick around a field, trying to score in the goal at each end of the field.</p>
 <br>
