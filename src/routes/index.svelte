@@ -28,12 +28,21 @@
 <br />
 <br />
 
-<!-- <p>To sign up for sports 2022 click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u">here.</a></p>
+<p>To sign up for summer sports 2022 click <a href="https://forms.office.com/r/bEJ4vr5Pft">here.</a></p>
 <br>
 <br>
-<p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">here.</a></p>
+<p>To sign up for term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
 <br>
-<br> -->
+<br> 
+<p>To sign up for music groups 2022 click <a href="">here.</a></p>
+<br>
+<br> 
+<p>To sign up for itenerant music lessons 2022 click <a href="">here.</a></p>
+<br>
+<br> 
+<p>To sign up for clubs 2022 click <a href="">here.</a></p>
+<br>
+<br> 
 <div id="nav">
   <a href="/SPORTS">
     <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF; ">
@@ -60,7 +69,7 @@
     <button style="background-color: #FEE486; border: solid 10px #FEDF72; ">
       <h1 class="title">Music</h1>
       <br>
-      <h2 class="subtitle">Waiata</h2>
+      <h2 class="subtitle">Pūoro</h2>
     </button>
   </a>
   <a href="/ARTS">

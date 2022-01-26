@@ -31,7 +31,7 @@
   
   <div id="buttons">
     <h1 class="title">Music</h1>
-    <h2 class="subtitle" style="text-align: center;">Waiata</h2>
+    <h2 class="subtitle" style="text-align: center;">Pūoro</h2>
     <a href="/chamber">
       <button id="blue">Chamber Music</button>
     </a>

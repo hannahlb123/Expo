@@ -48,8 +48,9 @@
   <br><br>
   Tennis (Year 9-13 Interclub players, can include social teams) - Games from 3.15pm at various venues. Teams will be put together after registrations close. Must wear Rangi PE uniform & costs approx $30 plus transport costs.
   <br><br>
-  Coaching - WEDNESDAY AFTERNOON lessons from 3.00pm-4.00pm on the Rangi courts with Remi Feneon (Rangi tennis coach) or one of his coaches. This is open to Year 9-13 students (all abilities) who want a group tennis lesson (no matches/competition) on a Wednesday afternoon. 
-  <br>There are also THURSDAY MORNING lessons from 7:15am-8:30am. Cost is $90 each lesson which will be split between the students who register. 
+  <!-- Coaching - WEDNESDAY AFTERNOON lessons from 3.00pm-4.00pm on the Rangi courts with Remi Feneon (Rangi tennis coach) or one of his coaches. This is open to Year 9-13 students (all abilities) who want a group tennis lesson (no matches/competition) on a Wednesday afternoon. 
+  <br>There are also THURSDAY MORNING lessons from 7:15am-8:30am. Cost is $90 each lesson which will be split between the students who register.  -->
+  Coaching - Tuesday and or Thuursday morning lessons from on the Rangi courts with Remi Feneon (Rangi tennis coach) or one of his coaches. This is open to Year 9-13 students (all abilities) who want a group tennis lesson (no matches/competition). Cost is approx $70 per person for 6 group lessons.
   
 </p>
 <br />
