@@ -34,7 +34,7 @@ h2, p {
   Sign up
   <a
     href="
-http://rrgs.nz/SportSignUp7and8Term1-2021"
+    https://forms.office.com/r/md7pVw1LF9"
     target="_blank">
     here
   </a>

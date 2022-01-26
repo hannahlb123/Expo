@@ -28,9 +28,9 @@ h2, p {
 <h2 class="subtitle" id="where">Where: Wharenui Rec Centre</h2>
 <p>Basketball is a team sport where you have 5 players on each team, each team will run down the court with a ball and try and throw the ball into the hoop at each end.</p>
 <br>
-<p>You will need your school sports uniform. The cost is $50 for the season.</p>
+<p>BASKETBALL 3X3 (Half court comp) - Games every TUESDAY from 3.30pm onwards in the Rangi gym. This is a 6 week competition that starts on Tuesday 15 February & is open to Year 7-13 students of all abilities. Team lists (& individual names) sent to Mrs Brooks by Friday 4th February. Must wear your PE uniform & the cost is $10 per player. Minimum of 4-5 students per team.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up before term 2</h2>
+<h2 class="subtitle" id="signUp"> Sign up <a href="https://forms.office.com/r/md7pVw1LF9">here</a> </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Sinclair</h2>
 

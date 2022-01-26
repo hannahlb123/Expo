@@ -24,13 +24,15 @@ h2, p {
 </style>
 
 <h1 class="title">Year 7 & 8 Swim Training</h1>
-<h2 class="subtitle" id="when">When: Monday 3:30-4:30 terms 1 and 4</h2>
+<h2 class="subtitle" id="when">When: Monday 3:30-4:45 terms 1 and 4</h2>
 <h2 class="subtitle" id="where">Where: School pool</h2>
-<p>You will practise swimming where you will improve your swimming time, skill and your fitness. This is for all levels of swimming ability.</p>
+<p>Every MONDAY from 3:30pm-4:45pm in the Rangi swimming pool. These session are for those students wanting to improve their technique and/or endurance. Cost $5 per session.
+</p>
 <br>
-<p>You will need your own togs, goggles and swim cap. The cost is $5 per session. </p>
-<br>
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of terms 1 & 4.</h2>
+<h2 id="signUp" class="subtitle">
+    Sign up
+    <a href="https://forms.office.com/r/md7pVw1LF9" target="_blank"> here </a>
+  </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Sinclair</h2>
 

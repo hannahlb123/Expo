@@ -20,11 +20,13 @@
     text-align: center;
   }
   .navbar-item{
-    width: 80px !important;
+    width: auto;
     text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   a:hover{
-    background-color: #D6EDFF;
+    background-color: #a1cdee;
     color: #3581b8;
     transition-duration: 0.4s;
    }

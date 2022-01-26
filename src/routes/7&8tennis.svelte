@@ -28,9 +28,12 @@ h2, p {
 <h2 class="subtitle" id="where">Where: School courts</h2>
 <p>Tennis is a summer sport where you hit a ball to the other side of the court with a racket.</p>
 <br>
-<p>You will need your own sports gear and tennis racket. The cost is about $60 per term. Experienced players may be asked to join the seniors.</p>
+<p>Tennis Coaching - This is on a THURSDAY from 7.15am-8.30am on the Rangi courts with Remi Feneon (Rangi tennis coach) or one of his coaches. This is open to Year 7-13 students (all abilities) who want a group tennis lesson to develop their tennis skills. Cost is $90 each lesson which will be split between the students who register.</p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed, check back towards term 2</h2>
+<h2 id="signUp" class="subtitle">
+    Sign up
+    <a href="https://forms.office.com/r/md7pVw1LF9" target="_blank"> here </a>
+  </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Sinclair</h2>
 

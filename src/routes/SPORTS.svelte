@@ -175,19 +175,19 @@
   <a href="/7&8cycling">
     <button id="gold">7/8 Cycling</button>
   </a>
-  <a href="/fencing">
+  <a href="/7&8fencing">
     <button id="blue">7/8 Fencing</button>
   </a>
-  <a href="/horseRiding">
+  <a href="/7&8equestrian">
     <button id="gold">7/8 Horse Riding</button>
   </a>
-  <a href="/metafit">
+  <a href="/7&8metafit">
     <button id="blue">7/8 Metafit</button>
   </a>
   <a href="/7&8running">
     <button id="gold">7/8 Running Training</button>
   </a>
-  <a href="/surf">
+  <a href="/7&8surfing">
     <button id="blue">7/8 Surfing</button>
   </a>
   <a href="7&8swimming">

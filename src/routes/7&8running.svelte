@@ -24,13 +24,15 @@ h2, p {
 </style>
 
 <h1 class="title">Year 7 & 8 Running Training</h1>
-<h2 class="subtitle" id="when">When: Tuesday mornings at 7:15</h2>
+<h2 class="subtitle" id="when">When: Tuesday at 7:20am</h2>
 <h2 class="subtitle" id="where">Where: Meet at the gym</h2>
-<p>Sessions will either be sprint training, long distance, or feild events. This will be taken by a running coach.</p>
+<p>
+    The "Tuesday Running Group" with Katherine Camp (Rangi running coach), is every TUESDAY @ 7.20am outside the Rangi gym. The sessions cover long distance (off site) and sprint training (onsite).  Extra session can be organised for long/triple/high jump etc. Caters for beginners through to senior athletes.
+</p>
 <br>
 <p>You will need sports gear and there is no cost </p>
 <br>
-<h2 class="subtitle" id="signUp">Sign ups are closed check back towards term 2</h2>
+<h2 class="subtitle" id="signUp">Sign up <a href="https://forms.office.com/r/md7pVw1LF9">here</a></h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Mrs Sinclair</h2>
 

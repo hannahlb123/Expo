@@ -52,7 +52,7 @@
   Just turn up to as many meetings as you like, no sign up needed
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Evelyn Kuo and Isis Ward
+  Leader: Mia Cottrell-Bone and Kate Gourley
 </h2>
 <a href="/philosophy">
   <button id="previous" class="button is-light">Previous Page</button>

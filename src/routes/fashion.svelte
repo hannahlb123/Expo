@@ -32,17 +32,13 @@
   
   <h1 class="title">Fashion Club</h1>
   <h2 class="subtitle" id="when">When: Tuesday Lunchtimes</h2>
-  <h2 class="subtitle" id="where">Where: Textiles room</h2>
+  <h2 class="subtitle" id="where">Where: Textiles roomn (X03)</h2>
   <p>
-   Philosophy Club is a well-renowned Rangi Club, meeting once a week and have discussions/debates on Social Issues, Philosophical ideas and general topics. Our club has previously been known as a Club to join for heated discussions, although passionate discussions are important to us we aim to keep a safe and considerate environment in 2021.
-  </p>
-  <br />
-  <p>
-    You need to be keen to contribute to discussions contributively, and non-argumentatively. 
+   In Fashion Club we learn about the fashion industry, fashion history, discuss runway shows and designers, sketch designs and more! We meet every Tuesday lunchtime in the Textiles room (X03). 
   </p>
   <br />
   <h2 class="subtitle" id="signUp">
-    Just show up to any sessions you want
+    Everyone is welcome, no sign up required - just turn up.
   </h2>
   <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
     Leader: Isobel Melhuish and Sadie Lee

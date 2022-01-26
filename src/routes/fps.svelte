@@ -55,7 +55,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Isis Ward
+  Leader: TBC
 </h2>
 <a href="/environmentClub">
   <button id="previous" class="button is-light">Previous Page</button>

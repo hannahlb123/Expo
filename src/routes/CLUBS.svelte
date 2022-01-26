@@ -73,4 +73,7 @@
   <a href="/techAngels">
     <button id="gold">Tech Angels</button>
   </a>
+  <a href="/fashion">
+    <button id="blue">Fashion Club</button>
+  </a>
 </div>
