@@ -1,10 +1,18 @@
 <style>
-    button {
+    button{
       margin: 5px;
-      height: 40px;
-      width: 180px;
+      width: 230px;
+      height: 300px;
+      font-size: 18px;
+      font-weight: 500 !important;
       color: #4c4c4c !important;
+      border-radius: 10px;
     }
+    button:hover {
+      transition-duration: 0.9s;
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+        0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    } 
     h1 {
       text-align: center;
       font-size: 50px;
@@ -36,7 +44,7 @@
   <div id="buttons">
     <h1 class="title">Music</h1>
     <h2 class="subtitle" style="text-align: center;">Pūoro</h2>
-    <a href="/chamber">
+    <!-- <a href="/chamber">
       <button id="blue">Chamber Music</button>
     </a>
     <a href="/jazzBand">
@@ -59,6 +67,14 @@
     </a>
     <a href="/rockBand">
       <button id="gold">Rock Band</button>
+    </a> -->
+    <a href="https://rangiruruschool-my.sharepoint.com/:b:/g/personal/berrill_h_rangiruru_school_nz/Ea1Za0rNMghDtUvgTA15ATMBVrhHVcfLTw5CKXwORaQOmQ?e=c2qOkC">
+      <button id="blue">Music Groups</button>
+    <a href="https://rangiruruschool-my.sharepoint.com/:b:/g/personal/berrill_h_rangiruru_school_nz/EaXVdGqOK15CvtxnBw548wgBamGpI94d-53JCO0_WzxT6Q?e=xGufhr">
+      <button id="gold">Itinerant Music Lessons</button>
     </a>
+    <a href="https://rangiruruschool-my.sharepoint.com/:b:/g/personal/berrill_h_rangiruru_school_nz/EUQICnUi52FArynYrnLAixMBlbviFl69w2NHIldkqXw4GA?e=nji64K">
+      <button id="blue">Itinerant Music Staff</button>
+   
   </div>
   

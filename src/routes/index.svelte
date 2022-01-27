@@ -34,10 +34,7 @@
 <p>To sign up for term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
 <br>
 <br> 
-<p>To sign up for music groups 2022 click <a href="">here.</a></p>
-<br>
-<br> 
-<p>To sign up for itenerant music lessons 2022 click <a href="">here.</a></p>
+<p>To sign up for music groups 2022 click <a href="https://forms.office.com/pages/responsepage.aspx?id=2uSr4UrrGkOh5f81ZvbCeDoD3jWkZWRPuY3RcFt6hK5URTlXUkRLTTdRMEhNMzFSN0JEOUZCWVQwUy4u">here.</a></p>
 <br>
 <br> 
 <p>To sign up for clubs 2022 click <a href="">here.</a></p>
