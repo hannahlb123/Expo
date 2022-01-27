@@ -16,14 +16,14 @@
   p{
     color: white;
     line-height: 100px;
-    width: 80px;
+    width: auto;
     text-align: center;
   }
   .navbar-item{
     width: auto;
     text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
   a:hover{
     background-color: #a1cdee;
@@ -47,7 +47,7 @@
       <p>Activites</p>
     </a>
     <a class="navbar-item" class:is-active={segment === 'MUSIC'} href="MUSIC">
-      <p>Music</p>
+      <p>Music and Speech & Drama</p>
     </a>
 	  <a class="navbar-item" class:is-active={segment === 'ARTS'} href="ARTS">
       <p>Arts</p>
