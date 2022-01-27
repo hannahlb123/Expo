@@ -28,18 +28,7 @@
 <br />
 <br />
 
-<p>To sign up for summer sports 2022 click <a href="https://forms.office.com/r/bEJ4vr5Pft">here.</a></p>
-<br>
-<br>
-<p>To sign up for term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
-<br>
-<br> 
-<p>To sign up for music groups 2022 click <a href="https://forms.office.com/pages/responsepage.aspx?id=2uSr4UrrGkOh5f81ZvbCeDoD3jWkZWRPuY3RcFt6hK5URTlXUkRLTTdRMEhNMzFSN0JEOUZCWVQwUy4u">here.</a></p>
-<br>
-<br> 
-<p>To sign up for clubs 2022 click <a href="">here.</a></p>
-<br>
-<br> 
+
 <div id="nav">
   <a href="/SPORTS">
     <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF; ">
@@ -76,3 +65,22 @@
     </button> 
   </a>
 </div>
+
+<p>To sign up for summer sports 2022 click <a href="https://forms.office.com/r/bEJ4vr5Pft">here.</a></p>
+<br>
+<br>
+<p>To sign up for term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
+<br>
+<br> 
+<p>To sign up for instrumental music groups 2022 click <a href="https://forms.office.com/pages/responsepage.aspx?id=2uSr4UrrGkOh5f81ZvbCeDoD3jWkZWRPuY3RcFt6hK5URTlXUkRLTTdRMEhNMzFSN0JEOUZCWVQwUy4u">here.</a></p>
+<br>
+<br> 
+<p>To sign up for Rangi Voices auditions (Years 7-10) click <a href="https://outlook.office365.com/owa/calendar/RangiVoicesAuditions@rangiruru.school.nz/bookings/s/BMhoaNrWFUCbPKwNYcUoEw2">here.</a></p>
+<br>
+<br> 
+<p>To sign up for Resolutions auditions (Years 11-13) click <a href="https://outlook.office365.com/owa/calendar/ResolutionsAuditions@rangiruru.school.nz/bookings/s/YnbDi3Qx2UKeC_LSOSyWwQ2">here.</a></p>
+<br>
+<br> 
+<p>To sign up for clubs 2022 click <a href="">here.</a></p>
+<br>
+<br> 
