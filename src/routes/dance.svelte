@@ -51,11 +51,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Sign up to audition
-  <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u"
-    target="_blank">
-    here
+  Sign up <a href="" target="_blank"> here </a>
   </a>
   . Auditions take place in the first two weeks of term 1.
 </h2>

@@ -36,6 +36,10 @@
 <div id="buttons">
   <h1 class="title">Arts & Kapa Haka</h1>
   <h2 class="subtitle" style="text-align: center;">Toi Whaari</h2>
+
+  <p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u&sharetoken=G7awyTqiGAqAtqdaDjv8">here.</a></p>
+<br>
+<br> 
   <a href="/art">
     <button id="gold">Art Extension Club</button>
   </a>

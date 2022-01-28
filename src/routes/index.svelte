@@ -81,6 +81,6 @@
 <p>To sign up for Resolutions auditions (Years 11-13) click <a href="https://outlook.office365.com/owa/calendar/ResolutionsAuditions@rangiruru.school.nz/bookings/s/YnbDi3Qx2UKeC_LSOSyWwQ2">here.</a></p>
 <br>
 <br> 
-<p>To sign up for clubs 2022 click <a href="">here.</a></p>
+<p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u&sharetoken=G7awyTqiGAqAtqdaDjv8">here.</a></p>
 <br>
 <br> 

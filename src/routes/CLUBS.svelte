@@ -38,6 +38,9 @@
 <div id="buttons">
   <h1 class="title">Clubs</h1>
   <h2 class="subtitle" style="text-align: center;">Karapu</h2>
+  <p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u&sharetoken=G7awyTqiGAqAtqdaDjv8">here.</a></p>
+<br>
+<br> 
   <a href="/chapel">
     <button id="gold">Chapel Committee</button>
   </a>
@@ -53,21 +56,21 @@
   <a href="/environmentClub">
     <button id="gold">Environment Club</button>
   </a>
-  <a href="/fps">
+  <!-- <a href="/fps">
     <button id="blue">Future Problem Solving</button>
-  </a>
+  </a> -->
   <a href="/bookclub">
-    <button id="gold">Junior Bookclub</button>
+    <button id="blue">Junior Bookclub</button>
   </a>
   <a href="/philosophy">
-    <button id="blue">Philosophy Club</button>
+    <button id="gold">Philosophy Club</button>
   </a>
   <a href="/rainbowRangi">
-    <button id="gold">Rainbow Rangi</button>
+    <button id="blue">Rainbow Rangi</button>
   </a>
-  <a href="/robotics">
+  <!-- <a href="/robotics">
     <button id="blue">Robotics</button>
-  </a>
+  </a> -->
   <a href="/library">
     <button id="gold">Student Library Team</button>
   </a>

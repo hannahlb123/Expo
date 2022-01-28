@@ -68,7 +68,7 @@
   No sign up needed, just show up to whatever sessions you like
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Emma Ffowcs Williams
+  Leader: Alice Gambrill
 </h2>
 <br />
 <a href="/maths">
