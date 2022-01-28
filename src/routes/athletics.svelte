@@ -54,6 +54,7 @@
 </p>
 <br />
 <h2 class="subtitle" id="signUp">
+  Sign up
   <a
     href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">

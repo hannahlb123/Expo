@@ -40,6 +40,6 @@ h2, p {
   <a href="/SPORTS">
     <button id="back" class="button is-light">Sports Page</button>
   </a>
-  <a href="/7&8cycling">
+  <a href="/7&8fencing">
     <button id="next" class="button is-light">Next Page</button>
   </a>

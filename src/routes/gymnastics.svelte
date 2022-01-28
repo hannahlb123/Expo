@@ -46,7 +46,7 @@
   so you have to be doing club gymnastics outside of school.</b>
 </p>
 <br />
-<h2 class="subtitle" id="signUp">Contact Ms Anderson to join</h2>
+<h2 class="subtitle" id="signUp">Contact Ms Brooks to join</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Ms Brooks
 </h2>

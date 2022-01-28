@@ -51,7 +51,7 @@ Rugby 7's is tournament based so locations vary.</h2>
 </p>
 <br />
 
-<h2 class="subtitle" id="signUp">Sign ups are currently closed, sign up at the beginning of the year</h2>
+<h2 class="subtitle" id="signUp">Sign ups are currently closed. More info will come out when you are able to sign up for this.</h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
   Leader: Miss Hopcroft
 </h2>

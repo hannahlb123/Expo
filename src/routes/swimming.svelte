@@ -42,14 +42,14 @@
 <br />
 <p>
   You will need your own togs, goggles and cap. The cost is $5 per sessions
-  attended, and the entry fee for competitions. Swimmers who wish to enter NZSS Swimming Champs/NAGs can do so.
+  attended, and the entry fee for competitions. Swimmers who wish to enter NZSS Swimming Champs/NAGs can do so. You must by able to swim 40lenghts/1km - this doens't need to be non-stop- but during the course of the session.
 </p>
 <br />
 
 <h2 id="signUp" class="subtitle">
   Sign up
   <a
-    href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeJSHZ5d5zjdLnGCHVrKe2LtUQTRHTEdNUVY3T0VBV1IyQVFaOVA2U0tXNS4u"
+    href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>

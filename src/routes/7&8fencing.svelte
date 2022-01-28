@@ -57,7 +57,7 @@
   <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
     Leader: Mrs Sinclair
   </h2>
-  <a href="/7&8cycling">
+  <a href="/7&8baketball">
     <button id="previous" class="button is-light">Previous Page</button>
   </a>
   <a href="/SPORTS">

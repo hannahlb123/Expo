@@ -176,35 +176,35 @@
 <a href="/7&8basketball">
     <button id="blue">7/8 Basketball</button>
   </a>
-  <a href="/7&8cycling">
+  <!-- <a href="/7&8cycling">
     <button id="gold">7/8 Cycling</button>
-  </a>
+  </a> -->
   <a href="/7&8fencing">
-    <button id="blue">7/8 Fencing</button>
+    <button id="gold">7/8 Fencing</button>
   </a>
   <a href="/7&8equestrian">
-    <button id="gold">7/8 Equestrian</button>
+    <button id="blue">7/8 Equestrian</button>
   </a>
   <a href="/7&8metafit">
-    <button id="blue">7/8 Metafit</button>
+    <button id="gold">7/8 Metafit</button>
   </a>
   <a href="/7&8running">
-    <button id="gold">7/8 Running Training</button>
+    <button id="blue">7/8 Running Training</button>
   </a>
   <a href="/7&8surfing">
-    <button id="blue">7/8 Surfing</button>
+    <button id="gold">7/8 Surfing</button>
   </a>
   <a href="7&8swimming">
-    <button id="gold">7/8 Swimming Training</button>
+    <button id="blue">7/8 Swimming Training</button>
   </a>
   <a href="/7&8tennis">
-    <button id="blue">7/8 Tennis Coaching</button>
+    <button id="gold">7/8 Tennis Coaching</button>
   </a>
   <a href="/7&8touch">
-    <button id="gold">7/8 Touch</button>
+    <button id="blue">7/8 Touch</button>
   </a>
   <a href="/7&8waterpolo">
-    <button id="blue">7/8 Waterpolo</button>
+    <button id="gold">7/8 Waterpolo</button>
   </a>
 
   
