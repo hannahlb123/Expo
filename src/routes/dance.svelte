@@ -51,9 +51,7 @@
 <br />
 
 <h2 class="subtitle" id="signUp">
-  Sign up <a href="" target="_blank"> here </a>
-  </a>
-  . Auditions take place in the first two weeks of term 1.
+  Sign ups aren't open yet, more information will come out later in the term.
 </h2>
 <!--<h2 class="subtitle" id="signUp">Sign ups are currently closed</h2>-->
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">

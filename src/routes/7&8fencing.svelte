@@ -31,7 +31,7 @@
   </style>
   
   <h1 class="title">Fencing</h1>
-  <h2 class="subtitle" id="when">When: Thursdays 3:45pm-5pm, all year </h2>
+  <h2 class="subtitle" id="when">When: Thursdays time TBC, all year </h2>
   <h2 class="subtitle" id="where">Where: HKFC (school)</h2>
   <p>
     Fencing is a sport involving 3 different types of swords - foil, épée and

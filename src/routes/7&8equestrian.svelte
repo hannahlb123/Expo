@@ -40,11 +40,11 @@
   
 </h2>
 <p>
-  Learn to ride- Keen to learn to ride, or to improve your riding, and who do not have access to their own horses. Usually Tuesdays, but day TBC. COST. $70 weekly includes, coaching, horse hire and transport. Must commit to 6 weeks
+  <b>Learn to ride </b>- Keen to learn to ride, or to improve your riding, and who do not have access to their own horses. Usually Tuesdays, but day TBC. COST. $70 weekly includes, coaching, horse hire and transport. Must commit to 6 weeks
 <br><br>
-  Equestrian - You must have access to a horse. Individual or group lessons for dressage, jumping, show hunter. Cost dependent on coach and venue.
+  <b>Equestrian -</b> You must have access to a horse. Individual or group lessons for dressage, jumping, show hunter. Cost dependent on coach and venue.
   <br><br>
-  Polo - Learn to play Polo (own horse not required). Usually Thursdays but day TBC. COST $95 per week approx, including transport. Must commit to a full term of 6 weeks
+  <b>Polo -</b> Learn to play Polo (own horse not required). Usually Thursdays but day TBC. COST $95 per week approx, including transport. Must commit to a full term of 6 weeks
 </p>
 <br/>
 
@@ -58,7 +58,7 @@
   </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%); ">
-  Leader: Ms Anderson
+  Leader: Mrs Goldsmith
 </h2>
 <a href="/7&8fencing">
   <button id="previous" class="button is-light">Previous Page</button>

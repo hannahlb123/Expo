@@ -24,7 +24,7 @@ h2, p {
 </style>
 
 <h1 class="title">Year 7 & 8 Tennis Coaching</h1>
-<h2 class="subtitle" id="when">When: Friday afternoon</h2>
+<h2 class="subtitle" id="when">When: Thursday morning, 7:15am-8:30am</h2>
 <h2 class="subtitle" id="where">Where: School courts</h2>
 <p>Tennis is a summer sport where you hit a ball to the other side of the court with a racket.</p>
 <br>

@@ -183,7 +183,7 @@
     <button id="blue">7/8 Fencing</button>
   </a>
   <a href="/7&8equestrian">
-    <button id="gold">7/8 Horse Riding</button>
+    <button id="gold">7/8 Equestrian</button>
   </a>
   <a href="/7&8metafit">
     <button id="blue">7/8 Metafit</button>
