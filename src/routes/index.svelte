@@ -12,6 +12,7 @@
     font-weight: 500 !important;
     color: #4c4c4c !important;
     border-radius: 10px;
+    vertical-align: bottom;
   }
   button:hover {
     transition-duration: 0.9s;
@@ -53,7 +54,7 @@
   </a>
   <a href="/MUSIC">
     <button style="background-color: #FEE486; border: solid 10px #FEDF72; ">
-      <h1 class="title">Music</h1>
+      <h1 class="title">Music and Speech & Drama</h1>
       <br>
       <h2 class="subtitle">Pūoro</h2>
     </button>
@@ -61,6 +62,7 @@
   <a href="/ARTS">
     <button style="background-color: #D6EDFF; border: solid 10px #C2E4FF;">
     <h1 class="title">Arts & Kapa Haka</h1>
+    <br>
     <h2 class="subtitle">Toi Whakaari</h2>
     </button> 
   </a>
