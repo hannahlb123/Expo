@@ -37,7 +37,7 @@
 
 <h1 class="title">Sports</h1>
 <h2 class="subtitle" style="text-align: center;">Tākaro</h2>
-<h2 class="subtitle">Years 9-13</h2>
+<h2 class="subtitle"><b>Years 9-13</b></h2>
 <p>Most team sports offer a social option if you wish to enter your own team, please contact the staff member in charge.</p>
 
 <div id="9buttons">
@@ -153,25 +153,25 @@
     <button id="blue">Waterpolo</button>
   </a>
 </div>
-<h2 id="signUp" class="subtitle">
+<h3 id="signUp" class="subtitle">
   Sign up for summer sports
   <a
     href="https://forms.office.com/r/bEJ4vr5Pft"
     target="_blank">
     here
   </a>
-</h2>
-<h2 id="signUp" class="subtitle">
+</h3>
+<h3 id="signUp" class="subtitle">
   Sign up for term 1 winter sport trials (Netball, Basketball, Hockey & Football)
 <a
     href="https://forms.office.com/r/DY6Cs0mKsi"
     target="_blank">
     here
   </a>
-</h2>
+</h3>
 <br />
 <br />
-<h2 class="subtitle">Years 7 & 8</h2>
+<h2 class="subtitle"><b>Years 7 & 8</b></h2>
 <div id="7buttons">
 <a href="/7&8basketball">
     <button id="blue">7/8 Basketball</button>
@@ -209,3 +209,12 @@
 
   
 </div>
+<br>
+<h3 id="signUp" class="subtitle">
+  Sign up for year 7/8 sports
+  <a
+    href="https://forms.office.com/r/md7pVw1LF9"
+    target="_blank">
+    here
+  </a>
+</h3>
