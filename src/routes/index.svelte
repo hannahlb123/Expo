@@ -68,12 +68,15 @@
   </a>
 </div>
 
-<p>To sign up for summer sports 2022 click <a href="https://forms.office.com/r/bEJ4vr5Pft">here.</a></p>
+<p>To sign up for summer sports 2022 (Yr 9-13) click <a href="https://forms.office.com/r/bEJ4vr5Pft">here.</a></p>
 <br>
 <br>
-<p>To sign up for term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
+<p>To sign up for years 9-13 term 1 winter sport trials 2022 (Netball, Basketball, Hockey & Football) click <a href="https://forms.office.com/r/DY6Cs0mKsi">here.</a></p>
 <br>
 <br> 
+<p> To sign up for year 7/8 sports click <a href="https://forms.office.com/r/md7pVw1LF9" target="_blank">here</a></p>
+<br>
+<br>
 <p>To sign up for instrumental music groups 2022 click <a href="https://forms.office.com/pages/responsepage.aspx?id=2uSr4UrrGkOh5f81ZvbCeDoD3jWkZWRPuY3RcFt6hK5URTlXUkRLTTdRMEhNMzFSN0JEOUZCWVQwUy4u">here.</a></p>
 <br>
 <br> 
