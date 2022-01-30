@@ -44,43 +44,43 @@
   <a href="/chapel">
     <button id="gold">Chapel Committee</button>
   </a>
-  <a href="/creativeWriting">
+  <!-- <a href="/creativeWriting">
     <button id="blue">Creative Writing</button>
-  </a>
+  </a> -->
   <a href="/debating">
-    <button id="gold">Debating</button>
+    <button id="blue">Debating</button>
   </a>
   <a href="/dramaClub">
-    <button id="blue">Drama Club</button>
+    <button id="gold">Drama Club</button>
   </a>
   <a href="/environmentClub">
-    <button id="gold">Environment Club</button>
+    <button id="blue">Environment Club</button>
   </a>
   <!-- <a href="/fps">
     <button id="blue">Future Problem Solving</button>
   </a> -->
   <a href="/bookclub">
-    <button id="blue">Junior Bookclub</button>
+    <button id="gold">Junior Bookclub</button>
   </a>
   <a href="/philosophy">
-    <button id="gold">Philosophy Club</button>
+    <button id="blue">Philosophy Club</button>
   </a>
   <a href="/rainbowRangi">
-    <button id="blue">Rainbow Rangi</button>
+    <button id="gold">Rainbow Rangi</button>
   </a>
   <!-- <a href="/robotics">
     <button id="blue">Robotics</button>
   </a> -->
   <a href="/library">
-    <button id="gold">Student Library Team</button>
+    <button id="blue">Student Library Team</button>
   </a>
   <a href="/stageAngels">
-    <button id="blue">Stage Angels</button>
+    <button id="gold">Stage Angels</button>
   </a>
   <a href="/techAngels">
-    <button id="gold">Tech Angels</button>
+    <button id="blue">Tech Angels</button>
   </a>
   <a href="/fashion">
-    <button id="blue">Fashion Club</button>
+    <button id="gold">Fashion Club</button>
   </a>
 </div>
