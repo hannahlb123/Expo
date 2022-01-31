@@ -38,7 +38,7 @@
 <div id="buttons">
   <h1 class="title">Clubs</h1>
   <h2 class="subtitle" style="text-align: center;">Karapu</h2>
-  <p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u&sharetoken=G7awyTqiGAqAtqdaDjv8">here.</a></p>
+  <p>To sign up for clubs 2022 click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u">here.</a></p>
 <br>
 <br> 
   <a href="/chapel">

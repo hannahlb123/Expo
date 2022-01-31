@@ -30,7 +30,7 @@ h2, p {
 <p></p>
 <br>
 <h2 class="subtitle" id="signUp"> 
-    Sign up <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u&sharetoken=G7awyTqiGAqAtqdaDjv8" target="_blank"> here </a>
+    Sign up <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2uSr4UrrGkOh5f81ZvbCeBujwxIAs8hPjalG5ESSDfdUMElIWUJWUkFEUjdGNUpIWVA3RFVOR0UwMS4u" target="_blank"> here </a>
 </h2>
 <h2 class="subtitle" id="leader" style=" color: hsl(48, 100%, 67%);
 ">Leader: Ms Dyer</h2>
