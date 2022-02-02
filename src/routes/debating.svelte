@@ -36,14 +36,9 @@
 <h2 class="subtitle" id="when">
   When: Once a week during terms 1-3 and competition evenings three times a term
 </h2>
-<h2 class="subtitle" id="where">Where: Mr Sloss's room (Mana wahine)</h2>
+<h2 class="subtitle" id="where">Where: Ms Allely's room (E5)</h2>
 <p>
-  Year 9-13 can join. The debating competition involves six rounds spread across
-  terms 1-3. It involves a Thursday evening every few weeks and a lunchtime get
-  together to learn debating skills during the season. Teams compete in
-  different experience levels - Novice, Junior and Senior. There are
-  opportunities to compete in the Junior and Senior Regionals; Ngā Kete for Year
-  9-10; the impromptu competition and the season finals.
+  Year 9-13 can join. The debating competition involves six rounds spread across terms 1-3. It involves a Thursday evening every second week and an after school get together to learn debating skills during the season. Teams compete in different experience levels - Novice, Junior and Senior. There are opportunities to compete in the Junior and Senior Regionals; Ngā Kete for Year 9-10; the impromptu competition and the season finals.
 </p>
 <br />
 
