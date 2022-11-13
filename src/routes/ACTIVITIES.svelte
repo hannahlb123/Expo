@@ -35,7 +35,7 @@
   }
 </style>
 
-<h1 class="title">Activites </h1>
+<h1 class="title">Activites --</h1>
 <h2 class="subtitle" style="text-align: center;">Mahi</h2>
 <div id="buttons">
 <a href="/maths">
